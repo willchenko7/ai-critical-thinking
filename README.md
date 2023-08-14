@@ -67,3 +67,14 @@ prompt = "Expand B: B(x - y - z) = A -->"
 Result = "Expand B: B(x - y - z) = A --> Bx - Bz - By = A"
 ```
 <div align="center"><b>Correct result!</b></div>
+
+
+## Next Steps:
+1. Once a problem is solved, what is the best way  to incorporate it into the training data? Will just the one example be enough? If not, how to generate more examples similar to the original?
+
+2. How to let the model continue expanding it's current knowledge?
+
+3. Incorporate english text in the training data
+
+
+Ultimately, the goal would be for this model to continue expanding its current knowledge state and solve challenging problems in the realm of science and engineering.

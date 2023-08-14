@@ -36,7 +36,7 @@ prompt = "Expand B: B(x - y) = A -->"
 Result = "Expand B: B(x - y) = A --> Bx - By = A"
 ```
 
-<b>Correct result.</b>
+<div align="center"><b>Correct result.</b></div>
 
 #### Ex 2 (just outside training set): 
 ```
@@ -45,9 +45,7 @@ prompt = "Expand B: B(x - y - z) = A -->"
 ```
 Result = "Expand B: B(x - y - z) = A --> Bx - By = A"
 ```
-```
-<b>Incorrect result</b>
-```
+<div align="center"><b>Incorrect result.</b></div>
 
 ## With RLSF 
 (src/test_model.py)
@@ -59,9 +57,7 @@ prompt = "Expand B: B(x - y) = A -->"
 ```
 Result = "Expand B: B(x - y) = A --> Bx - By = A"
 ```
-```
-<b>Correct result.</b>
-```
+<div align="center"><b>Correct result.</b></div>
 
 #### Ex 2 (just outside training set): 
 ```
@@ -70,6 +66,4 @@ prompt = "Expand B: B(x - y - z) = A -->"
 ```
 Result = "Expand B: B(x - y - z) = A --> Bx - Bz - By = A"
 ```
-```
-<b>Correct result!</b>
-```
+<div align="center"><b>Correct result!</b></div>

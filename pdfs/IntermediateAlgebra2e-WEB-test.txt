@@ -1,0 +1,900 @@
+Practice Mak es Perfect
+Simplify Expr essions with Absolute V alue
+In the following ex ercises, fill in <,>,or=for each of the following pairs of numbers.
+59.
+ⓐ|−7|___−|−7|
+ⓑ6___−|−6|
+ⓒ|−11|___−11
+ⓓ−(−13)___−|−13|60.
+ⓐ−|−9|___|−9|
+ⓑ−8___|−8|
+ⓒ|−1|___−1
+ⓓ−(−14)___−|−14|61.
+ⓐ−|2|___−|−2|
+ⓑ−12___−|−12|
+ⓒ|−3|___−3
+ⓓ|−19|___−(−19)
+62.
+ⓐ−|−4|___−|4|
+ⓑ5___−|−5|
+ⓒ−|−10|___−10
+ⓓ−|−0|___−(−0)
+In the following ex ercises, simplify.
+63.|15−7|−|14−6| 64. |17−8|−|13−4| 65.18−|2(8−3)|
+66. 15−|3(8−5)| 67. 18−|12−4(4−1)+3| 68. 27−|19+4(3−1)−7|
+69. 10−3|9−3(3−1)| 70. 13−2|11−2(5−2)|
+Add and Subtr act Integers
+In the following ex ercises, simplify each expr ession.
+71.
+ⓐ−7+(−4)
+ⓑ−7+4
+ⓒ7+(−4).72.
+ⓐ−5+(−9)
+ⓑ−5+9
+ⓒ5+(−9)73.48+(−16 )
+74. 34+(−19 ) 75.−14 +(−12 )+4 76. −17 +(−18 )+6
+77.19+2(−3+8) 78.24+3(−5+9) 79.
+ⓐ13−7
+ⓑ−13−(−7)
+ⓒ−13−7
+ⓓ13−(−7)
+1.2 EXERCISESChapter 1 Foundations 3980.
+ⓐ15−8
+ⓑ−15−(−8)
+ⓒ−15−8
+ⓓ15−(−8)81.−17 −42 82. −58 −(−67 )
+83.−14 −(−27 )+9 84. 64+(−17 )−985.ⓐ44−28ⓑ44+(−28)
+86.ⓐ35−16ⓑ35+(−16) 87.ⓐ27−(−18)ⓑ27+18 88.ⓐ46−(−37)ⓑ46+37
+89. (2−7)−(3−8) 90. (1−8)−(2−9) 91.−(6−8)−(2−4)
+92. −(4−5)−(7−8) 93. 25−⎡⎣10−(3−12)⎤⎦ 94. 32−⎡⎣5−(15−20)⎤⎦
+Multiply and Divide Integers
+In the following ex ercises, multiply or divide .
+95.
+ⓐ−4·8
+ⓑ13(−5)
+ⓒ−24÷6
+ⓓ−52÷(−4)96.
+ⓐ−3·9
+ⓑ9(−7)
+ⓒ35÷(−7)
+ⓓ−84÷(−6)
+97.
+ⓐ−28÷7
+ⓑ−180 ÷15
+ⓒ3(−13)
+ⓓ−1(−14)98.
+ⓐ−36÷4
+ⓑ−192 ÷12
+ⓒ9(−7)
+ⓓ−1(−19)
+Simplify and Evaluate Expr essions with Integers
+In the following ex ercises, simplify each expr ession.
+99.ⓐ(−2)6ⓑ−26100. ⓐ(−3)5ⓑ−35 101. 5(−6)+7(−2)−3
+102. 8(−4)+5(−4)−6 103. −3(−5)(6) 104. −4(−6)(3)
+105. (8−11)(9−12) 106. (6−11)(8−13) 107. 26−3(2−7)
+108. 23−2(4−6) 109. 65÷(−5)+(−28 )÷(−7) 110. 52÷(−4)+(−32 )÷(−8)
+111. 9−2⎡⎣3−8(−2)⎤⎦ 112. 11−3⎡⎣7−4(−2)⎤⎦ 113. 8−|2−4(4−1)+3|
+114. 7−|5−3(4−1)−6| 115. 9−3|2(2−6)−(3−7)| 116. 5−2|2(1−4)−(2−5)|
+117. (−3)2−24÷(8−2) 118. (−4)2−32÷(12−4)40 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3In the following ex ercises, evaluate each expr ession.
+119. y+(−14 )when
+ⓐy=−33ⓑy=30120. x+(−21 )when
+ⓐx=−27ⓑx=44121. (x+y)2when
+x=−3,y=14
+122. (y+z)2when
+y=−3,z=15123. 9a−2b−8when
+a=−6and b=−3124. 7m−4n−2when
+m=−4and n=−9
+125. 3x2−4xy+2y2when
+x=−2,y=−3126. 4x2−xy+3y2when
+x=−3,y=−2
+Translate English Phr ases to Algebr aic Expr essions
+In the following ex ercises, translate to an algebraic expr ession and simplify if possible .
+127. the sum of3and −15 ,
+increased b y 7128. the sum of−8 and −9,
+increased b y23129.
+ⓐthe differ ence of 10and −18
+ⓑsubtr act11from −25
+130.
+ⓐthe differ ence of −5and −30
+ⓑsubtr act−6from −13131. the quotient of−6 and the
+sum of aand b132. theproduct of−13 and the
+differ ence of cand d
+Use Integers in Applications
+In the following ex ercises, solve .
+133. Temper atur eOnJanuary 15,thehigh temper atur e
+inAnaheim, California, was 84°. That same day, the
+high temper atur einEmbarr ass, Minnesota, was
+−12°.What was the differ ence between the
+temper atur einAnaheim and the temper atur ein
+Embarr ass?134. Temper atur eOn January 21, the high
+temper atur einPalm Springs, California, was 89°,
+and the high temper atur einWhitefield, New
+Hampshir e,was −31°.What was the differ ence
+between the temper atur einPalm Springs and the
+temper atur e in Whitefield?
+135. Football Onthefirst down, theChar gers had the
+ball ontheir 25-yar dline. Theylost 6yardsonthefirst-
+downplay, gained 10yardsonthesecond-do wnplay,
+and lost 8yardsonthethird-do wnplay. What was the
+yard line at the end of the thir d-do wn play?136. Football Onfirst down, theSteelers had theball
+ontheir 30-yar dline. Theygained 9yardsonthefirst-
+downplay, lost 14yardsonthesecond-do wnplay, and
+lost 2yardsonthethird-do wnplay. What was theyard
+line at the end of the thir d-do wn play?
+137. Checking Account Mayr ahas$124 inherchecking
+account. She writes acheck for$152. What isthenew
+balance in her checking account?138. Checking Account Reymonte has abalance of
+−$49inhischecking account. Hedeposits $281 tothe
+account. What is the ne w balance?
+Writing Ex ercises
+139. Explain why thesum of−8 and 2isnegative, but
+the sum of 8 and −2is positive.140. Give anexample from your life experience of
+adding two negative numbers.
+141. Inyour ownwords,state therules formultiplying
+and dividing integers.142. Why is −43=(−4)3?Chapter 1 Foundations 41Practice Mak es Perfect
+Simplify Fr actions
+In the following ex ercises, simplify.
+143. −108
+63144. −104
+48145.120
+252
+146.182
+294147.14x2
+21y148.24a
+32b2
+149. −210a2
+110b2150. −30x2
+105 y2
+Multiply and Divide Fr actions
+In the following ex ercises, perform the indicated operation.
+151. −3
+4⎛
+⎝−4
+9⎞
+⎠152. −3
+8·4
+15153.⎛
+⎝−14
+15⎞
+⎠⎛
+⎝9
+20⎞
+⎠
+154.⎛
+⎝−9
+10⎞
+⎠⎛
+⎝25
+33⎞
+⎠155.⎛
+⎝−63
+84⎞
+⎠⎛
+⎝−44
+90⎞
+⎠156.⎛
+⎝−33
+60⎞
+⎠⎛
+⎝−40
+88⎞
+⎠
+157.3
+7·21n 158.5
+6·30m 159.3
+4÷x
+11
+160.2
+5÷y
+9161.5
+18÷⎛
+⎝−15
+24⎞
+⎠162.7
+18÷⎛
+⎝−14
+27⎞
+⎠
+163.8u
+15÷12v
+25164.12r
+25÷18s
+35165.3
+4÷(−12 )
+166. −15 ÷⎛
+⎝−5
+3⎞
+⎠
+In the following ex ercises, simplify.
+167.−8
+21
+12
+35168.−9
+16
+33
+40169.−4
+5
+2
+170.5
+3
+10171.m
+3n
+2172.−3
+8
+−y
+12
+Add and Subtr act Fr actions
+In the following ex ercises, add or subtract.
+173.7
+12+5
+8174.5
+12+3
+8175.7
+12−9
+16
+176.7
+16−5
+12177. −13
+30+25
+42178. −23
+30+5
+48
+1.3 EXERCISES54 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3179. −39
+56−22
+35180. −33
+49−18
+35181. −2
+3−⎛
+⎝−3
+4⎞
+⎠
+182. −3
+4−⎛
+⎝−4
+5⎞
+⎠183.x
+3+1
+4184.x
+5−1
+4
+185.
+ⓐ23+16
+ⓑ23÷16186.
+ⓐ−25−18
+ⓑ−25·18187.
+ⓐ5n6÷815
+ⓑ5n6−815
+188.
+ⓐ3a8÷712
+ⓑ3a8−712189.
+ⓐ−4x9−56
+ⓑ−4k9·56190.
+ⓐ−3y
+8−43
+ⓑ−3y
+8·43
+191.
+ⓐ−5a3+⎛⎝−106⎞⎠
+ⓑ−5a3÷⎛⎝−106⎞⎠192.
+ⓐ2b5+815
+ⓑ2b5÷815
+Use the Or der of Oper ations to Simplify Fr actions
+In the following ex ercises, simplify.
+193.5·6−3·4
+4·5−2·3194.8·9−7·6
+5·6−9·2195.52−32
+3−5
+196.62−42
+4−6197.7·4−2(8−5)
+9·3−3·5198.9·7−3(12−8)
+8·7−6·6
+199.9(8−2)−3(15−7)
+6(7−1)−3(17−9)200.8(9−2)−4(14−9)
+7(8−3)−3(16−9)201.23+42
+⎛
+⎝2
+3⎞
+⎠2
+202.33−32
+⎛
+⎝3
+4⎞
+⎠2203.⎛
+⎝3
+5⎞
+⎠2
+⎛
+⎝3
+7⎞
+⎠2204.⎛
+⎝3
+4⎞
+⎠2
+⎛
+⎝5
+8⎞
+⎠2
+205.2
+1
+3+1
+5206.5
+1
+4+1
+3207.7
+8−2
+3
+1
+2+3
+8
+208.3
+4−3
+5
+1
+4+2
+5
+Mixed Pr actice
+In the following ex ercises, simplify.
+209. −3
+8÷⎛
+⎝−3
+10⎞
+⎠210. −3
+12÷⎛
+⎝−5
+9⎞
+⎠211. −3
+8+5
+12Chapter 1 Foundations 55212. −1
+8+7
+12213. −7
+15−y
+4214. −3
+8−x
+11
+215.11
+12a·9a
+16216.10y
+13·8
+15y217.1
+2+2
+3·5
+12
+218.1
+3+2
+5·3
+4219. 1−3
+5÷1
+10220. 1−5
+6÷1
+12
+221.3
+8−1
+6+3
+4222.2
+5+5
+8−3
+4223. 12⎛
+⎝9
+20−4
+15⎞
+⎠
+224. 8⎛
+⎝15
+16−5
+6⎞
+⎠225.5
+8+1
+6
+19
+24226.1
+6+3
+10
+14
+30
+227.⎛
+⎝5
+9+1
+6⎞
+⎠÷⎛
+⎝2
+3−1
+2⎞
+⎠228.⎛
+⎝3
+4+1
+6⎞
+⎠÷⎛
+⎝5
+8−1
+3⎞
+⎠
+Evaluate V ariable Expr essions with Fr actions
+In the following ex ercises, evaluate .
+229.7
+10−wwhen
+ⓐw=12ⓑw=−12230.5
+12−wwhen
+ⓐw=14ⓑw=−14231. 2x2y3when
+x=−2
+3and y=−1
+2
+232. 8u2v3when
+u=−3
+4and v=−1
+2233.a+b
+a−bwhen
+a=−3,b=8234.r−s
+r+swhen
+r=10,s=−5
+Writing Ex ercises
+235. Why doyou need acommon denominator toadd
+or subtr act fr actions? Explain.236. How do you find the L CD of 2 fr actions?
+237. Explain ho w you find the r ecipr ocal of a fr action. 238. Explain howyou find therecipr ocal ofanegative
+number.
+Self Check
+ⓐAfter completing the ex ercises, use this checklist to evaluate your mastery of the objectives of this section.
+ⓑWhat does this checklist tell you about your mastery of this section? What steps will you tak e to impr ove?56 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3Practice Mak es Perfect
+Round Decimals
+In the following ex ercises, r ound each number to the near estⓐhundr edth ⓑtenth ⓒwhole number.
+239. 5.781 240. 1.638 241. 0.299
+242. 0.697 243. 63.479 244. 84.281
+Add and Subtr act Decimals
+In the following ex ercises, add or subtract.
+245. −16.53 −24.38 246. −19.47 −32.58 247. −38.69 +31.47
+248. −29.83 +19.76 249. 72.5 −100 250. 86.2 −100
+251. 91.75 −(−10.462 ) 252. 94.69 −(−12.678 ) 253. 55.01 −3.7
+254. 59.08 −4.6 255. 2.51 −7.4 256. 3.84 −6.1
+Multiply and Divide Decimals
+In the following ex ercises, multiply.
+257.⎛⎝94.69 )(−12.678 ) 258. (−8.5 )(1.69 ) 259. (−5.18 )(−65.23 )
+260. (−9.16 )(−68.34 ) 261. (0.06 )(21.75 ) 262. (0.08 )(52.45 )
+263. (9.24 )(10) 264. (6.531 )(10) 265. (0.025 )(100)
+266. (0.037 )(100) 267. (55.2 )(1000 ) 268. (99.4 )(1000 )
+In the following ex ercises, divide . Round money monetary answers to the near est cent.
+269. $117.25 ÷48 270. $109.24 ÷36 271. 1.44 ÷(−0.3 )
+272. −1.15 ÷(−0.05 ) 273. 5.2 ÷2.5 274. 14÷0.35
+Convert Decimals, Fr actions and Per cents
+In the following ex ercises, write each decimal as a fraction.
+275. 0.04 276. 1.464 277. 0.095
+278. −0.375
+In the following ex ercises, convert each fraction to a decimal.
+279.17
+20280.17
+4281. −310
+25
+282. −18
+11
+1.4 EXERCISESChapter 1 Foundations 71In the following ex ercises, convert each per cent to a decimal.
+283. 71% 284. 150% 285. 39.3 %
+286. 7.8%
+In the following ex ercises, convert each decimal to a per cent.
+287. 1.56 288. 3 289. 0.0625
+290. 2.254
+Simplify Expr essions with Squar e Roots
+In the following ex ercises, simplify.
+291. 64 292. 169 293. 144
+294. −4 295. −100 296. −121
+Identify Integers, Rational Numbers, Irr ational Numbers, and Real Numbers
+Inthefollowing exercises, listtheⓐwhole numbers, ⓑintegers, ⓒrational numbers, ⓓirrational numbers, ⓔrealnumbers
+for each set of numbers.
+297.
+−8,0,1.95286... ,12
+5,36,9298.
+−9,−34
+9,−9,0.4 09—
+,11
+6,7299.
+−100,−7,−8
+3,−1,0.77 ,31
+4
+300.
+−6,−5
+2,0,0.714285———
+,21
+5,14
+Locate Fr actions and Decimals on the Number Line
+In the following ex ercises, locate the numbers on a number line .
+301.3
+10,7
+2,11
+6,4 302.7
+10,5
+2,13
+8,3 303.3
+4,−3
+4,12
+3,−12
+3,5
+2,−5
+2
+304.2
+5,−2
+5,13
+4,−13
+4,8
+3,−8
+3305. ⓐ0.8ⓑ−1.25 306. ⓐ−0.9 ⓑ−2.75
+307. ⓐ−1.6 ⓑ3.25 308. ⓐ3.1ⓑ−3.65
+Writing Ex ercises
+309. Howdoes knowing about U.S. mone yhelp you
+learn about decimals?310. When theSzetos sold their home, theselling price
+was 500% ofwhat theyhad paid forthehouse 30years
+ago. Explain what 500% means in this conte xt.
+311. Inyour ownwords,explain thediffer ence between
+a rational number and an irr ational number.312. Explain howthesets ofnumbers (counting, whole,
+integer, rational, irrationals, reals) arerelated toeach
+other.72 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3Practice Mak es Perfect
+Use the Commutative and Associative Pr operties
+In the following ex ercises, simplify.
+313. 43m+(−12 n)+(−16 m)+(−9n) 314. −22 p+17q+⎛⎝−35 p⎞⎠+⎛⎝−27 q⎞⎠
+315.3
+8g+1
+12h+7
+8g+5
+12h 316.5
+6a+3
+10b+1
+6a+9
+10b
+317. 6.8p+9.14 q+⎛⎝−4.37 p⎞⎠+⎛⎝−0.88 q⎞⎠ 318. 9.6m+7.22 n+(−2.19 m)+(−0.65 n)
+319. −24 ·7·3
+8320. −36 ·11·4
+9
+321.⎛
+⎝5
+6+8
+15⎞
+⎠+7
+15322.⎛
+⎝11
+12+4
+9⎞
+⎠+5
+9
+323. 17(0.25 )(4) 324. 36(0.2)(5)
+325.⎡⎣2.48 (12)⎤⎦(0.5) 326.⎡⎣9.731 (4)⎤⎦(0.75 )
+327. 12⎛
+⎝5
+6p⎞
+⎠328. 20⎛
+⎝3
+5q⎞
+⎠
+Use the Pr operties of Identity, Inverse and Zer o
+In the following ex ercises, simplify.
+329. 19a+44−19a 330. 27c+16−27c
+331.1
+2+7
+8+⎛
+⎝−1
+2⎞
+⎠332.2
+5+5
+12+⎛
+⎝−2
+5⎞
+⎠
+333. 10(0.1d) 334. 100⎛⎝0.01 p⎞⎠
+335.3
+20·49
+11·20
+3336.13
+18·25
+7·18
+13
+337.0
+u−4.99,wher eu≠4.99 338. 0÷⎛
+⎝y−1
+6⎞
+⎠,wher ex≠1
+6
+339.32−5a
+0,wher e32−5a≠0 340.28−9b
+0,wher e28−9b≠0
+341.⎛
+⎝3
+4+9
+10m⎞
+⎠÷0,wher e3
+4+9
+10m≠0 342.⎛
+⎝5
+16n−3
+7⎞
+⎠÷0,wher e5
+16n−3
+7≠0
+Simplify Expr essions Using the Distributive Pr operty
+In the following ex ercises, simplify using the Distributive P roperty.
+343. 8⎛⎝4y+9⎞⎠ 344. 9(3w+7) 345. 6(c−13)
+1.5 EXERCISES84 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3346. 7⎛⎝y−13⎞⎠ 347.1
+4⎛⎝3q+12⎞⎠ 348.1
+5(4m+20)
+349. 9⎛
+⎝5
+9y−1
+3⎞
+⎠350. 10⎛
+⎝3
+10x−2
+5⎞
+⎠351. 12⎛
+⎝1
+4+2
+3r⎞
+⎠
+352. 12⎛
+⎝1
+6+3
+4s⎞
+⎠353. 15·3
+5(4d+10) 354. 18·5
+6(15h+24)
+355. r(s−18) 356. u(v−10) 357.⎛⎝y+4⎞⎠p
+358. (a+7)x 359. −7⎛⎝4p+1⎞⎠ 360. −9(9a+4)
+361. −3(x−6) 362. −4⎛⎝q−7⎞⎠ 363. −(3x−7)
+364. −⎛⎝5p−4⎞⎠ 365. 16−3⎛⎝y+8⎞⎠ 366. 18−4(x+2)
+367. 4−11(3c−2) 368. 9−6(7n−5) 369. 22−(a+3)
+370. 8−(r−7) 371. (5m−3)−(m+7) 372.⎛⎝4y−1⎞⎠−⎛⎝y−2⎞⎠
+373. 9(8x−3)−(−2) 374. 4(6x−1)−(−8) 375. 5(2n+9)+12(n−3)
+376. 9(5u+8)+2(u−6) 377. 14(c−1)−8(c−6) 378. 11(n−7)−5(n−1)
+379. 6⎛⎝7y+8⎞⎠−⎛⎝30y−15⎞⎠ 380. 7(3n+9)−(4n−13)
+Writing Ex ercises
+381. Inyour ownwords,state theAssociative Property
+of addition.382. What isthe differ ence between the additive
+inverse and the multiplicative inverse of a number?
+383. Simplify 8⎛
+⎝x−1
+4⎞
+⎠using theDistributive Property
+and e xplain each step.384. Explain howyou can multiply 4($5.97 )without
+paper orcalculator bythinking of$5.97 as6−0.03
+and then using the Distributive Pr operty.
+Self Check
+ⓐAfter completing the ex ercises, use this checklist to evaluate your mastery of the objectives of this section.
+ⓑAfter r eviewing this checklist, what will you do to become confident for all objectives?Chapter 1 Foundations 85Evaluate an Expr ession
+In the following ex ercises, evaluate the following expr essions.
+390. When x=4,ⓐx3ⓑ5xⓒ2x2−5x+3 391. 2x2−4xy−3y2when x=3,y=1
+Simplify Expr essions b y Combining Lik e Terms
+In the following ex ercises, simplify the following expr essions by combining lik e terms.
+392. 12y+7+2y−5393. 14x2−9x+11−8x2+8x−6
+Translate an English Phr ase to an Algebr aic Expr ession
+In the following ex ercises, translate the phrases into algebraic expr essions.
+394.
+ⓐthe sum of 4ab2and 7a3b2
+ⓑthe pr oduct of 6y2and 3y
+ⓒtwelve mor e than 5x
+ⓓ5yless than 8y2395.
+ⓐeleven times the differ ence of yand two
+ⓑthe differ ence of ele ven times yand two
+396. Dushk ohas nickelsand pennies inhispock et.
+The number ofpennies isfour less than five times
+the number ofnickels. Let nrepresent the number
+ofnickels. Write anexpression for the number of
+pennies.
+1.2Integers
+Simplify Expr essions with Absolute V alue
+In the following ex ercise, fill in <,>,or=for each of the following pairs of numbers.
+397.
+ⓐ−|7|___−|−7|
+ⓑ−8___−|−8|
+ⓒ|−13|___−13
+ⓓ|−12|___−(−12)
+In the following ex ercises, simplify.
+398. 9−|3(4−8)| 399. 12−3|1−4(4−2)|
+Add and Subtr act Integers
+In the following ex ercises, simplify each expr ession.
+400. −12 +(−8)+7 401.
+ⓐ15−7
+ⓑ−15−(−7)
+ⓒ−15−7
+ⓓ15−(−7)402. −11 −(−12 )+5
+403. ⓐ23−(−17)ⓑ23+17 404. −(7−11)−(3−5)94 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3Multiply and Divide Integers
+In the following ex ercise, multiply or divide .
+405. ⓐ−27÷9ⓑ120÷(−8)
+ⓒ4(−14)ⓓ−1(−17)
+Simplify and Evaluate Expr essions with Integers
+In the following ex ercises, simplify each expr ession.
+406. ⓐ(−7)3ⓑ−73 407. (7−11)(6−13) 408. 63÷(−9)+(−36 )÷(−4)
+409. 6−3|4(1−2)−(7−5)| 410. (−2)4−24÷(13−5)
+For the following ex ercises, evaluate each expr ession.
+411. (y+z)2when
+y=−4,z=7412. 3x2−2xy+4y2when
+x=−2,y=−3
+Translate English Phr ases to Algebr aic Expr essions
+In the following ex ercises, translate to an algebraic expr ession and simplify if possible .
+413. the sum of−4 and −9,
+increased b y 23414. ⓐthe differ ence of17and
+−8ⓑsubtr act 17 fr om −25
+Use Integers in Applications
+In the following ex ercise, solve .
+415. Temper atur eOnJuly 10,the
+high temper atur ein Phoenix,
+Arizona, was 109°, and the high
+temper atur einJuneau, Alaska, was
+63°. What was the differ ence
+between the temper atur ein
+Phoenix and the temper atur ein
+Juneau?
+1.3Fractions
+Simplify Fr actions
+In the following ex ercises, simplify.
+416.204
+228417. −270 x3
+198 y2
+Multiply and Divide Fr actions
+In the following ex ercises, perform the indicated operation.
+418.⎛
+⎝−14
+15⎞
+⎠⎛
+⎝10
+21⎞
+⎠ 419.6x
+25÷9y
+20 420.−4
+9
+8
+21
+Add and Subtr act Fr actions
+In the following ex ercises, perform the indicated operation.
+421.5
+18+7
+12422.11
+36−15
+48423. ⓐ58+34ⓑ58÷34Chapter 1 Foundations 95424. ⓐ−3y
+10−56ⓑ−3y
+10·56
+Use the Or der of Oper ations to Simplify Fr actions
+In the following ex ercises, simplify.
+425.4·3−2·5
+−6·3+2·3426.4(7−3)−2(4−9)
+−3(4+2)+7(3−6)427.43−42
+⎛
+⎝4
+5⎞
+⎠2
+Evaluate V ariable Expr essions with Fr actions
+In the following ex ercises, evaluate .
+428. 4x2y2when
+x=2
+3and y=−3
+4429.a+b
+a−bwhen
+a=−4,b=6
+1.4Decimals
+Round Decimals
+430. Round 6.738 tothenear est
+ⓐhundr edth ⓑtenth ⓒwhole
+number.
+Add and Subtr act Decimals
+In the following ex ercises, perform the indicated operation.
+431. −23.67 +29.84 432. 54.3 −100 433. 79.38 −(−17.598 )
+Multiply and Divide Decimals
+In the following ex ercises, perform the indicated operation.
+434. (−2.8 )(3.97 ) 435. (−8.43 )(−57.91 ) 436. (53.48 )(10)
+437. (0.563 )(100) 438. $118.35 ÷2.6 439. 1.84 ÷(−0.8 )
+Convert Decimals, Fr actions and Per cents
+In the following ex ercises, write each decimal as a fraction.
+440. 0.65 441. −9.6
+In the following ex ercises, convert each fraction to a decimal.
+442. −5
+8443.14
+11
+In the following ex ercises, convert each decimal to a per cent.
+444. 2.43 445. 0.0475
+Simplify Expr essions with Squar e Roots
+In the following ex ercises, simplify.
+446. 289 447. −121
+Identify Integers, Rational Numbers, Irr ational Numbers, and Real Numbers
+Inthefollowing exercise,listtheⓐwhole numbers ⓑintegers ⓒrational numbers ⓓirrational numbers ⓔrealnumbers for96 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3each set of numbers
+448.
+−8,0,1.95286... ,12
+5,36,9
+Locate Fr actions and Decimals on the Number Line
+In the following ex ercises, locate the numbers on a number line .
+449.3
+4,−3
+4,11
+3,−12
+3,7
+2,−5
+2450. ⓐ3.2ⓑ−1.35
+1.5Properties of Real Numbers
+Use the Commutative and Associative Pr operties
+In the following ex ercises, simplify.
+451.5
+8x+5
+12y+1
+8x+7
+12y 452. −32 ·9·5
+8453.⎛
+⎝11
+15+3
+8⎞
+⎠+5
+8
+Use the Pr operties of Identity, Inverse and Zer o
+In the following ex ercises, simplify.
+454.4
+7+8
+15+⎛
+⎝−4
+7⎞
+⎠455.13
+15·9
+17·15
+13456.0
+x−3,x≠3
+457.5x−7
+0,5x−7≠0
+Simplify Expr essions Using the Distributive Pr operty
+In the following ex ercises, simplify using the Distributive P roperty.
+458. 8(a−4)459. 12⎛
+⎝2
+3b+5
+6⎞
+⎠460. 18·5
+6(2x−5)
+461. (x−5)p 462. −4⎛⎝y−3⎞⎠ 463. 12−6(x+3)
+464. 6(3x−4)−(−5) 465. 5⎛⎝2y+3⎞⎠−⎛⎝4y−1⎞⎠Chapter 1 Foundations 97PRACTICE TEST
+466. Find the prime factorization
+of756.467. Combine like terms:
+5n+8+2n−1468. Evaluate when x=−2 and
+y=3:|3x−4y|
+6
+469. Translate toan algebr aic
+expression and simplify:
+ⓐeleven less than negative eight
+ⓑthediffer ence of−8 and −3,
+increased b y 5470. Dushk ohas nickels and
+pennies inhispock et.The number
+ofpennies isseven less than four
+times thenumber ofnickels.Let n
+represent the number ofnickels.
+Write an expression for the
+number of pennies.471. Round 28.1458 to the
+near est
+ⓐhundr edth ⓑthousandth
+472. Convert
+ⓐ511toadecimal ⓑ1.15toa
+percent473. Locate3
+5,2.8,and −5
+2ona
+number line.
+In the following ex ercises, simplify each expr ession.
+474. 8+3⎡⎣6−3(5−2)⎤⎦−42 475. −(4−9)−(9−5) 476. 56÷(−8)+(−27 )÷(−3)
+477. 16−2|3(1−4)−(8−5)| 478. −5+2(−3)2−9 479.180
+204
+480. −7
+18+5
+12481.4
+5÷⎛
+⎝−12
+25⎞
+⎠482.9−3·9
+15−9
+483.4⎛⎝−3+2(3−6)⎞⎠
+3⎛⎝11−3(2+3)⎞⎠484.5
+13·47·13
+5 485.−5
+9
+10
+21
+486. −4.8 +(−6.7 ) 487. 34.6 −100 488. −12.04 ·(4.2)
+489. −8÷0.05 490. −121491.⎛
+⎝8
+13+5
+7⎞
+⎠+2
+7
+492. 5x+⎛⎝−8y⎞⎠−6x+3y493. ⓐ09ⓑ110494. −3(8x−5)
+495. 6⎛⎝3y−1⎞⎠−⎛⎝5y−3⎞⎠98 Chapter 1 Foundations
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3

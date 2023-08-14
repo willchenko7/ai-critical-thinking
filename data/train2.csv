@@ -1,0 +1,563 @@
+sentence
+Question: simplify A(Bx − C) − (Dx + E). Answer: A(Bx − C) − (Dx + E) --> Distribute. ABx − AC − Dx − E --> Combine like terms. (AB-D)x − AC - E
+Question: simplify A(Bx + Cy) + D(Ex − Fy). Answer: A(Bx + Cy) + D(Ex − Fy) --> Distribute. ABx + ACy + DEx - DFy --> Combine like terms. (AB+DE)x + (AC-DF)y
+Question: simplify A(Bx - C) - D(Ex + F). Answer: A(Bx - C) - D(Ex + F) --> Distribute. ABx - AC - DEx - DF --> Combine like terms. (AB-DE)x - AC - DF
+Question: simplify A(Bx − Cy) + D(Ex − Gx). Answer: A(Bx − Cy) + D(Ex − Gx) --> Distribute. ABx - ACy + DEx - DGx --> Combine like terms. (AB+DE-DG)x - ACy
+Question: simplify A(Bx + C) - D(Ex − Fy). Answer: A(Bx + C) - D(Ex − Fy) --> Distribute. ABx + AC - DEx + DFy --> Combine like terms. (AB-DE)x + AC + DFy
+Question: simplify A(Bx − C) − (Dx + E). Answer: A(Bx − C) − (Dx + E) --> Distribute. ABx − AC − Dx − E --> Combine like terms. (AB-D)x − AC - E
+Question: simplify A(Bx + Cy) + D(Ex − Fy). Answer: A(Bx + Cy) + D(Ex − Fy) --> Distribute. ABx + ACy + DEx - DFy --> Combine like terms. (AB+DE)x + (AC-DF)y
+Question: simplify A(Bx - C) - D(Ex + F). Answer: A(Bx - C) - D(Ex + F) --> Distribute. ABx - AC - DEx - DF --> Combine like terms. (AB-DE)x - AC - DF
+Question: simplify A(Bx − Cy) + D(Ex − Gx). Answer: A(Bx − Cy) + D(Ex − Gx) --> Distribute. ABx - ACy + DEx - DGx --> Combine like terms. (AB+DE-DG)x - ACy
+Question: simplify A(Bx + C) - D(Ex − Fy). Answer: A(Bx + C) - D(Ex − Fy) --> Distribute. ABx + AC - DEx + DFy --> Combine like terms. (AB-DE)x + AC + DFy
+Question: simplify G(Hx + Iy) + J(Kx − Ly). Answer: G(Hx + Iy) + J(Kx − Ly) --> Distribute. GHx + GIy + JKx - JLy --> Combine like terms. (GH+JK)x + (GI-JL)y
+Question: simplify M(Nx - O) - P(Qx + R). Answer: M(Nx - O) - P(Qx + R) --> Distribute. MNx - MO - PQx - PR --> Combine like terms. (MN-PQ)x - MO - PR
+Question: simplify S(Tx − Uy) + V(Wx − Xy). Answer: S(Tx − Uy) + V(Wx − Xy) --> Distribute. STx - SUy + VWx - VXy --> Combine like terms. (ST+VW)x - (SU+VX)y
+Question: simplify Y(Zx + A) - B(Cx − Dy). Answer: Y(Zx + A) - B(Cx − Dy) --> Distribute. YZx + YA - BCx + BDy --> Combine like terms. (YZ-BC)x + YA + BDy
+Question: simplify E(Fx − G) + H(Ix + Jy). Answer: E(Fx − G) + H(Ix + Jy) --> Distribute. EFx - EG + HIx + HJy --> Combine like terms. (EF+HI)x - EG + HJy
+Question: simplify K(Lx + M) - N(Ox − Py). Answer: K(Lx + M) - N(Ox − Py) --> Distribute. KLx + KM - NOx + NPy --> Combine like terms. (KL-NO)x + KM + NPy
+Question: simplify Q(Rx − S) + T(Ux + Vy). Answer: Q(Rx − S) + T(Ux + Vy) --> Distribute. QRx - QS + TUx + TVy --> Combine like terms. (QR+TU)x - QS + TVy
+Question: simplify W(Xx - Y) - Z(Ax + By). Answer: W(Xx - Y) - Z(Ax + By) --> Distribute. WXx - WY - ZAx - ZBy --> Combine like terms. (WX-ZA)x - WY - ZBy
+Question: simplify C(Dx + Ey) + F(Gx − Hy). Answer: C(Dx + Ey) + F(Gx − Hy) --> Distribute. CDx + CEy + FGx - FHy --> Combine like terms. (CD+FG)x + (CE-FH)y
+Question: simplify I(Jx - K) - L(Mx + Ny). Answer: I(Jx - K) - L(Mx + Ny) --> Distribute. IJx - IK - LMx - LNy --> Combine like terms. (IJ-LM)x - IK - LNy
+Question: simplify O(Px + Qy) + R(Sx − Ty). Answer: O(Px + Qy) + R(Sx − Ty) --> Distribute. OPx + OQy + RSx - RTy --> Combine like terms. (OP+RS)x + (OQ-RT)y
+Question: simplify U(Vx - W) - X(Yx + Zy). Answer: U(Vx - W) - X(Yx + Zy) --> Distribute. UVx - UW - XYx - XZy --> Combine like terms. (UV-XY)x - UW - XZy
+Question: simplify A1(B1x + C1y) + D1(E1x − F1y). Answer: A1(B1x + C1y) + D1(E1x − F1y) --> Distribute. A1B1x + A1C1y + D1E1x - D1F1y --> Combine like terms. (A1B1+D1E1)x + (A1C1-D1F1)y
+Question: simplify G1(H1x - I1) - J1(K1x + L1y). Answer: G1(H1x - I1) - J1(K1x + L1y) --> Distribute. G1H1x - G1I1 - J1K1x - J1L1y --> Combine like terms. (G1H1-J1K1)x - G1I1 - J1L1y
+Question: simplify M1(N1x + O1y) + P1(Q1x − R1y). Answer: M1(N1x + O1y) + P1(Q1x − R1y) --> Distribute. M1N1x + M1O1y + P1Q1x - P1R1y --> Combine like terms. (M1N1+P1Q1)x + (M1O1-P1R1)y
+Question: simplify S1(T1x - U1) - V1(W1x + X1y). Answer: S1(T1x - U1) - V1(W1x + X1y) --> Distribute. S1T1x - S1U1 - V1W1x - V1X1y --> Combine like terms. (S1T1-V1W1)x - S1U1 - V1X1y
+Question: simplify Y1(Z1x + A2y) + B2(C2x − D2y). Answer: Y1(Z1x + A2y) + B2(C2x − D2y) --> Distribute. Y1Z1x + Y1A2y + B2C2x - B2D2y --> Combine like terms. (Y1Z1+B2C2)x + (Y1A2-B2D2)y
+Question: simplify E2(F2x - G2) - H2(I2x + J2y). Answer: E2(F2x - G2) - H2(I2x + J2y) --> Distribute. E2F2x - E2G2 - H2I2x - H2J2y --> Combine like terms. (E2F2-H2I2)x - E2G2 - H2J2y
+Question: simplify K2(L2x + M2y) + N2(O2x − P2y). Answer: K2(L2x + M2y) + N2(O2x − P2y) --> Distribute. K2L2x + K2M2y + N2O2x - N2P2y --> Combine like terms. (K2L2+N2O2)x + (K2M2-N2P2)y
+Question: simplify Q2(R2x - S2) - T2(U2x + V2y). Answer: Q2(R2x - S2) - T2(U2x + V2y) --> Distribute. Q2R2x - Q2S2 - T2U2x - T2V2y --> Combine like terms. (Q2R2-T2U2)x - Q2S2 - T2V2y
+Question: simplify W2(X2x + Y2y) + Z2(A3x − B3y). Answer: W2(X2x + Y2y) + Z2(A3x − B3y) --> Distribute. W2X2x + W2Y2y + Z2A3x - Z2B3y --> Combine like terms. (W2X2+Z2A3)x + (W2Y2-Z2B3)y
+Question: simplify C3(D3x - E3) - F3(G3x + H3y). Answer: C3(D3x - E3) - F3(G3x + H3y) --> Distribute. C3D3x - C3E3 - F3G3x - F3H3y --> Combine like terms. (C3D3-F3G3)x - C3E3 - F3H3y
+Question: simplify I3(J3x + K3y) + L3(M3x − N3y). Answer: I3(J3x + K3y) + L3(M3x − N3y) --> Distribute. I3J3x + I3K3y + L3M3x - L3N3y --> Combine like terms. (I3J3+L3M3)x + (I3K3-L3N3)y
+Question: simplify O3(P3x - Q3) - R3(S3x + T3y). Answer: O3(P3x - Q3) - R3(S3x + T3y) --> Distribute. O3P3x - O3Q3 - R3S3x - R3T3y --> Combine like terms. (O3P3-R3S3)x - O3Q3 - R3T3y
+Question: simplify U3(V3x + W3y) + X3(Y3x − Z3y). Answer: U3(V3x + W3y) + X3(Y3x − Z3y) --> Distribute. U3V3x + U3W3y + X3Y3x - X3Z3y --> Combine like terms. (U3V3+X3Y3)x + (U3W3-X3Z3)y
+Question: simplify A(x^2 + Bx) + C(x^2 − Dx). Answer: A(x^2 + Bx) + C(x^2 − Dx) --> Distribute. Ax^2 + ABx + Cx^2 - CDx --> Combine like terms. (A+C)x^2 + (AB-CD)x
+Question: simplify E(y^2 − Fy) - G(y^2 + Hy). Answer: E(y^2 − Fy) - G(y^2 + Hy) --> Distribute. Ey^2 - EFy - Gy^2 - GHy --> Combine like terms. (E-G)y^2 - (EF+GH)y
+Question: simplify I(z^2 + Jx) + K(x^2 − Lz). Answer: I(z^2 + Jx) + K(x^2 − Lz) --> Distribute. Iz^2 + IJx + Kx^2 - KLz --> Combine terms. Kx^2 + IJx + Iz^2 - KLz
+Question: simplify M(x^2y + Nx^2) - O(y^2 − Px). Answer: M(x^2y + Nx^2) - O(y^2 − Px) --> Distribute. Mx^2y + MNx^2 - Oy^2 + OPx --> Combine terms. MNx^2 + Mx^2y + OPx - Oy^2
+Question: simplify Q(x^3 − Rx) + S(x^3 + Tx). Answer: Q(x^3 − Rx) + S(x^3 + Tx) --> Distribute. Qx^3 - QRx + Sx^3 + STx --> Combine like terms. (Q+S)x^3 + (-QR+ST)x
+Question: simplify U(y^3 + Vy) - W(y^3 − Xy). Answer: U(y^3 + Vy) - W(y^3 − Xy) --> Distribute. Uy^3 + UVy - Wy^3 + WXy --> Combine like terms. (U-W)y^3 + (UV+WX)y
+Question: simplify Y(x^2y^2 + Zx) + A1(x^2y^2 − B1x). Answer: Y(x^2y^2 + Zx) + A1(x^2y^2 − B1x) --> Distribute. Yx^2y^2 + YZx + A1x^2y^2 - A1B1x --> Combine terms. (Y+A1)x^2y^2 + (YZ-A1B1)x
+Question: simplify C1(x^3y + D1y^3) - E1(x^3y − F1x). Answer: C1(x^3y + D1y^3) - E1(x^3y − F1x) --> Distribute. C1x^3y + C1D1y^3 - E1x^3y + E1F1x --> Combine terms. (C1-E1)x^3y + C1D1y^3 + E1F1x
+Question: simplify G1(x^4 − H1y) + I1(x^4 + J1x). Answer: G1(x^4 − H1y) + I1(x^4 + J1x) --> Distribute. G1x^4 - G1H1y + I1x^4 + I1J1x --> Combine like terms. (G1+I1)x^4 + I1J1x - G1H1y
+Question: simplify K1(z^4 + L1z^2) - M1(z^4 − N1z). Answer: K1(z^4 + L1z^2) - M1(z^4 − N1z) --> Distribute. K1z^4 + K1L1z^2 - M1z^4 + M1N1z --> Combine terms. (K1-M1)z^4 + K1L1z^2 + M1N1z
+Question: simplify O1(P1x^2 + Q1x) + R1(S1x^2 − T1y^2). Answer: O1(P1x^2 + Q1x) + R1(S1x^2 − T1y^2) --> Distribute. O1P1x^2 + O1Q1x + R1S1x^2 - R1T1y^2 --> Combine like terms. (O1P1+R1S1)x^2 + O1Q1x - R1T1y^2
+Question: simplify U1(V1y^3 − W1y) - X1(Y1y^3 + Z1x^2). Answer: U1(V1y^3 − W1y) - X1(Y1y^3 + Z1x^2) --> Distribute. U1V1y^3 - U1W1y - X1Y1y^3 - X1Z1x^2 --> Combine like terms. (U1V1-X1Y1)y^3 - U1W1y - X1Z1x^2
+Question: simplify A2(B2x^4 + C2x^3) + D2(E2x^2 − F2y^4). Answer: A2(B2x^4 + C2x^3) + D2(E2x^2 − F2y^4) --> Distribute. A2B2x^4 + A2C2x^3 + D2E2x^2 - D2F2y^4 --> Combine terms. A2B2x^4 + A2C2x^3 + D2E2x^2 - D2F2y^4
+Question: simplify G2(H2x^5 - I2y^5) + J2(K2x^5 + L2x). Answer: G2(H2x^5 - I2y^5) + J2(K2x^5 + L2x) --> Distribute. G2H2x^5 - G2I2y^5 + J2K2x^5 + J2L2x --> Combine like terms. (G2H2+J2K2)x^5 + J2L2x - G2I2y^5
+Question: simplify M2(N2x^2y^3 + O2y^3) - P2(Q2x^3y^2 − R2x^4). Answer: M2(N2x^2y^3 + O2y^3) - P2(Q2x^3y^2 − R2x^4) --> Distribute. M2N2x^2y^3 + M2O2y^3 - P2Q2x^3y^2 + P2R2x^4 --> Combine terms. M2N2x^2y^3 + M2O2y^3 - P2Q2x^3y^2 + P2R2x^4
+Question: simplify S2(T2x^6 − U2x^5) + V2(W2x^6 + X2y^2). Answer: S2(T2x^6 − U2x^5) + V2(W2x^6 + X2y^2) --> Distribute. S2T2x^6 - S2U2x^5 + V2W2x^6 + V2X2y^2 --> Combine like terms. (S2T2+V2W2)x^6 - S2U2x^5 + V2X2y^2
+Question: simplify Y2(Z2x^3y + A3y^4) - B3(C3x^2y^5 − D3x^7). Answer: Y2(Z2x^3y + A3y^4) - B3(C3x^2y^5 − D3x^7) --> Distribute. Y2Z2x^3y + Y2A3y^4 - B3C3x^2y^5 + B3D3x^7 --> Combine terms. Y2Z2x^3y + Y2A3y^4 - B3C3x^2y^5 + B3D3x^7
+Question: simplify E3(F3x^8 − G3y^6) + H3(I3x^8 + J3x^7). Answer: E3(F3x^8 − G3y^6) + H3(I3x^8 + J3x^7) --> Distribute. E3F3x^8 - E3G3y^6 + H3I3x^8 + H3J3x^7 --> Combine like terms. (E3F3+H3I3)x^8 + H3J3x^7 - E3G3y^6
+Question: simplify K3(L3x^2y^2 + M3x^3y) - N3(O3x^4y^3 − P3x^9). Answer: K3(L3x^2y^2 + M3x^3y) - N3(O3x^4y^3 − P3x^9) --> Distribute. K3L3x^2y^2 + K3M3x^3y - N3O3x^4y^3 + N3P3x^9 --> Combine terms. K3L3x^2y^2 + K3M3x^3y - N3O3x^4y^3 + N3P3x^9
+Question: simplify Q3(R3x^5y^4 − S3x^6y^3) + T3(U3x^7y^2 + V3y^8). Answer: Q3(R3x^5y^4 − S3x^6y^3) + T3(U3x^7y^2 + V3y^8) --> Distribute. Q3R3x^5y^4 - Q3S3x^6y^3 + T3U3x^7y^2 + T3V3y^8 --> Combine terms. Q3R3x^5y^4 - Q3S3x^6y^3 + T3U3x^7y^2 + T3V3y^8
+Question: simplify A(n^2 + Bz) + C(n^2 − Dz). Answer: A(n^2 + Bz) + C(n^2 − Dz) --> Distribute. An^2 + ABz + Cn^2 - CDz --> Combine like terms. (A+C)n^2 + (AB-CD)z
+Question: simplify E(z^2 − Fn) - G(z^2 + Hn). Answer: E(z^2 − Fn) - G(z^2 + Hn) --> Distribute. Ez^2 - EFn - Gz^2 - GHn --> Combine like terms. (E-G)z^2 - (EF+GH)n
+Question: simplify I(n^3 + Jz^3) + K(n^3 − Lz^2). Answer: I(n^3 + Jz^3) + K(n^3 − Lz^2) --> Distribute. In^3 + IJz^3 + Kn^3 - KLz^2 --> Combine terms. (I+K)n^3 + IJz^3 - KLz^2
+Question: simplify M(z^3n + Nn^3) - O(z^3 − Pn^2). Answer: M(z^3n + Nn^3) - O(z^3 − Pn^2) --> Distribute. Mz^3n + MNn^3 - Oz^3 + OPn^2 --> Combine terms. MNn^3 + Mz^3n + OPn^2 - Oz^3
+Question: simplify Q(n^4 − Rz) + S(n^4 + Tz^3). Answer: Q(n^4 − Rz) + S(n^4 + Tz^3) --> Distribute. Qn^4 - QRz + Sn^4 + STz^3 --> Combine like terms. (Q+S)n^4 + STz^3 - QRz
+Question: simplify U(z^4 + Vn^2) - W(z^4 − Xn^5). Answer: U(z^4 + Vn^2) - W(z^4 − Xn^5) --> Distribute. Uz^4 + UVn^2 - Wz^4 + WXn^5 --> Combine terms. (U-W)z^4 + UVn^2 + WXn^5
+Question: simplify Y(n^5z^3 + Zn^4) + A1(n^5z^3 − B1z^4). Answer: Y(n^5z^3 + Zn^4) + A1(n^5z^3 − B1z^4) --> Distribute. Yn^5z^3 + YZn^4 + A1n^5z^3 - A1B1z^4 --> Combine terms. (Y+A1)n^5z^3 + YZn^4 - A1B1z^4
+Question: simplify C1(n^6z^2 + D1n^3z^3) - E1(n^6z^2 − F1n^7). Answer: C1(n^6z^2 + D1n^3z^3) - E1(n^6z^2 − F1n^7) --> Distribute. C1n^6z^2 + C1D1n^3z^3 - E1n^6z^2 + E1F1n^7 --> Combine terms. C1D1n^3z^3 + E1F1n^7
+Question: simplify G1(n^2z^4 − H1z^3) + I1(n^2z^4 + J1n^5). Answer: G1(n^2z^4 − H1z^3) + I1(n^2z^4 + J1n^5) --> Distribute. G1n^2z^4 - G1H1z^3 + I1n^2z^4 + I1J1n^5 --> Combine like terms. (G1+I1)n^2z^4 + I1J1n^5 - G1H1z^3
+Question: simplify K1(n^3z^5 + L1n^4z) - M1(n^3z^5 − N1n^8). Answer: K1(n^3z^5 + L1n^4z) - M1(n^3z^5 − N1n^8) --> Distribute. K1n^3z^5 + K1L1n^4z - M1n^3z^5 + M1N1n^8 --> Combine terms. K1L1n^4z + M1N1n^8
+Question: solve A + Bx = C for x. Answer: A + Bx = C --> Subtract A from both sides. Bx = C - A --> Divide by B. x = (C - A) / B
+Question: solve D = Ex + F for x. Answer: D = Ex + F --> Subtract F from both sides. D - F = Ex --> Divide by E. x = (D - F) / E
+Question: solve Gx - H = I for x. Answer: Gx - H = I --> Add H to both sides. Gx = I + H --> Divide by G. x = (I + H) / G
+Question: solve J = Kx + Lx for x. Answer: J = Kx + Lx --> Combine like terms. J = (K+L)x --> Divide by (K+L). x = J / (K+L)
+Question: solve Mx - Nx = O for x. Answer: Mx - Nx = O --> Combine like terms. (M-N)x = O --> Divide by (M-N). x = O / (M-N)
+Question: solve P = Qx - Rx for x. Answer: P = Qx - Rx --> Combine like terms. P = (Q-R)x --> Divide by (Q-R). x = P / (Q-R)
+Question: solve Sx + T = Ux for x. Answer: Sx + T = Ux --> Subtract Sx from both sides. T = (U-S)x --> Divide by (U-S). x = T / (U-S)
+Question: solve V = Wx + X for x. Answer: V = Wx + X --> Subtract X from both sides. V - X = Wx --> Divide by W. x = (V - X) / W
+Question: solve Yx - Z = Ax for x. Answer: Yx - Z = Ax --> Subtract Yx from both sides. -Z = (A-Y)x --> Divide by (A-Y). x = -Z / (A-Y)
+Question: solve B1 = C1x - D1x for x. Answer: B1 = C1x - D1x --> Combine like terms. B1 = (C1-D1)x --> Divide by (C1-D1). x = B1 / (C1-D1)
+Question: solve E1 + F1x = G1 for x. Answer: E1 + F1x = G1 --> Subtract E1 from both sides. F1x = G1 - E1 --> Divide by F1. x = (G1 - E1) / F1
+Question: solve H1 = I1x + J1 for x. Answer: H1 = I1x + J1 --> Subtract J1 from both sides. H1 - J1 = I1x --> Divide by I1. x = (H1 - J1) / I1
+Question: solve K1x - L1 = M1 for x. Answer: K1x - L1 = M1 --> Add L1 to both sides. K1x = M1 + L1 --> Divide by K1. x = (M1 + L1) / K1
+Question: solve N1 = O1x + P1x for x. Answer: N1 = O1x + P1x --> Combine like terms. N1 = (O1+P1)x --> Divide by (O1+P1). x = N1 / (O1+P1)
+Question: solve Q1x - R1x = S1 for x. Answer: Q1x - R1x = S1 --> Combine like terms. (Q1-R1)x = S1 --> Divide by (Q1-R1). x = S1 / (Q1-R1)
+Question: solve T1 = U1x - V1 for x. Answer: T1 = U1x - V1 --> Add V1 to both sides. T1 + V1 = U1x --> Divide by U1. x = (T1 + V1) / U1
+Question: solve W1x + X1 = Y1x for x. Answer: W1x + X1 = Y1x --> Subtract W1x from both sides. X1 = (Y1-W1)x --> Divide by (Y1-W1). x = X1 / (Y1-W1)
+Question: solve Z1 = A2x + B2 for x. Answer: Z1 = A2x + B2 --> Subtract B2 from both sides. Z1 - B2 = A2x --> Divide by A2. x = (Z1 - B2) / A2
+Question: solve C2x - D2 = E2x for x. Answer: C2x - D2 = E2x --> Subtract C2x from both sides. -D2 = (E2-C2)x --> Divide by (E2-C2). x = -D2 / (E2-C2)
+Question: solve F2 = G2x - H2x for x. Answer: F2 = G2x - H2x --> Combine like terms. F2 = (G2-H2)x --> Divide by (G2-H2). x = F2 / (G2-H2)
+Question: solve A + By = C for y. Answer: A + By = C --> Subtract A from both sides. By = C - A --> Divide by B. y = (C - A) / B
+Question: solve D = Ey + F for y. Answer: D = Ey + F --> Subtract F from both sides. D - F = Ey --> Divide by E. y = (D - F) / E
+Question: solve Gy - H = I for y. Answer: Gy - H = I --> Add H to both sides. Gy = I + H --> Divide by G. y = (I + H) / G
+Question: solve J = Ky + Ly for y. Answer: J = Ky + Ly --> Combine like terms. J = (K+L)y --> Divide by (K+L). y = J / (K+L)
+Question: solve My - Ny = O for y. Answer: My - Ny = O --> Combine like terms. (M-N)y = O --> Divide by (M-N). y = O / (M-N)
+Question: solve P = Qy - Ry for y. Answer: P = Qy - Ry --> Combine like terms. P = (Q-R)y --> Divide by (Q-R). y = P / (Q-R)
+Question: solve Sy + T = Uy for y. Answer: Sy + T = Uy --> Subtract Sy from both sides. T = (U-S)y --> Divide by (U-S). y = T / (U-S)
+Question: solve V = Wy + X for y. Answer: V = Wy + X --> Subtract X from both sides. V - X = Wy --> Divide by W. y = (V - X) / W
+Question: solve Yy - Z = Ay for y. Answer: Yy - Z = Ay --> Subtract Yy from both sides. -Z = (A-Y)y --> Divide by (A-Y). y = -Z / (A-Y)
+Question: solve B1 = C1y - D1y for y. Answer: B1 = C1y - D1y --> Combine like terms. B1 = (C1-D1)y --> Divide by (C1-D1). y = B1 / (C1-D1)
+Question: solve E1 + F1y = G1 for y. Answer: E1 + F1y = G1 --> Subtract E1 from both sides. F1y = G1 - E1 --> Divide by F1. y = (G1 - E1) / F1
+Question: solve H1 = I1y + J1 for y. Answer: H1 = I1y + J1 --> Subtract J1 from both sides. H1 - J1 = I1y --> Divide by I1. y = (H1 - J1) / I1
+Question: solve K1y - L1 = M1 for y. Answer: K1y - L1 = M1 --> Add L1 to both sides. K1y = M1 + L1 --> Divide by K1. y = (M1 + L1) / K1
+Question: solve N1 = O1y + P1y for y. Answer: N1 = O1y + P1y --> Combine like terms. N1 = (O1+P1)y --> Divide by (O1+P1). y = N1 / (O1+P1)
+Question: solve Q1y - R1y = S1 for y. Answer: Q1y - R1y = S1 --> Combine like terms. (Q1-R1)y = S1 --> Divide by (Q1-R1). y = S1 / (Q1-R1)
+Question: solve T1 = U1y - V1 for y. Answer: T1 = U1y - V1 --> Add V1 to both sides. T1 + V1 = U1y --> Divide by U1. y = (T1 + V1) / U1
+Question: solve W1y + X1 = Y1y for y. Answer: W1y + X1 = Y1y --> Subtract W1y from both sides. X1 = (Y1-W1)y --> Divide by (Y1-W1). y = X1 / (Y1-W1)
+Question: solve Z1 = A2y + B2 for y. Answer: Z1 = A2y + B2 --> Subtract B2 from both sides. Z1 - B2 = A2y --> Divide by A2. y = (Z1 - B2) / A2
+Question: solve C2y - D2 = E2y for y. Answer: C2y - D2 = E2y --> Subtract C2y from both sides. -D2 = (E2-C2)y --> Divide by (E2-C2). y = -D2 / (E2-C2)
+Question: solve F2 = G2y - H2y for y. Answer: F2 = G2y - H2y --> Combine like terms. F2 = (G2-H2)y --> Divide by (G2-H2). y = F2 / (G2-H2)
+Question: solve A = B^x for x. Answer: A = B^x --> Take the natural log of both sides. ln(A) = ln(B^x) --> Use logarithm properties. ln(A) = x * ln(B) --> Solve for x. x = ln(A) / ln(B)
+Question: solve C = D^y for y. Answer: C = D^y --> Take the natural log of both sides. ln(C) = ln(D^y) --> Use logarithm properties. ln(C) = y * ln(D) --> Solve for y. y = ln(C) / ln(D)
+"Question: solve E = F^(x+y) for x. Answer: E = F^(x+y) --> Take the natural log of both sides. ln(E) = ln(F^(x+y)) --> Use logarithm properties. ln(E) = (x+y) * ln(F) --> If another equation is given, solve for x."
+Question: solve G = H^(2x) for x. Answer: G = H^(2x) --> Take the natural log of both sides. ln(G) = ln(H^(2x)) --> Use logarithm properties. ln(G) = 2x * ln(H) --> Solve for x. x = ln(G) / (2*ln(H))
+Question: solve I = J^(x/3) for x. Answer: I = J^(x/3) --> Take the natural log of both sides. ln(I) = ln(J^(x/3)) --> Use logarithm properties. ln(I) = (x/3) * ln(J) --> Solve for x. x = 3 * ln(I) / ln(J)
+Question: solve K = L^(3y) for y. Answer: K = L^(3y) --> Take the natural log of both sides. ln(K) = ln(L^(3y)) --> Use logarithm properties. ln(K) = 3y * ln(L) --> Solve for y. y = ln(K) / (3*ln(L))
+Question: solve M = N^(-x) for x. Answer: M = N^(-x) --> Take the natural log of both sides. ln(M) = ln(N^(-x)) --> Use logarithm properties. ln(M) = -x * ln(N) --> Solve for x. x = -ln(M) / ln(N)
+"Question: solve O = P^(2y+1) for y. Answer: O = P^(2y+1) --> Take the natural log of both sides. ln(O) = ln(P^(2y+1)) --> Use logarithm properties. ln(O) = (2y+1) * ln(P) --> If another equation is given, solve for y."
+"Question: solve Q = R^(x/2 - 1) for x. Answer: Q = R^(x/2 - 1) --> Take the natural log of both sides. ln(Q) = ln(R^(x/2 - 1)) --> Use logarithm properties. ln(Q) = (x/2 - 1) * ln(R) --> If another equation is given, solve for x."
+Question: solve S = T^(4 - y) for y. Answer: S = T^(4 - y) --> Take the natural log of both sides. ln(S) = ln(T^(4 - y)) --> Use logarithm properties. ln(S) = (4 - y) * ln(T) --> Solve for y. y = 4 - ln(S) / ln(T)
+Question: solve U = V^(5x) for x. Answer: U = V^(5x) --> Take the natural log of both sides. ln(U) = ln(V^(5x)) --> Use logarithm properties. ln(U) = 5x * ln(V) --> Solve for x. x = ln(U) / (5*ln(V))
+Question: solve W = X^(y/4) for y. Answer: W = X^(y/4) --> Take the natural log of both sides. ln(W) = ln(X^(y/4)) --> Use logarithm properties. ln(W) = (y/4) * ln(X) --> Solve for y. y = 4 * ln(W) / ln(X)
+"Question: solve Y = Z^(x+y) for y. Answer: Y = Z^(x+y) --> Take the natural log of both sides. ln(Y) = ln(Z^(x+y)) --> Use logarithm properties. ln(Y) = (x+y) * ln(Z) --> If another equation is given, solve for y."
+Question: solve A1 = B1^(3x-2) for x. Answer: A1 = B1^(3x-2) --> Take the natural log of both sides. ln(A1) = ln(B1^(3x-2)) --> Use logarithm properties. ln(A1) = (3x-2) * ln(B1) --> Solve for x. x = (ln(A1)/ln(B1) + 2) / 3
+Question: solve C1 = D1^(2y/5) for y. Answer: C1 = D1^(2y/5) --> Take the natural log of both sides. ln(C1) = ln(D1^(2y/5)) --> Use logarithm properties. ln(C1) = (2y/5) * ln(D1) --> Solve for y. y = 5/2 * ln(C1) / ln(D1)
+"Question: solve E1 = F1^(-x+y) for y. Answer: E1 = F1^(-x+y) --> Take the natural log of both sides. ln(E1) = ln(F1^(-x+y)) --> Use logarithm properties. ln(E1) = (-x+y) * ln(F1) --> If another equation is given, solve for y."
+Question: solve G1 = H1^(x/3 + 2) for x. Answer: G1 = H1^(x/3 + 2) --> Take the natural log of both sides. ln(G1) = ln(H1^(x/3 + 2)) --> Use logarithm properties. ln(G1) = (x/3 + 2) * ln(H1) --> Solve for x. x = 3*(ln(G1)/ln(H1) - 2)
+Question: solve I1 = J1^(7 - 2y) for y. Answer: I1 = J1^(7 - 2y) --> Take the natural log of both sides. ln(I1) = ln(J1^(7 - 2y)) --> Use logarithm properties. ln(I1) = (7 - 2y) * ln(J1) --> Solve for y. y = (7 - ln(I1)/ln(J1)) / 2
+Question: solve U = V^(5x) for x. Answer: U = V^(5x) --> Take the natural log of both sides. ln(U) = ln(V^(5x)) --> Use logarithm properties. ln(U) = 5x * ln(V) --> Solve for x. x = ln(U) / (5*ln(V))
+Question: solve W = X^(x/4) for x. Answer: W = X^(x/4) --> Take the natural log of both sides. ln(W) = ln(X^(x/4)) --> Use logarithm properties. ln(W) = (x/4) * ln(X) --> Solve for x. x = 4 * ln(W) / ln(X)
+"Question: solve Y = Z^(2x+y) for x. Answer: Y = Z^(2x+y) --> Take the natural log of both sides. ln(Y) = ln(Z^(2x+y)) --> Use logarithm properties. ln(Y) = (2x+y) * ln(Z) --> If another equation is given for y, solve for x."
+Question: solve A1 = B1^(3x-2) for x. Answer: A1 = B1^(3x-2) --> Take the natural log of both sides. ln(A1) = ln(B1^(3x-2)) --> Use logarithm properties. ln(A1) = (3x-2) * ln(B1) --> Solve for x. x = (ln(A1)/ln(B1) + 2) / 3
+Question: solve C1 = D1^(x/5) for x. Answer: C1 = D1^(x/5) --> Take the natural log of both sides. ln(C1) = ln(D1^(x/5)) --> Use logarithm properties. ln(C1) = (x/5) * ln(D1) --> Solve for x. x = 5 * ln(C1) / ln(D1)
+"Question: solve E1 = F1^(-2x+y) for x. Answer: E1 = F1^(-2x+y) --> Take the natural log of both sides. ln(E1) = ln(F1^(-2x+y)) --> Use logarithm properties. ln(E1) = (-2x+y) * ln(F1) --> If another equation is given for y, solve for x."
+Question: solve G1 = H1^(x/3 + 2) for x. Answer: G1 = H1^(x/3 + 2) --> Take the natural log of both sides. ln(G1) = ln(H1^(x/3 + 2)) --> Use logarithm properties. ln(G1) = (x/3 + 2) * ln(H1) --> Solve for x. x = 3*(ln(G1)/ln(H1) - 2)
+"Question: solve I1 = J1^(4x - 2y) for x. Answer: I1 = J1^(4x - 2y) --> Take the natural log of both sides. ln(I1) = ln(J1^(4x - 2y)) --> Use logarithm properties. ln(I1) = (4x - 2y) * ln(J1) --> If another equation is given for y, solve for x."
+Question: solve A^x = B for x. Answer: A^x = B --> Take the natural log of both sides. ln(A^x) = ln(B) --> Use logarithm properties. x * ln(A) = ln(B) --> Solve for x. x = ln(B) / ln(A)
+Question: solve Cx^2 + D = E for x. Answer: Cx^2 + D = E --> Subtract D from both sides. Cx^2 = E - D --> Divide by C. x^2 = (E - D) / C --> Take the square root. x = ±√((E - D) / C)
+Question: solve Fx^3 = G for x. Answer: Fx^3 = G --> Divide by F. x^3 = G/F --> Take the cube root. x = ∛(G/F)
+Question: solve H = x^2 + Ix + J for x. Answer: H = x^2 + Ix + J --> Set equal to zero. x^2 + Ix + (J - H) = 0 --> Use quadratic formula or factoring to solve for x.
+Question: solve K = Lx^4 + M for x. Answer: K = Lx^4 + M --> Subtract M from both sides. Lx^4 = K - M --> Divide by L. x^4 = (K - M) / L --> Take the fourth root. x = 4√((K - M) / L)
+Question: solve Nx^2 - Ox + P = Q for x. Answer: Nx^2 - Ox + P = Q --> Set equal to zero. Nx^2 - Ox + (P - Q) = 0 --> Use quadratic formula or factoring to solve for x.
+Question: solve R = x^3 - Sx for x. Answer: R = x^3 - Sx --> Set equal to zero. x^3 - Sx - R = 0 --> Use factoring or polynomial methods to solve for x.
+Question: solve Tx^5 + U = V for x. Answer: Tx^5 + U = V --> Subtract U from both sides. Tx^5 = V - U --> Divide by T. x^5 = (V - U) / T --> Take the fifth root. x = 5√((V - U) / T)
+"Question: factorize x^2 + Ax + B. Answer: Depending on values of A and B, this is a generic quadratic. Without specific numbers, we cannot factor it definitively."
+Question: factorize x^2 - C^2. Answer: x^2 - C^2 = (x + C)(x - C)
+Question: factorize D^2x^2 - E^2. Answer: D^2x^2 - E^2 = (Dx + E)(Dx - E)
+"Question: factorize Fx^2 + GxH. Answer: Using grouping, if coefficients allow, Fx^2 + GxH can be factored into common terms and binomials. Without specific coefficients, exact factorization is unclear."
+Question: factorize x^3 - I^3. Answer: x^3 - I^3 = (x - I)(x^2 + Ix + I^2)
+Question: factorize x^3 + J^3. Answer: x^3 + J^3 = (x + J)(x^2 - Jx + J^2)
+Question: factorize Kx^3 - L^3x. Answer: Kx^3 - L^3x = x(Kx^2 + Lx + L^2)
+"Question: factorize Mx^2 + Nx + O. Answer: This is a generic quadratic expression. Without specific values for M, N, and O, definitive factorization is not possible."
+Question: factorize x^2 - P^2. Answer: x^2 - P^2 = (x + P)(x - P)
+Question: factorize Q^2x^2 - R^2. Answer: Q^2x^2 - R^2 = (Qx + R)(Qx - R)
+"Question: factorize Sx^3 + Tx^2U. Answer: By grouping, and if coefficients allow, Sx^3 + Tx^2U can potentially be factored into common terms and binomials. Exact factorization depends on the values of S and T."
+Question: factorize x^4 - V^4. Answer: x^4 - V^4 = (x^2 + V^2)(x^2 - V^2) = (x^2 + V^2)(x + V)(x - V)
+"Question: factorize Wx^2 + XxY + Z. Answer: This is another generic quadratic. Definitive factorization depends on the relationship between W, X, and Y."
+Question: factorize A^3x^3 - B^3. Answer: A^3x^3 - B^3 = (Ax - B)(A^2x^2 + ABx + B^2)
+"Question: factorize Cx^2 - Dx - E. Answer: This is a generic quadratic expression. Without specific values for C, D, and E, definitive factorization is not possible."
+Question: expand (x + A)(x + B). Answer: (x + A)(x + B) = x^2 + Bx + Ax + AB = x^2 + (A + B)x + AB
+Question: expand (C + x)(D - x). Answer: (C + x)(D - x) = CD - Cx + Dx - x^2 = -x^2 + (D - C)x + CD
+Question: expand x(E + Fx). Answer: x(E + Fx) = Ex + Fx^2
+Question: expand (x - G)(x + H). Answer: (x - G)(x + H) = x^2 + Hx - Gx - GH = x^2 + (H - G)x - GH
+Question: expand Ix(Jx + K). Answer: Ix(Jx + K) = IJx^2 + IKx
+Question: expand (Lx - M)(x + N). Answer: (Lx - M)(x + N) = Lx^2 + LNx - Mx - MN = Lx^2 + (L - M)x - MN
+Question: expand (O + Px)(Q - Rx). Answer: (O + Px)(Q - Rx) = OQ - ORx + PQx - P^2x^2 = -P^2x^2 + (PQ - OR)x + OQ
+Question: expand (T + x)(U + x). Answer: (T + x)(U + x) = x^2 + Ux + Tx + TU = x^2 + (T + U)x + TU
+Question: expand (Vx + W)(x - Y). Answer: (Vx + W)(x - Y) = Vx^2 - VYx + Wx - WY = Vx^2 + (W - VY)x - WY
+Question: expand Z(x + A)(B + x). Answer: Z(x + A)(B + x) = Z(x^2 + Bx + Ax + AB) = Zx^2 + (A + B)Zx + ZAB
+"Question: expand (x + C)(x - D)(E + x). Answer: First, expand two binomials, then distribute the third term. Result varies based on C, D, and E."
+Question: expand Fx(G + Hx). Answer: Fx(G + Hx) = FGx + FHx^2
+"Question: expand (I - x)(x + J)(K - x). Answer: First, expand two binomials, then distribute the third term. Result varies based on I, J, and K."
+Question: expand L(Mx + N)(Ox - P). Answer: L(Mx + N)(Ox - P) = L(MOx^2 - MPx + NOx - NP) = LMOx^2 + (NO - MP)Lx - LNP
+Question: expand (Q + R)(S + T). Answer: (Q + R)(S + T) = QS + QT + RS + RT = QS + (QT + RS) + RT
+Question: expand (Ux + V)(W - x). Answer: (Ux + V)(W - x) = UxW - Ux^2 + VW - Vx = -Ux^2 + (UW - V)x + VW
+Question: expand X(x + Y)(Z + x). Answer: X(x + Y)(Z + x) = X(x^2 + Zx + Yx + YZ) = Xx^2 + (Y + Z)Xx + XYz
+Question: expand (A + Bx)(C + Dx). Answer: (A + Bx)(C + Dx) = AC + ADx + BCx + BDx^2 = BDx^2 + (AD + BC)x + AC
+Question: expand E(Fx - G)(H + Ix). Answer: E(Fx - G)(H + Ix) = EFxH + EFxIx - EGh - EGx = EFHx + (EFI - EG)x - EGH
+Question: expand (J + Kx)(Lx - M). Answer: (J + Kx)(Lx - M) = JLx - JM + KLx^2 - KMx = KLx^2 + (JL - KM)x - JM
+Question: expand Nx(O + Px)(Qx - R). Answer: Nx(O + Px)(Qx - R) = Nx(OQx - OR + PQx^2 - PRx) = NPQx^2 + (OQ - PR)Nx - NRx
+Question: simplify (Ax/B) + (Cx/D). Answer: Common denominator = BD. (Ax/B) + (Cx/D) = (ADx + BCx) / BD
+Question: simplify (Ex/F) - (Gx/H). Answer: Common denominator = FH. (Ex/F) - (Gx/H) = (EHx - FGx) / FH
+Question: multiply (Ix/J) * (Kx/L). Answer: (Ix/J) * (Kx/L) = (IKx^2) / (JL)
+Question: divide (Mx/N) ÷ (Ox/P). Answer: (Mx/N) ÷ (Ox/P) = (Mx * P) / (Ox * N) = MPx/OxN if Ox ≠ 0
+Question: simplify complex fraction (Qx/R)/(Sx/T). Answer: (Qx/R)/(Sx/T) = (Qx * T) / (R * Sx) = QTx/RSx if Sx ≠ 0
+"Question: factor the rational expression (Ux^2 - V^2) / (Wx + X). Answer: Using difference of squares: (Ux^2 - V^2) = (Ux + V)(Ux - V). So, (Ux^2 - V^2) / (Wx + X) = (Ux + V)(Ux - V) / (Wx + X)"
+"Question: find the excluded values for Yx/Zx. Answer: The value for which the denominator is zero. Zx = 0 is the excluded value, hence x = 0."
+"Question: simplify (Ax^2 + Bx) / x."" Answer: By factoring out x: (Ax^2 + Bx) / x = Ax + B if x ≠ 0"
+"Question: simplify (Cx^2 - Dx) / (Ex - F). Answer: Factor if possible, but without concrete coefficients, definitive simplification is unclear."
+Question: multiply (Gx/H) * (I/Jx). Answer: (Gx/H) * (I/Jx) = (GI) / (HJ) if x ≠ 0
+Question: divide (K/Lx) ÷ (Mx/N). Answer: (K/Lx) ÷ (Mx/N) = (K * N) / (L * Mx^2) if x ≠ 0
+Question: simplify complex fraction (Ox/P)/(Qx/R). Answer: (Ox/P)/(Qx/R) = (Ox * R) / (P * Qx) = ORx/PQx if Qx ≠ 0
+Question: factor the rational expression (Sx^3 - Tx^2) / x. Answer: Factoring out x^2: (Sx^3 - Tx^2) / x = Sx^2 - Tx if x ≠ 0
+"Question: find the excluded values for Ux^2/V. Answer: None. Since the denominator does not contain x, no values of x are excluded."
+"Question: simplify (Wx + X) / (Yx - Z). Answer: Without specific values, definitive simplification is unclear. But if W/Y ≠ X/Z, further simplification may not be possible."
+Question: multiply (A^2/Bx) * (Cx/D^2). Answer: (A^2/Bx) * (Cx/D^2) = (A^2Cx) / (BxD^2) if x ≠ 0
+Question: divide (Ex^2/F) ÷ (Gx/H). Answer: (Ex^2/F) ÷ (Gx/H) = (Ex^2 * H) / (FGx) = EHx/F^2 if G ≠ 0
+"Question: simplify (Ix^3 + J) / (Kx^2 - L). Answer: Without specific coefficients, definitive simplification is unclear."
+Question: factor the rational expression (Mx^4 - Nx^2) / x. Answer: Factoring out x^2: (Mx^4 - Nx^2) / x = Mx^3 - Nx if x ≠ 0
+"Question: simplify (Ox + P^2) / (Q + Rx). Answer: Without specific values, definitive simplification is unclear."
+Question: multiply (S/Tx^2) * (Ux/V). Answer: (S/Tx^2) * (Ux/V) = (SU) / (TVx) if x ≠ 0
+Question: divide (Wx^3/X) ÷ (Yx/Z). Answer: (Wx^3/X) ÷ (Yx/Z) = (Wx^3 * Z) / (XYx) = WZx^2/XY if Y ≠ 0
+Question: simplify complex fraction (Ax^2 + B) / (Cx/Dx). Answer: (Ax^2 + B) / (Cx/Dx) = Dx(Ax^2 + B) / Cx = ADx^3 + BDx/Cx if Cx ≠ 0
+Question: factor the rational expression (Ex^5 - Fx^3) / x. Answer: Factoring out x^3: (Ex^5 - Fx^3) / x = Ex^4 - Fx^2 if x ≠ 0
+"Question: simplify (Gx - H) / (Ix^2 + Jx). Answer: Without specific values, definitive simplification is unclear."
+Question: multiply (K/L) * (Mx^2/N). Answer: (K/L) * (Mx^2/N) = KMx^2/LN
+Question: divide (Ox/P) ÷ (Q/Rx^3). Answer: (Ox/P) ÷ (Q/Rx^3) = (Ox * Rx^3) / PQ = ORx^4/PQ if Q ≠ 0
+"Question: solve for x, Ax + B > C. Answer: Subtract B from both sides: Ax > C - B. Divide by A: x > (C - B) / A if A > 0. If A < 0, the inequality direction changes: x < (C - B) / A."
+"Question: solve for x, Dx - E ≤ Fx + G. Answer: Combine like terms: (D - F)x ≤ E + G. Solve for x: x ≤ (E + G) / (D - F) if D - F > 0. If D - F < 0, the inequality direction changes: x ≥ (E + G) / (D - F)."
+"Question: solve for x, Hx / I ≥ Jx - K. Answer: Clear the fraction by multiplying by I: Hx ≥ I(Jx - K). Distribute and solve for x."
+"Question: solve for x, Lx^2 + Mx < Nx + O. Answer: Rearrange terms: Lx^2 + (M - N)x - O < 0. Factor if possible, then use the test point method or the quadratic formula."
+"Question: solve for x, Px^2 - Q ≤ R. Answer: Rearrange terms: Px^2 - Q - R ≤ 0. Factor if possible, then determine where the quadratic is nonpositive."
+"Question: solve for x, Sx / (Tx - U) > V. Answer: Cross multiply if Tx - U ≠ 0 and solve the resulting inequality. Note: Check the sign of (Tx - U) as multiplication or division by a negative number will reverse the inequality."
+"Question: solve for x, W - Xx ≤ Yx^2 + Z. Answer: Rearrange to get a quadratic inequality: Yx^2 + (X + Z)x - W ≤ 0. Factor if possible, and determine the solution interval."
+"Question: solve for x, Ax^3 + B > Cx^2 + D. Answer: Rearrange terms: Ax^3 - Cx^2 + B - D > 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Ex^2 + Fx ≤ Gx^3 + Hx + I. Answer: Rearrange terms: Ex^2 - Gx^3 + (F - H)x - I ≤ 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, J/K > Lx/M. Answer: Cross-multiply to get rid of the fraction: JM > KLx. Solve for x: x < JM/KL if KL > 0. If KL < 0, the inequality direction changes: x > JM/KL."
+"Question: solve for x, Nx^4 - Ox^2 ≤ Px. Answer: Factor the left-hand side if possible. Determine the zeros and test the intervals to find where the polynomial is nonpositive."
+"Question: solve for x, Qx^2 + Rx + S > 0. Answer: Factor the quadratic if possible. If not, use the discriminant to determine the number of real solutions and then test the intervals."
+"Question: solve for x, Tx^3 ≤ Ux + V. Answer: Rearrange terms: Tx^3 - Ux - V ≤ 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Wx^2 > X. Answer: Rearrange terms: Wx^2 - X > 0. Factor if possible and determine where the quadratic is positive."
+"Question: solve for x, Yx + Z ≤ A^2x^3 + B^2. Answer: Rearrange to get: A^2x^3 - Yx + (B^2 - Z) ≤ 0. Factor if possible, and determine the solution interval."
+"Question: solve for x, C^2x^2 > Dx^4 + E^2. Answer: Rearrange to get: C^2x^2 - Dx^4 - E^2 > 0. Factor if possible, and determine where the polynomial is positive."
+"Question: solve for x, F^2 - G^2x ≤ H^2x^3 + I^2. Answer: Rearrange to get: H^2x^3 + G^2x + (I^2 - F^2) ≤ 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Jx^4 + Kx^2 < Lx^3 + M. Answer: Rearrange terms: Jx^4 - Lx^3 + Kx^2 - M < 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Nx - O ≤ Px^2. Answer: Rearrange terms: Px^2 - Nx + O ≤ 0. Factor if possible and determine where the quadratic is nonpositive."
+"Question: solve for x, Q^2 > Rx^2 + Sx + T. Answer: Rearrange to get: -Rx^2 - Sx + (Q^2 - T) > 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Ux^3 + Vx > Wx^2. Answer: Rearrange terms: Ux^3 - Wx^2 + Vx > 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Xx + Y ≤ Zx^3. Answer: Rearrange to get: Zx^3 - Xx - Y ≤ 0. Factor if possible, and determine the solution interval."
+"Question: solve for x, Ax^4 < Bx^2 + Cx. Answer: Rearrange terms: Ax^4 - Bx^2 - Cx < 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Dx^5 + Ex^3 ≥ Fx^4. Answer: Rearrange terms: Dx^5 - Fx^4 + Ex^3 ≥ 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, Gx^2 + H < Ix. Answer: Rearrange terms: Gx^2 - Ix + H < 0. Factor if possible and determine where the quadratic is negative."
+"Question: solve for x, Jx^3 ≤ Kx^2 + L. Answer: Rearrange to get: Jx^3 - Kx^2 - L ≤ 0. Factor if possible, and determine the solution interval."
+"Question: solve for x, Mx^4 > Nx + O. Answer: Rearrange to get: Mx^4 - Nx - O > 0. Determine the factors and critical points, then test the intervals."
+"Question: solve for x, |Ax + B| = C. Answer: Either Ax + B = C or Ax + B = -C. Solve each equation for x."
+"Question: solve for x, |Dx - E| > F. Answer: Either Dx - E > F or Dx - E < -F. Solve each inequality for x."
+"Question: solve for x, |Gx^2 + Hx| ≤ I. Answer: The expression inside the absolute value is either nonnegative (Gx^2 + Hx ≤ I and Gx^2 + Hx ≥ 0) or nonpositive (Gx^2 + Hx ≥ -I and Gx^2 + Hx ≤ 0). Solve for x in each case."
+"Question: solve for x, |Jx^3 - K| > L. Answer: Either Jx^3 - K > L or Jx^3 - K < -L. Solve each inequality for x."
+"Question: solve for x, |Mx + N| = O^2. Answer: Either Mx + N = O^2 or Mx + N = -O^2. Solve each equation for x."
+"Question: solve for x, |Px^2 - Q| ≤ R^2. Answer: The expression inside the absolute value is either nonnegative (Px^2 - Q ≤ R^2 and Px^2 - Q ≥ 0) or nonpositive (Px^2 - Q ≥ -R^2 and Px^2 - Q ≤ 0). Solve for x in each case."
+"Question: solve for x, |Sx^3 + T| > U^2. Answer: Either Sx^3 + T > U^2 or Sx^3 + T < -U^2. Solve each inequality for x."
+"Question: solve for x, |Vx + W| = X^3. Answer: Either Vx + W = X^3 or Vx + W = -X^3. Solve each equation for x."
+"Question: solve for x, |Yx^2 - Z| ≤ A^3. Answer: The expression inside the absolute value is either nonnegative (Yx^2 - Z ≤ A^3 and Yx^2 - Z ≥ 0) or nonpositive (Yx^2 - Z ≥ -A^3 and Yx^2 - Z ≤ 0). Solve for x in each case."
+"Question: solve for x, |B^4x^3 + C^4| > D^4. Answer: Either B^4x^3 + C^4 > D^4 or B^4x^3 + C^4 < -D^4. Solve each inequality for x."
+"Question: solve for x, |Ex^2 + F| = G^2. Answer: Either Ex^2 + F = G^2 or Ex^2 + F = -G^2. Solve each equation for x."
+"Question: solve for x, |Hx^3 - I| ≤ J. Answer: The expression inside the absolute value is either nonnegative (Hx^3 - I ≤ J and Hx^3 - I ≥ 0) or nonpositive (Hx^3 - I ≥ -J and Hx^3 - I ≤ 0). Solve for x in each case."
+"Question: solve for x, |Kx + L^2| > M. Answer: Either Kx + L^2 > M or Kx + L^2 < -M. Solve each inequality for x."
+"Question: solve for x, |Nx^2 - O| = P^3. Answer: Either Nx^2 - O = P^3 or Nx^2 - O = -P^3. Solve each equation for x."
+"Question: solve for x, |Qx^4 + R| ≤ S^2. Answer: The expression inside the absolute value is either nonnegative (Qx^4 + R ≤ S^2 and Qx^4 + R ≥ 0) or nonpositive (Qx^4 + R ≥ -S^2 and Qx^4 + R ≤ 0). Solve for x in each case."
+"Question: solve for x, |Tx^5 - U^3| > V. Answer: Either Tx^5 - U^3 > V or Tx^5 - U^3 < -V. Solve each inequality for x."
+"Question: solve for x, |Wx + X^4| = Y. Answer: Either Wx + X^4 = Y or Wx + X^4 = -Y. Solve each equation for x."
+"Question: solve for x, |Zx^2 + A^5| ≤ B^4. Answer: The expression inside the absolute value is either nonnegative (Zx^2 + A^5 ≤ B^4 and Zx^2 + A^5 ≥ 0) or nonpositive (Zx^2 + A^5 ≥ -B^4 and Zx^2 + A^5 ≤ 0). Solve for x in each case."
+"Question: solve for x, |C^6x^3 - D| > E^3. Answer: Either C^6x^3 - D > E^3 or C^6x^3 - D < -E^3. Solve each inequality for x."
+"Question: solve for x, |F^2x - G^6| = H^4. Answer: Either F^2x - G^6 = H^4 or F^2x - G^6 = -H^4. Solve each equation for x."
+"Question: solve for x, |Ix^3 + J^2| = K. Answer: Either Ix^3 + J^2 = K or Ix^3 + J^2 = -K. Solve each equation for x."
+"Question: solve for x, |Lx^4 - M^3| ≤ N. Answer: The expression inside the absolute value is either nonnegative (Lx^4 - M^3 ≤ N and Lx^4 - M^3 ≥ 0) or nonpositive (Lx^4 - M^3 ≥ -N and Lx^4 - M^3 ≤ 0). Solve for x in each case."
+"Question: solve for x, |Ox + P^4| > Q^2. Answer: Either Ox + P^4 > Q^2 or Ox + P^4 < -Q^2. Solve each inequality for x."
+"Question: solve for x, |Rx^2 + S| = T^5. Answer: Either Rx^2 + S = T^5 or Rx^2 + S = -T^5. Solve each equation for x."
+"Question: solve for x, |Ux^5 - V| ≤ W^3. Answer: The expression inside the absolute value is either nonnegative (Ux^5 - V ≤ W^3 and Ux^5 - V ≥ 0) or nonpositive (Ux^5 - V ≥ -W^3 and Ux^5 - V ≤ 0). Solve for x in each case."
+"Question: solve for x, |Xx^6 + Y^3| > Z. Answer: Either Xx^6 + Y^3 > Z or Xx^6 + Y^3 < -Z. Solve each inequality for x."
+"Question: solve for x, |Ax^7 - B^4| = C^2. Answer: Either Ax^7 - B^4 = C^2 or Ax^7 - B^4 = -C^2. Solve each equation for x."
+"Question: solve for x, |Dx^8 + E| ≤ F^5. Answer: The expression inside the absolute value is either nonnegative (Dx^8 + E ≤ F^5 and Dx^8 + E ≥ 0) or nonpositive (Dx^8 + E ≥ -F^5 and Dx^8 + E ≤ 0). Solve for x in each case."
+"Question: solve for x, |Gx - H^6| > I^4. Answer: Either Gx - H^6 > I^4 or Gx - H^6 < -I^4. Solve each inequality for x."
+"Question: solve for x, |Jx^9 + K^2| = L^3. Answer: Either Jx^9 + K^2 = L^3 or Jx^9 + K^2 = -L^3. Solve each equation for x."
+"Question: If A is to B as C is to D, find A in terms of B, C, and D. Answer: A/B = C/D --> A = (B*C)/D."
+"Question: If the ratio of E to F is G:H, what is E in terms of F, G, and H? Answer: E/F = G/H --> E = (F*G)/H."
+"Question: In a ratio I:J:K, if J is L times K, express I in terms of J, K, and L. Answer: J = L*K, so I:J:K = I:L*K:K."
+"Question: If M is directly proportional to N, and M = O when N = P, find M in terms of N, O, and P. Answer: M/N = O/P --> M = (N*O)/P."
+"Question: Q and R are inversely proportional. If Q = S when R = T, find Q in terms of R, S, and T. Answer: Q*R = S*T --> Q = (S*T)/R."
+"Question: If U, V, and W are in the ratio X:Y:Z and U+V+W = A, express U in terms of A, X, Y, and Z. Answer: U/A = X/(X+Y+Z) --> U = (A*X)/(X+Y+Z)."
+"Question: B and C are inversely proportional. If B = D when C = E, find B in terms of C, D, and E. Answer: B*C = D*E --> B = (D*E)/C."
+"Question: F is directly proportional to G, and F = H when G = I, find F in terms of G, H, and I. Answer: F/G = H/I --> F = (G*H)/I."
+"Question: J, K, and L are in the ratio M:N:O, and J+K+L = P, express J in terms of P, M, N, and O. Answer: J/P = M/(M+N+O) --> J = (P*M)/(M+N+O)."
+"Question: Q is to R as S is to T, find Q in terms of R, S, and T. Answer: Q/R = S/T --> Q = (R*S)/T."
+"Question: If U is to V as W is to X, determine U in terms of V, W, and X. Answer: U/V = W/X --> U = (V*W)/X."
+"Question: The ratio of A to B is C:D. How is A represented in terms of B, C, and D? Answer: A/B = C/D --> A = (B*C)/D."
+"Question: In a proportion E:F:G, if F is H times G, express E in relation to F, G, and H. Answer: F = H*G, so E:F:G = E:H*G:G."
+"Question: If I is directly related to J, and I = K when J = L, determine I in terms of J, K, and L. Answer: I/J = K/L --> I = (J*K)/L."
+"Question: M and N are inversely related. When M is O, N is P. Express M in terms of N, O, and P. Answer: M*N = O*P --> M = (O*P)/N."
+"Question: R, S, and T are in the proportion U:V:W, with the sum being X. How is R represented in terms of X, U, V, and W? Answer: R/X = U/(U+V+W) --> R = (X*U)/(U+V+W)."
+"Question: If Y is directly proportional to Z, and Y = A when Z = B, express Y in terms of Z, A, and B. Answer: Y/Z = A/B --> Y = (Z*A)/B."
+"Question: C, D, and E are in the ratio F:G:H, with their total being I. Represent C in relation to I, F, G, and H. Answer: C/I = F/(F+G+H) --> C = (I*F)/(F+G+H)."
+"Question: J is to K as L is to M. What is J in terms of K, L, and M? Answer: J/K = L/M --> J = (K*L)/M."
+"Question: If N is inversely related to O, and N = P when O = Q, represent N using O, P, and Q. Answer: N*O = P*Q --> N = (P*Q)/O."
+"Question: If A is inversely proportional to B, and A = C when B = D, find A in terms of B, C, and D. Answer: A*B = C*D --> A = (C*D)/B."
+"Question: The ratio of E to F is G:H. If the product of E and F is I, express E in terms of F, G, H, and I. Answer: E/F = G/H --> E^2 = (I*G^2)/(H^2) --> E = √[(I*G^2)/(H^2)]."
+"Question: J is directly proportional to the square of K. If J = L when K = M, determine J in terms of K, L, and M. Answer: J/K^2 = L/M^2 --> J = L(K^2/M^2)."
+"Question: If N and O are inversely proportional, and the sum of N and O is P, express N in terms of O and P. Answer: N*O = constant --> N = P - O."
+"Question: Q and R are in the ratio S:T. If the difference between Q and R is U, determine Q in terms of R, S, T, and U. Answer: Q/R = S/T --> Q = R(S/T) --> Q = R + U."
+"Question: V, W, and X are in the proportion Y:Z:A, and V-W = B. How is V expressed in terms of W, X, Y, Z, and A? Answer: V/W = Y/Z --> V = W(Y/Z) --> V = W + B."
+"Question: If C is directly proportional to the cube of D, and C = E when D = F, find C in terms of D, E, and F. Answer: C/D^3 = E/F^3 --> C = E(D^3/F^3)."
+"Question: G, H, and I are in the ratio J:K:L, and G/H = M. What is G in terms of H, I, J, K, and L? Answer: G/H = J/K --> G = H(J/K)."
+"Question: If N is inversely proportional to the square of O, and N = P when O = Q, represent N using O, P, and Q. Answer: N*O^2 = P*Q^2 --> N = (P*Q^2)/O^2."
+"Question: R and S are in the proportion T:U. If R-S = V, how is R represented in relation to S, T, and U? Answer: R/S = T/U --> R = S(T/U) --> R = S + V."
+"Question: If A's relation to B is as C's relation to D, and A - B = E, determine A in terms of B, C, D, and E. Answer: A/B = C/D --> A = (B*C)/D --> A = B + E."
+"Question: The proportion of F to G is H:I. If the product of F and G is J, express F using G, H, I, and J. Answer: F/G = H/I --> F = (G*H)/I --> F = √(J*H^2/I^2)."
+"Question: K is in direct relation with the square of L. When K = M, L = N, deduce K in relation to L, M, and N. Answer: K/L^2 = M/N^2 --> K = M(L^2/N^2)."
+Question: The inverse relationship of O and P results in a sum of Q. Write O in terms of P and Q. Answer: O = Q - P.
+"Question: R, S, and T exhibit the ratio U:V:W. If R+S = X, express R in terms of S, T, U, V, and W. Answer: R/S = U/V --> R = S(U/V) --> R = (X*T)/(V+W)."
+"Question: Z's direct relationship with the cube of A results in Z = B when A = C. Find Z using A, B, and C. Answer: Z/A^3 = B/C^3 --> Z = B(A^3/C^3)."
+"Question: D, E, and F's ratio is G:H:I. If D/E = J, determine D in terms of E, F, G, H, and I. Answer: D/E = G/H --> D = E(G/H)."
+"Question: K is inversely related to the square of L. If K = M when L = N, express K using L, M, and N. Answer: K*L^2 = M*N^2 --> K = (M*N^2)/L^2."
+"Question: O's relation to P mirrors Q's to R. If O+P = S, how can O be represented concerning P, Q, R, and S? Answer: O/P = Q/R --> O = P(Q/R) --> O = S - P."
+"Question: T and U's proportionality is V:W. When T-U = X, how is T described in relation to U, V, and W? Answer: T/U = V/W --> T = U(V/W) --> T = U + X."
+Question: Simplify A(B + C) + D(E - F). Answer: AB + AC + DE - DF.
+Question: Solve for x: A(x + B) = C. Answer: x = C/A - B.
+Question: Solve for y: D^2y - E = F. Answer: y = (E + F)/D^2.
+Question: Factorize G^2 - H^2. Answer: (G + H)(G - H).
+Question: Factorize I^3 - I. Answer: I(I^2 - 1).
+Question: Simplify J(K + L + M). Answer: JK + JL + JM.
+Question: Simplify (N/O) + (P/Q). Answer: (NQ + OP)/(OQ).
+Question: Solve for R: (R/S) = T. Answer: R = T * S.
+Question: Solve for U: VU > W. Answer: U > W/V.
+Question: Solve for X: X^2 ≤ Y. Answer: X ≤ √Y.
+Question: Solve for Z: |Z - A| = B. Answer: Z = A ± B.
+"Question: If C is to D as E is to F, find C. Answer: C/D = E/F --> C = (D * E)/F."
+Question: Solve for G: G^2 + H^2 = I. Answer: G = √(I - H^2).
+Question: Simplify: J + K - J. Answer: K.
+Question: Simplify A(B + C) + D(E - F). Answer: AB + AC + DE - DF.
+Question: Solve for x: A(x + B) = C. Answer: x = C/A - B.
+Question: Solve for y: D^2y - E = F. Answer: y = (E + F)/D^2.
+Question: Factorize G^2 - H^2. Answer: (G + H)(G - H).
+Question: Factorize I^3 - I. Answer: I(I^2 - 1).
+Question: Simplify J(K + L + M). Answer: JK + JL + JM.
+Question: Simplify (N/O) + (P/Q). Answer: (NQ + OP)/(OQ).
+Question: Solve for R: (R/S) = T. Answer: R = T * S.
+Question: Solve for U: VU > W. Answer: U > W/V.
+Question: Solve for X: X^2 ≤ Y. Answer: X ≤ √Y.
+Question: Solve for Z: |Z - A| = B. Answer: Z = A ± B.
+"Question: If C is to D as E is to F, find C. Answer: C/D = E/F --> C = (D * E)/F."
+Question: Solve for G: G^2 + H^2 = I. Answer: G = √(I - H^2).
+Question: Simplify: J + K - J. Answer: K.
+Question: Solve for A: 2A + B = C. Answer: A = (C - B)/2.
+Question: Simplify D(E + F + G). Answer: DE + DF + DG.
+Question: Factorize H^2 - I^2. Answer: (H + I)(H - I).
+Question: Solve for J: K/J = L. Answer: J = K/L.
+Question: Simplify (M/N) - (O/P). Answer: (MP - NO)/(NP).
+Question: Solve for Q: R + S^2Q = T. Answer: Q = (T - R)/S^2.
+Question: Solve for U: VU + W = X. Answer: U = (X - W)/V.
+Question: Factorize Y^3 - Z. Answer: Y(Y^2 - Z/Y^2).
+Question: Solve for A: |2A - B| = C. Answer: 2A = B ± C.
+Question: Simplify D(E - F + G). Answer: DE - DF + DG.
+"Question: If H/I = J/K, find H. Answer: H = (I * J)/K."
+Question: Solve for L: M^2L + N = O. Answer: L = (O - N)/M^2.
+Question: Solve for P: P^2 + Q = R. Answer: P = √(R - Q).
+Question: Simplify: S + T - S. Answer: T.
+Question: Factorize U^2 - V^2. Answer: (U + V)(U - V).
+Question: Solve for A: A + B = 2C. Answer: A = 2C - B.
+Question: Simplify D^2(E + F). Answer: D^2E + D^2F.
+Question: Factorize G^2 - 4H^2. Answer: (G + 2H)(G - 2H).
+Question: Solve for I: J/I = K. Answer: I = J/K.
+Question: Simplify (L/M) + (N/O). Answer: (LO + MN)/(MO).
+Question: Solve for P: QP + R = 3S. Answer: P = (3S - R)/Q.
+Question: Solve for T: U^2T - V = W. Answer: T = (W + V)/U^2.
+Question: Factorize X^3 + X. Answer: X(X^2 + 1).
+Question: Solve for Y: |Y + Z| = A. Answer: Y = A - Z or Y = -A - Z.
+Question: Simplify B(C + D - E). Answer: BC + BD - BE.
+"Question: If F/G = H/I, find F. Answer: F = (G * H)/I."
+Question: Solve for J: K + LJ = M. Answer: J = (M - K)/L.
+Question: Solve for N: O^2 = N + P. Answer: N = O^2 - P.
+Question: Simplify: Q + R - Q. Answer: R.
+Question: Factorize S^2 - 9T^2. Answer: (S + 3T)(S - 3T).
+"Question: Simplify A + B - A.","Answer: B."
+"Question: Solve for C: 2C + D = 3E.","Answer: C = (3E - D)/2."
+"Question: Factorize F^2 - 16G^2.","Answer: (F + 4G)(F - 4G)."
+"Question: Simplify H(I + J).","Answer: HI + HJ."
+"Question: Solve for K: L/K = M.","Answer: K = L/M."
+"Question: Simplify (N/O) - (P/Q).","Answer: (NQ - OP)/(OQ)."
+"Question: Solve for R: S + 3R = T.","Answer: R = (T - S)/3."
+"Question: Factorize U^4 - V^2.","Answer: (U^2 + V)(U^2 - V)."
+"Question: Solve for W: X^2W = Y.","Answer: W = Y/X^2."
+"Question: Simplify Z(A - B).","Answer: ZA - ZB."
+"Question: Solve for A: B + CA = D.","Answer: A = (D - B)/C."
+"Question: Solve for E: F - 2E = G.","Answer: E = (F - G)/2."
+"Question: Simplify H/I + J/K.","Answer: (HK + IJ)/(IK)."
+"Question: Factorize L^3 - M^3.","Answer: (L - M)(L^2 + LM + M^2)."
+"Question: Solve for N: O + PN = Q.","Answer: N = (Q - O)/P."
+"Question: Solve for R: 4R + S = T.","Answer: R = (T - S)/4."
+"Question: Simplify U(V + W).","Answer: UV + UW."
+"Question: Factorize X^2 - 25Y^2.","Answer: (X + 5Y)(X - 5Y)."
+"Question: Solve for Z: A - BZ = C.","Answer: Z = (A - C)/B."
+"Question: Simplify D^2(E - F).","Answer: D^2E - D^2F."
+"Question: Solve for G: H^2 = G + I.","Answer: G = H^2 - I."
+"Question: Factorize J^3 + J.","Answer: J(J^2 + 1)."
+"Question: Simplify K(L/M).","Answer: KL/M."
+"Question: Solve for N: O + P^2N = Q.","Answer: N = (Q - O)/P^2."
+"Question: Solve for R: S/R = T.","Answer: R = S/T."
+"Question","Answer"
+"Question: Solve for A: A + B = C.","Answer: A = C - B."
+"Question: Simplify D(E - F).","Answer: DE - DF."
+"Question: Factorize G^2 - H^2.","Answer: (G + H)(G - H)."
+"Question: Solve for I: J/I = K.","Answer: I = J/K."
+"Question: Simplify (L/M) + (N/O).","Answer: (LO + MN)/(MO)."
+"Question: Solve for P: QP + R = S.","Answer: P = (S - R)/Q."
+"Question: Factorize T^3 - U.","Answer: T(T^2 - U/T^2)."
+"Question: Solve for V: W^2V - X = Y.","Answer: V = (Y + X)/W^2."
+"Question: Solve for Z: |Z + A| = B.","Answer: Z = B - A or Z = -B - A."
+"Question: Simplify C(D + E).","Answer: CD + CE."
+"Question: Solve for F: G + HF = I.","Answer: F = (I - G)/H."
+"Question: Factorize J^2 - 4K^2.","Answer: (J + 2K)(J - 2K)."
+"Question: Solve for L: M + N^2L = O.","Answer: L = (O - M)/N^2."
+"Question: Simplify P/Q + R/S.","Answer: (PS + QR)/(QS)."
+"Question: Factorize T^3 + T.","Answer: T(T^2 + 1)."
+"Question: Solve for U: V + WU = X.","Answer: U = (X - V)/W."
+"Question: Simplify Y^2(Z + A).","Answer: Y^2Z + Y^2A."
+"Question: Solve for B: C - B = D.","Answer: B = C - D."
+"Question: Factorize E^2 - 9F^2.","Answer: (E + 3F)(E - 3F)."
+"Question: Solve for G: H - IG = J.","Answer: G = (H - J)/I."
+"Question: Simplify K^3(L + M).","Answer: K^3L + K^3M."
+"Question: Solve for N: O + P/N = Q.","Answer: N = P/(Q - O)."
+"Question: Solve for R: S/R = T.","Answer: R = S/T."
+"Question: Factorize U^2 - V^2.","Answer: (U + V)(U - V)."
+"Question: Simplify W(X + Y).","Answer: WX + WY."
+"Question: Solve for Z: A^2Z + B = C.","Answer: Z = (C - B)/A^2."
+"Question: Simplify D^2(E - F).","Answer: D^2E - D^2F."
+"Question: Factorize G^3 - H.","Answer: G(G^2 - H/G^2)."
+"Question: Solve for I: J^2 + KI = L.","Answer: I = (L - J^2)/K."
+"Question: Simplify M/N - O/P.","Answer: (MP - NO)/(NP)."
+"Question: Solve for Q: R^3Q = S.","Answer: Q = S/R^3."
+"Question: Factorize T^4 - U^2.","Answer: (T^2 + U)(T^2 - U)."
+"Question: Solve for V: W + XV = Y.","Answer: V = (Y - W)/X."
+"Question: Solve for Z: A - BZ = C.","Answer: Z = (A - C)/B."
+"Question: Simplify D(E + F + G).","Answer: DE + DF + DG."
+"Question: Factorize H^2 - I^2.","Answer: (H + I)(H - I)."
+"Question: Solve for J: KJ + L = M.","Answer: J = (M - L)/K."
+"Question: Simplify N(O + P).","Answer: NO + NP."
+"Question: Solve for Q: R^2 + SQ = T.","Answer: Q = (T - R^2)/S."
+"Question: Factorize U^3 - V^3.","Answer: (U - V)(U^2 + UV + V^2)."
+"Question: Solve for W: X^2 - YW = Z.","Answer: W = (X^2 - Z)/Y."
+"Question: Simplify A(B + C).","Answer: AB + AC."
+"Question: Solve for D: E + F^2D = G.","Answer: D = (G - E)/F^2."
+"Question: Factorize H^3 + I^3.","Answer: (H + I)(H^2 - HI + I^2)."
+"Question: Solve for J: K + LJ = M.","Answer: J = (M - K)/L."
+"Question: Simplify N(O - P).","Answer: NO - NP."
+"Question: Solve for Q: R^2Q = S.","Answer: Q = S/R^2."
+"Question: Factorize T^2 - U^2.","Answer: (T + U)(T - U)."
+"Question: Solve for V: W - XV = Y.","Answer: V = (W - Y)/X."
+"Question: Solve for Z: A + BZ = C.","Answer: Z = (C - A)/B."
+"Question: Simplify D^2(E + F).","Answer: D^2E + D^2F."
+"Question: Factorize G^3 - H.","Answer: G(G^2 - H/G^2)."
+"Question: Solve for I: J^2 + KI = L.","Answer: I = (L - J^2)/K."
+"Question: Simplify M/N + O/P.","Answer: (MP + NO)/(NP)."
+"Question: Solve for Q: R^3Q = S.","Answer: Q = S/R^3."
+"Question: Factorize T^4 - U^2.","Answer: (T^2 + U)(T^2 - U)."
+"Question: Solve for V: W + XV = Y.","Answer: V = (Y - W)/X."
+"Question: Solve for Z: A - BZ = C.","Answer: Z = (A - C)/B."
+"Question: Simplify D(E + F + G).","Answer: DE + DF + DG."
+"Question: Factorize H^2 - I^2.","Answer: (H + I)(H - I)."
+"Question: Solve for J: KJ + L = M.","Answer: J = (M - L)/K."
+"Question: Simplify N(O + P).","Answer: NO + NP."
+"Question: Solve for Q: R^2 + SQ = T.","Answer: Q = (T - R^2)/S."
+"Question: Factorize U^3 - V^3.","Answer: (U - V)(U^2 + UV + V^2)."
+"Question: Solve for W: X^2 - YW = Z.","Answer: W = (X^2 - Z)/Y."
+"Question: Simplify A(B + C).","Answer: AB + AC."
+"Question: Solve for D: E + F^2D = G.","Answer: D = (G - E)/F^2."
+"Question: Factorize H^3 + I^3.","Answer: (H + I)(H^2 - HI + I^2)."
+"Question: Solve for J: K + LJ = M.","Answer: J = (M - K)/L."
+"Question: Simplify N(O - P).","Answer: NO - NP."
+"Question: Solve for Q: R^2Q = S.","Answer: Q = S/R^2."
+"Question: Factorize T^2 - U^2.","Answer: (T + U)(T - U)."
+"Question: Solve for V: W - XV = Y.","Answer: V = (W - Y)/X."
+"Question","Answer"
+"Question: Solve for A: 2A + B = C.","Answer: A = (C - B)/2."
+"Question: Simplify E(E - F).","Answer: E^2 - EF."
+"Question: Factorize G^2 - H^2.","Answer: (G + H)(G - H)."
+"Question: Solve for I: 3J/I = K.","Answer: I = 3J/K."
+"Question: Simplify (L/M) - (N/O).","Answer: (LO - MN)/(MO)."
+"Question: Solve for P: 2QP + R = S.","Answer: P = (S - R)/2Q."
+"Question: Factorize T^3 + U.","Answer: T(T^2 + U/T^2)."
+"Question: Solve for V: 3W^2V - X = Y.","Answer: V = (Y + X)/3W^2."
+"Question: Solve for Z: |2Z + A| = B.","Answer: Z = B/2 - A or Z = -B/2 - A."
+"Question: Simplify 2C(D + E).","Answer: 2CD + 2CE."
+"Question: Solve for F: 3G + HF = I.","Answer: F = (I - 3G)/H."
+"Question: Factorize 4J^2 - K^2.","Answer: (2J + K)(2J - K)."
+"Question: Solve for L: 2M + N^2L = O.","Answer: L = (O - 2M)/N^2."
+"Question: Simplify 2P/Q + R/S.","Answer: (2PS + QR)/(QS)."
+"Question: Factorize 3T^3 + T.","Answer: T(3T^2 + 1)."
+"Question: Solve for U: V + 2WU = X.","Answer: U = (X - V)/2W."
+"Question: Simplify 2Y^2(Z + A).","Answer: 2Y^2Z + 2Y^2A."
+"Question: Solve for B: 3C - B = D.","Answer: B = 3C - D."
+"Question: Factorize E^2 - 9F^2.","Answer: (E + 3F)(E - 3F)."
+"Question: Solve for G: 2H - IG = J.","Answer: G = (2H - J)/I."
+"Question: Simplify K^3(2L + M).","Answer: 2K^3L + K^3M."
+"Question: Solve for N: O + 3P/N = Q.","Answer: N = 3P/(Q - O)."
+"Question: Solve for R: 2S/R = T.","Answer: R = 2S/T."
+"Question: Factorize 2U^2 - V^2.","Answer: (U√2 + V)(U√2 - V)."
+"Question: Simplify 3W(X + Y).","Answer: 3WX + 3WY."
+"Question: Solve for Z: A^2Z + 2B = C.","Answer: Z = (C - 2B)/A^2."
+"Question: Simplify 2D^2(E - F).","Answer: 2D^2E - 2D^2F."
+"Question: Factorize 2G^3 - H.","Answer: G(G^√2 - H/G^√2)."
+"Question: Solve for I: 2J^2 + KI = L.","Answer: I = (L - 2J^2)/K."
+"Question: Simplify 3M/N - O/P.","Answer: (3MP - NO)/(NP)."
+"Question: Solve for Q: 2R^3Q = S.","Answer: Q = S/2R^3."
+"Question: Factorize 3T^4 - U^2.","Answer: (T^(4√3) + U)(T^(4√3) - U)."
+"Question: Solve for V: 3W + XV = Y.","Answer: V = (Y - 3W)/X."
+"Question: Solve for Z: 2A - BZ = C.","Answer: Z = (2A - C)/B."
+"Question: Simplify 3D(E + F + G).","Answer: 3DE + 3DF + 3DG."
+"Question: Factorize 2H^2 - I^2.","Answer: (H√2 + I)(H√2 - I)."
+"Question: Solve for J: 3KJ + L = M.","Answer: J = (M - L)/3K."
+"Question: Simplify 2N(O + P).","Answer: 2NO + 2NP."
+"Question: Solve for Q: 3R^2 + SQ = T.","Answer: Q = (T - 3R^2)/S."
+"Question: Factorize 3U^3 - V^3.","Answer: (U - V^(1/3))(U^2 + U*V^(1/3) + V^(2/3))."
+"Question: Solve for W: 2X^2 - YW = Z.","Answer: W = (2X^2 - Z)/Y."
+"Question: Simplify 4A(B + C).","Answer: 4AB + 4AC."
+"Question: Solve for D: 2E + F^2D = G.","Answer: D = (G - 2E)/F^2."
+"Question: Factorize 3H^3 + I^3.","Answer: (H + I)(H^2 - HI + I^2)."
+"Question: Solve for J: 2K + LJ = M.","Answer: J = (M - 2K)/L."
+"Question: Simplify 3N(O - P).","Answer: 3NO - 3NP."
+"Question: Solve for Q: 4R^2Q = S.","Answer: Q = S/4R^2."
+"Question: Factorize 3T^2 - U^2.","Answer: (T√3 + U)(T√3 - U)."
+"Question: Solve for V: 4W - XV = Y.","Answer: V = (4W - Y)/X."
+"Question: Solve for Z: |3Z + A| = B.","Answer: Z = B/3 - A or Z = -B/3 - A."
+"Question: Simplify 4C(D + E).","Answer: 4CD + 4CE."
+"Question: Solve for F: 3G + HF = I.","Answer: F = (I - 3G)/H."
+"Question: Factorize 4J^2 - K^2.","Answer: (2J + K/2)(2J - K/2)."
+"Question: Solve for L: 4M + N^2L = O.","Answer: L = (O - 4M)/N^2."
+"Question: Simplify 4P/Q + R/S.","Answer: (4PS + QR)/(QS)."
+"Question: Factorize 3T^3 + T.","Answer: T(3T^2 + 1)."
+"Question: Solve for U: V + 4WU = X.","Answer: U = (X - V)/4W."
+"Question: Simplify 3Y^2(Z + A).","Answer: 3Y^2Z + 3Y^2A."
+"Question: Solve for B: 4C - B = D.","Answer: B = 4C - D."
+"Question: Factorize E^2 - 16F^2.","Answer: (E + 4F)(E - 4F)."
+"Question: Solve for G: 4H - IG = J.","Answer: G = (4H - J)/I."
+"Question: Simplify K^4(3L + M).","Answer: 3K^4L + K^4M."
+"Question: Solve for N: O + 4P/N = Q.","Answer: N = 4P/(Q - O)."
+"Question: Solve for R: 4S/R = T.","Answer: R = 4S/T."
+"Question: Factorize 4U^2 - V^2.","Answer: (2U + V/2)(2U - V/2)."
+"Question: Simplify 3W(2X + Y).","Answer: 6WX + 3WY."
+"Question: Solve for Z: 2A^2Z + 3B = C.","Answer: Z = (C - 3B)/2A^2."
+"Question: Simplify 3D^2(2E - F).","Answer: 6D^2E - 3D^2F."
+"Question: Factorize 2G^3 - H.","Answer: G(G^√2 - H/G^√2)."
+"Question: Solve for I: 2J^3 + KI = L.","Answer: I = (L - 2J^3)/K."
+"Question: Simplify 3M/N - O/P.","Answer: (3MP - NO)/(NP)."
+"Question: Solve for Q: 4R^4Q = S.","Answer: Q = S/4R^4."
+"Question: Factorize 4T^5 - U^3.","Answer: (T^(5√4) + U)(T^(5√4) - U)."
+"Question: Solve for V: 5W + XV = Y.","Answer: V = (Y - 5W)/X."
+"Question: Solve for Z: 4A - BZ = C.","Answer: Z = (4A - C)/B."
+"Question: Simplify 5D(E + F + G).","Answer: 5DE + 5DF + 5DG."
+"Question: Factorize 3H^2 - I^2.","Answer: (H√3 + I)(H√3 - I)."
+"Question: Solve for J: 4KJ + L = M.","Answer: J = (M - L)/4K."
+"Question: Simplify 3N(2O + P).","Answer: 6NO + 3NP."
+"Question: Solve for Q: 5R^2 + SQ = T.","Answer: Q = (T - 5R^2)/S."
+"Question: Factorize 3U^4 - V^3.","Answer: (U^(4√3) + V)(U^(4√3) - V)."
+"Question: Solve for W: 6X - YW = Z.","Answer: W = (6X - Z)/Y."
+"Question: Simplify 6A(B + C).","Answer: 6AB + 6AC."
+"Question: Solve for D: 6E + F^3D = G.","Answer: D = (G - 6E)/F^3."
+"Question: Factorize 3H^3 + I^3.","Answer: (H + I)(H^2 - HI + I^2)."
+"Question: Solve for J: 6K + LJ = M.","Answer: J = (M - 6K)/L."
+"Question: Simplify 4N(O - P).","Answer: 4NO - 4NP."
+"Question: Solve for Q: 5R^3Q = S.","Answer: Q = S/5R^3."
+"Question: Factorize 3T^2 - U^3.","Answer: (T^(2√3) + U)(T^(2√3) - U)."
+"Question: Solve for V: 6W + XV = Y.","Answer: V = (Y - 6W)/X."
+"Question: Solve for Z: |4Z + A| = B.","Answer: Z = B/4 - A or Z = -B/4 - A."
+"Question: Simplify 7C(D + E).","Answer: 7CD + 7CE."
+"Question: Solve for F: 6G + HF = I.","Answer: F = (I - 6G)/H."
+"Question: Factorize 5J^2 - K^3.","Answer: J(J^(2√5) - K)."
+"Question: Solve for L: 7M + N^2L = O.","Answer: L = (O - 7M)/N^2."
+"Question: Simplify 7P/Q + R/S.","Answer: (7PS + QR)/(QS)."
+"Question: Factorize 4T^3 + T.","Answer: T(4T^2 + 1)."
+"Question: Solve for U: V + 7WU = X.","Answer: U = (X - V)/7W."
+"Question: Simplify 6Y^2(Z + A).","Answer: 6Y^2Z + 6Y^2A."
+"Question: Solve for B: 7C - B = D.","Answer: B = 7C - D."
+"Question: Factorize E^2 - 25F^2.","Answer: (E + 5F)(E - 5F)."
+"Question: Solve for G: 7H - IG = J.","Answer: G = (7H - J)/I."
+"Question: Simplify K^5(3L + M).","Answer: 3K^5L + K^5M."
+"Question: Solve for N: O + 7P/N = Q.","Answer: N = 7P/(Q - O)."
+"Question: Solve for R: 7S/R = T.","Answer: R = 7S/T."

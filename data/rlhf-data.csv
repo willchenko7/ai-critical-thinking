@@ -1,0 +1,10 @@
+Question
+Add A to both sides: x + A = C --> x = C - A
+Subtract D from both sides: x - D = B --> x = B + D
+Divide both sides by A: Ay = B --> y = B/A
+Multiply both sides by A: y/A = B --> y = A*B
+Take the square root of both sides: x**2 = Q --> x = Q**(1/2)
+Raise both sides to the power of 2: n^(1/2) = A --> n = A^2
+Add A to both sides: y + A = B --> y = B - A
+Subtract A from both sides: z - A = B --> z = B + A
+Divide both sides by Q: Qy = B --> y = B/Q

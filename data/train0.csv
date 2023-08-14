@@ -1,0 +1,180 @@
+sentence
+Question: Solve for A: A + B = C. Answer: A = C - B.
+Question: Simplify D(E - F). Answer: DE - DF.
+Question: Factorize G^2 - H^2. Answer: (G + H)(G - H).
+Question: Solve for I: J/I = K. Answer: I = J/K.
+Question: Simplify (L/M) + (N/O). Answer: (LO + MN)/(MO).
+Question: Solve for P: QP + R = S. Answer: P = (S - R)/Q.
+Question: Factorize T^3 - U. Answer: T(T^2 - U/T^2).
+Question: Solve for V: W^2V - X = Y. Answer: V = (Y + X)/W^2.
+Question: Solve for Z: |Z + A| = B. Answer: Z = B - A or Z = -B - A.
+Question: Simplify C(D + E). Answer: CD + CE.
+Question: Solve for F: G + HF = I. Answer: F = (I - G)/H.
+Question: Factorize J^2 - 4K^2. Answer: (J + 2K)(J - 2K).
+Question: Solve for L: M + N^2L = O. Answer: L = (O - M)/N^2.
+Question: Simplify P/Q + R/S. Answer: (PS + QR)/(QS).
+Question: Factorize T^3 + T. Answer: T(T^2 + 1).
+Question: Solve for U: V + WU = X. Answer: U = (X - V)/W.
+Question: Simplify Y^2(Z + A). Answer: Y^2Z + Y^2A.
+Question: Solve for B: C - B = D. Answer: B = C - D.
+Question: Factorize E^2 - 9F^2. Answer: (E + 3F)(E - 3F).
+Question: Solve for G: H - IG = J. Answer: G = (H - J)/I.
+Question: Simplify K^3(L + M). Answer: K^3L + K^3M.
+Question: Solve for N: O + P/N = Q. Answer: N = P/(Q - O).
+Question: Solve for R: S/R = T. Answer: R = S/T.
+Question: Factorize U^2 - V^2. Answer: (U + V)(U - V).
+Question: Simplify W(X + Y). Answer: WX + WY.
+Question: Solve for Z: A^2Z + B = C. Answer: Z = (C - B)/A^2.
+Question: Simplify D^2(E - F). Answer: D^2E - D^2F.
+Question: Factorize G^3 - H. Answer: G(G^2 - H/G^2).
+Question: Solve for I: J^2 + KI = L. Answer: I = (L - J^2)/K.
+Question: Simplify M/N - O/P. Answer: (MP - NO)/(NP).
+Question: Solve for Q: R^3Q = S. Answer: Q = S/R^3.
+Question: Factorize T^4 - U^2. Answer: (T^2 + U)(T^2 - U).
+Question: Solve for V: W + XV = Y. Answer: V = (Y - W)/X.
+Question: Solve for Z: A - BZ = C. Answer: Z = (A - C)/B.
+Question: Simplify D(E + F + G). Answer: DE + DF + DG.
+Question: Factorize H^2 - I^2. Answer: (H + I)(H - I).
+Question: Solve for J: KJ + L = M. Answer: J = (M - L)/K.
+Question: Simplify N(O + P). Answer: NO + NP.
+Question: Solve for Q: R^2 + SQ = T. Answer: Q = (T - R^2)/S.
+Question: Factorize U^3 - V^3. Answer: (U - V)(U^2 + UV + V^2).
+Question: Solve for W: X^2 - YW = Z. Answer: W = (X^2 - Z)/Y.
+Question: Simplify A(B + C). Answer: AB + AC.
+Question: Solve for D: E + F^2D = G. Answer: D = (G - E)/F^2.
+Question: Factorize H^3 + I^3. Answer: (H + I)(H^2 - HI + I^2).
+Question: Solve for J: K + LJ = M. Answer: J = (M - K)/L.
+Question: Simplify N(O - P). Answer: NO - NP.
+Question: Solve for Q: R^2Q = S. Answer: Q = S/R^2.
+Question: Factorize T^2 - U^2. Answer: (T + U)(T - U).
+Question: Solve for V: W - XV = Y. Answer: V = (W - Y)/X.
+Question: Solve for Z: A + BZ = C. Answer: Z = (C - A)/B.
+Question: Simplify D^2(E + F). Answer: D^2E + D^2F.
+Question: Factorize G^3 - H. Answer: G(G^2 - H/G^2).
+Question: Solve for I: J^2 + KI = L. Answer: I = (L - J^2)/K.
+Question: Simplify M/N + O/P. Answer: (MP + NO)/(NP).
+Question: Solve for Q: R^3Q = S. Answer: Q = S/R^3.
+Question: Factorize T^4 - U^2. Answer: (T^2 + U)(T^2 - U).
+Question: Solve for V: W + XV = Y. Answer: V = (Y - W)/X.
+Question: Solve for Z: A - BZ = C. Answer: Z = (A - C)/B.
+Question: Simplify D(E + F + G). Answer: DE + DF + DG.
+Question: Factorize H^2 - I^2. Answer: (H + I)(H - I).
+Question: Solve for J: KJ + L = M. Answer: J = (M - L)/K.
+Question: Simplify N(O + P). Answer: NO + NP.
+Question: Solve for Q: R^2 + SQ = T. Answer: Q = (T - R^2)/S.
+Question: Factorize U^3 - V^3. Answer: (U - V)(U^2 + UV + V^2).
+Question: Solve for W: X^2 - YW = Z. Answer: W = (X^2 - Z)/Y.
+Question: Simplify A(B + C). Answer: AB + AC.
+Question: Solve for D: E + F^2D = G. Answer: D = (G - E)/F^2.
+Question: Factorize H^3 + I^3. Answer: (H + I)(H^2 - HI + I^2).
+Question: Solve for J: K + LJ = M. Answer: J = (M - K)/L.
+Question: Simplify N(O - P). Answer: NO - NP.
+Question: Solve for Q: R^2Q = S. Answer: Q = S/R^2.
+Question: Factorize T^2 - U^2. Answer: (T + U)(T - U).
+Question: Solve for V: W - XV = Y. Answer: V = (W - Y)/X.
+Question Answer
+Question: Solve for A: 2A + B = C. Answer: A = (C - B)/2.
+Question: Simplify E(E - F). Answer: E^2 - EF.
+Question: Factorize G^2 - H^2. Answer: (G + H)(G - H).
+Question: Solve for I: 3J/I = K. Answer: I = 3J/K.
+Question: Simplify (L/M) - (N/O). Answer: (LO - MN)/(MO).
+Question: Solve for P: 2QP + R = S. Answer: P = (S - R)/2Q.
+Question: Factorize T^3 + U. Answer: T(T^2 + U/T^2).
+Question: Solve for V: 3W^2V - X = Y. Answer: V = (Y + X)/3W^2.
+Question: Solve for Z: |2Z + A| = B. Answer: Z = B/2 - A or Z = -B/2 - A.
+Question: Simplify 2C(D + E). Answer: 2CD + 2CE.
+Question: Solve for F: 3G + HF = I. Answer: F = (I - 3G)/H.
+Question: Factorize 4J^2 - K^2. Answer: (2J + K)(2J - K).
+Question: Solve for L: 2M + N^2L = O. Answer: L = (O - 2M)/N^2.
+Question: Simplify 2P/Q + R/S. Answer: (2PS + QR)/(QS).
+Question: Factorize 3T^3 + T. Answer: T(3T^2 + 1).
+Question: Solve for U: V + 2WU = X. Answer: U = (X - V)/2W.
+Question: Simplify 2Y^2(Z + A). Answer: 2Y^2Z + 2Y^2A.
+Question: Solve for B: 3C - B = D. Answer: B = 3C - D.
+Question: Factorize E^2 - 9F^2. Answer: (E + 3F)(E - 3F).
+Question: Solve for G: 2H - IG = J. Answer: G = (2H - J)/I.
+Question: Simplify K^3(2L + M). Answer: 2K^3L + K^3M.
+Question: Solve for N: O + 3P/N = Q. Answer: N = 3P/(Q - O).
+Question: Solve for R: 2S/R = T. Answer: R = 2S/T.
+Question: Factorize 2U^2 - V^2. Answer: (U√2 + V)(U√2 - V).
+Question: Simplify 3W(X + Y). Answer: 3WX + 3WY.
+Question: Solve for Z: A^2Z + 2B = C. Answer: Z = (C - 2B)/A^2.
+Question: Simplify 2D^2(E - F). Answer: 2D^2E - 2D^2F.
+Question: Factorize 2G^3 - H. Answer: G(G^√2 - H/G^√2).
+Question: Solve for I: 2J^2 + KI = L. Answer: I = (L - 2J^2)/K.
+Question: Simplify 3M/N - O/P. Answer: (3MP - NO)/(NP).
+Question: Solve for Q: 2R^3Q = S. Answer: Q = S/2R^3.
+Question: Factorize 3T^4 - U^2. Answer: (T^(4√3) + U)(T^(4√3) - U).
+Question: Solve for V: 3W + XV = Y. Answer: V = (Y - 3W)/X.
+Question: Solve for Z: 2A - BZ = C. Answer: Z = (2A - C)/B.
+Question: Simplify 3D(E + F + G). Answer: 3DE + 3DF + 3DG.
+Question: Factorize 2H^2 - I^2. Answer: (H√2 + I)(H√2 - I).
+Question: Solve for J: 3KJ + L = M. Answer: J = (M - L)/3K.
+Question: Simplify 2N(O + P). Answer: 2NO + 2NP.
+Question: Solve for Q: 3R^2 + SQ = T. Answer: Q = (T - 3R^2)/S.
+Question: Factorize 3U^3 - V^3. Answer: (U - V^(1/3))(U^2 + U*V^(1/3) + V^(2/3)).
+Question: Solve for W: 2X^2 - YW = Z. Answer: W = (2X^2 - Z)/Y.
+Question: Simplify 4A(B + C). Answer: 4AB + 4AC.
+Question: Solve for D: 2E + F^2D = G. Answer: D = (G - 2E)/F^2.
+Question: Factorize 3H^3 + I^3. Answer: (H + I)(H^2 - HI + I^2).
+Question: Solve for J: 2K + LJ = M. Answer: J = (M - 2K)/L.
+Question: Simplify 3N(O - P). Answer: 3NO - 3NP.
+Question: Solve for Q: 4R^2Q = S. Answer: Q = S/4R^2.
+Question: Factorize 3T^2 - U^2. Answer: (T√3 + U)(T√3 - U).
+Question: Solve for V: 4W - XV = Y. Answer: V = (4W - Y)/X.
+Question: Solve for Z: |3Z + A| = B. Answer: Z = B/3 - A or Z = -B/3 - A.
+Question: Simplify 4C(D + E). Answer: 4CD + 4CE.
+Question: Solve for F: 3G + HF = I. Answer: F = (I - 3G)/H.
+Question: Factorize 4J^2 - K^2. Answer: (2J + K/2)(2J - K/2).
+Question: Solve for L: 4M + N^2L = O. Answer: L = (O - 4M)/N^2.
+Question: Simplify 4P/Q + R/S. Answer: (4PS + QR)/(QS).
+Question: Factorize 3T^3 + T. Answer: T(3T^2 + 1).
+Question: Solve for U: V + 4WU = X. Answer: U = (X - V)/4W.
+Question: Simplify 3Y^2(Z + A). Answer: 3Y^2Z + 3Y^2A.
+Question: Solve for B: 4C - B = D. Answer: B = 4C - D.
+Question: Factorize E^2 - 16F^2. Answer: (E + 4F)(E - 4F).
+Question: Solve for G: 4H - IG = J. Answer: G = (4H - J)/I.
+Question: Simplify K^4(3L + M). Answer: 3K^4L + K^4M.
+Question: Solve for N: O + 4P/N = Q. Answer: N = 4P/(Q - O).
+Question: Solve for R: 4S/R = T. Answer: R = 4S/T.
+Question: Factorize 4U^2 - V^2. Answer: (2U + V/2)(2U - V/2).
+Question: Simplify 3W(2X + Y). Answer: 6WX + 3WY.
+Question: Solve for Z: 2A^2Z + 3B = C. Answer: Z = (C - 3B)/2A^2.
+Question: Simplify 3D^2(2E - F). Answer: 6D^2E - 3D^2F.
+Question: Factorize 2G^3 - H. Answer: G(G^√2 - H/G^√2).
+Question: Solve for I: 2J^3 + KI = L. Answer: I = (L - 2J^3)/K.
+Question: Simplify 3M/N - O/P. Answer: (3MP - NO)/(NP).
+Question: Solve for Q: 4R^4Q = S. Answer: Q = S/4R^4.
+Question: Factorize 4T^5 - U^3. Answer: (T^(5√4) + U)(T^(5√4) - U).
+Question: Solve for V: 5W + XV = Y. Answer: V = (Y - 5W)/X.
+Question: Solve for Z: 4A - BZ = C. Answer: Z = (4A - C)/B.
+Question: Simplify 5D(E + F + G). Answer: 5DE + 5DF + 5DG.
+Question: Factorize 3H^2 - I^2. Answer: (H√3 + I)(H√3 - I).
+Question: Solve for J: 4KJ + L = M. Answer: J = (M - L)/4K.
+Question: Simplify 3N(2O + P). Answer: 6NO + 3NP.
+Question: Solve for Q: 5R^2 + SQ = T. Answer: Q = (T - 5R^2)/S.
+Question: Factorize 3U^4 - V^3. Answer: (U^(4√3) + V)(U^(4√3) - V).
+Question: Solve for W: 6X - YW = Z. Answer: W = (6X - Z)/Y.
+Question: Simplify 6A(B + C). Answer: 6AB + 6AC.
+Question: Solve for D: 6E + F^3D = G. Answer: D = (G - 6E)/F^3.
+Question: Factorize 3H^3 + I^3. Answer: (H + I)(H^2 - HI + I^2).
+Question: Solve for J: 6K + LJ = M. Answer: J = (M - 6K)/L.
+Question: Simplify 4N(O - P). Answer: 4NO - 4NP.
+Question: Solve for Q: 5R^3Q = S. Answer: Q = S/5R^3.
+Question: Factorize 3T^2 - U^3. Answer: (T^(2√3) + U)(T^(2√3) - U).
+Question: Solve for V: 6W + XV = Y. Answer: V = (Y - 6W)/X.
+Question: Solve for Z: |4Z + A| = B. Answer: Z = B/4 - A or Z = -B/4 - A.
+Question: Simplify 7C(D + E). Answer: 7CD + 7CE.
+Question: Solve for F: 6G + HF = I. Answer: F = (I - 6G)/H.
+Question: Factorize 5J^2 - K^3. Answer: J(J^(2√5) - K).
+Question: Solve for L: 7M + N^2L = O. Answer: L = (O - 7M)/N^2.
+Question: Simplify 7P/Q + R/S. Answer: (7PS + QR)/(QS).
+Question: Factorize 4T^3 + T. Answer: T(4T^2 + 1).
+Question: Solve for U: V + 7WU = X. Answer: U = (X - V)/7W.
+Question: Simplify 6Y^2(Z + A). Answer: 6Y^2Z + 6Y^2A.
+Question: Solve for B: 7C - B = D. Answer: B = 7C - D.
+Question: Factorize E^2 - 25F^2. Answer: (E + 5F)(E - 5F).
+Question: Solve for G: 7H - IG = J. Answer: G = (7H - J)/I.
+Question: Simplify K^5(3L + M). Answer: 3K^5L + K^5M.
+Question: Solve for N: O + 7P/N = Q. Answer: N = 7P/(Q - O).
+Question: Solve for R: 7S/R = T. Answer: R = 7S/T.

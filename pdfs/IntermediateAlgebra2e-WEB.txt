@@ -1,0 +1,251 @@
+	
+	      Intermediate Algebra 2e          SENIOR CONTRIBUTING AUTHORS LYNN MARECEK, SANTA ANA COLLEGE ANDREA HONEYCUTT MATHIS, NORTHEAST MISSISSIPPI COMMUNITY COLLEGE           
+OpenStax  
+Rice University  
+6100 Main Street MS -375 
+Houston, Texas 77005  
+To learn more about OpenStax, visit http s://openstax.org.  
+Individual print copies and bulk orders can be purchased through our website.  
+©2020  Rice University.  Textbook content produced by OpenStax is licensed under a Creative Commons 
+Attribution 4.0 International License  (CC BY 4.0) . Under this license, any user of  this textbook or the textbook 
+contents herein must provide proper attribution as follows:   
+-If you redistribute this textbook in a digital format (i ncluding but not limited to  PDF and HTML), then you
+must retain on every page the following attribution:
+“Access for free at openstax.org .”
+-If you redistribute this textbook in a print format, then you must include on every physical page thefollowing attribution:“Access for free at openstax.org.”
+-If you redistribute part of this textbook, then you must retai n in every digital format page view (inc luding
+but not limited to PDF  and HTML) and on every physical printed page the following attribution:
+“Access for free at openstax.org.”
+-If you use this textbook as a bibliographic reference, please include 
+https://openstax.org/details/books/ intermediate -algebra -2e in your citation.
+For questions regarding this licensing, please contact support @openstax.org.  
+Trademarks  
+The OpenStax name, OpenStax logo, OpenStax book covers, OpenStax CNX name, OpenStax CNX logo, OpenStax Tutor name, Openstax Tutor logo, Connexions name, Connexions logo , Rice University name, and 
+Rice University logo  are not subject to the license and may not be reproduced without the prior and express 
+written consent of Rice University.  
+978-1- 975076- 49-8 
+978-1-9 75076-4 8-1 
+978-1-951693-84-8
+978-1-9 51693-2 4-4 
+2020HARDCOVE R BOOK ISBN -13 
+B&W PAPERBACK BOOK ISBN-1 3 
+PAPERBACK BOOK ISBN -13 
+DIGITAL VERSION ISBN-1 3 
+ORIGINAL PUBLICATION YEAR 
+10 9 8 7 6 5 4 3 2 1  	
+	 OPENSTAX  OpenStax provides free, peer-reviewed, openly licensed textbooks for introductory college and Advanced Placement® courses and low-cost, personalized courseware that helps students learn. A nonprofit ed tech initiative based at Rice University, we’re committed to helping students access the tools they need to complete their courses and meet their educational goals.  RICE UNIVERSITY  OpenStax, OpenStax CNX, and OpenStax Tutor are initiatives of Rice University. As a leading research university with a distinctive commitment to undergraduate education, Rice University aspires to path-breaking research, unsurpassed teaching, and contributions to the betterment of our world. It seeks to fulfill this mission by cultivating a diverse community of learning and discovery that produces leaders across the spectrum of human endeavor.    PHILANTHROPIC SUPPORT  OpenStax is grateful for our generous philanthropic partners, who support our vision to improve educational opportunities for all learners.  Laura and John Arnold Foundation Arthur and Carlyse Ciocca Charitable Foundation Ann and John Doerr Bill & Melinda Gates Foundation Girard Foundation Google Inc. The William and Flora Hewlett Foundation Rusty and John Jaggers The Calvin K. Kazanjian Economics Foundation Charles Koch Foundation Leon Lowenstein Foundation, Inc. The Maxfield Foundation Burt and Deedee McMurtry Michelson 20MM Foundation National Science Foundation The Open Society Foundations  Jumee Yhu and David E. Park III Brian D. Patterson USA-International Foundation The Bill and Stephanie Sick Fund Robin and Sandy Stuart Foundation The Stuart Family Foundation Tammy and Guillermo Treviño   
+Study where you want, what 
+you want, when you want. 
+Access. The future of education.
+openstax.org          When you access your book in our web view, you can use our new online
+highlighting and note-taking features to create your own study guides.
+Our books are free and flexible, forever. 
+Get started at openstax.org/details/books/intermediate-algebra-2e
+1
+2
+3
+4
+5
+6
+7
+Table of Contents
+Preface 1
+Foundations 5
+1.1Use the Language of Algebr a5
+1.2Integers 24
+1.3Fractions 43
+1.4Decimals 57
+1.5Properties of Real Numbers 74
+Solving Linear Equations 99
+2.1Use a Gener al Str ategy to Solve Linear Equations 99
+2.2Use a Pr oblem Solving Str ategy 116
+2.3Solve a Formula for a Specific V ariable 135
+2.4Solve Mixtur e and Uniform Motion Applications 152
+2.5Solve Linear Inequalities 171
+2.6Solve Compound Inequalities 190
+2.7Solve Absolute V alue Inequalities 201
+Graphs and Functions 227
+3.1Graph Linear Equations in T wo V ariables 227
+3.2Slope of a Line 256
+3.3Find the Equation of a Line 281
+3.4Graph Linear Inequalities in T wo V ariables 298
+3.5Relations and Functions 317
+3.6Graphs of Functions 332
+Systems of Linear Equations 371
+4.1Solve Systems of Linear Equations with T wo V ariables 371
+4.2Solve Applications with Systems of Equations 393
+4.3Solve Mixtur e Applications with Systems of Equations 411
+4.4Solve Systems of Equations with Thr ee V ariables 425
+4.5Solve Systems of Equations Using Matrices 438
+4.6Solve Systems of Equations Using Determinants 452
+4.7Graphing Systems of Linear Inequalities 466
+Polynomials and Polynomial Functions 493
+5.1Add and Subtr act Polynomials 493
+5.2Properties of Exponents and Scientific Notation 507
+5.3Multiply Polynomials 532
+5.4Dividing Polynomials 549
+Factoring 575
+6.1Greatest Common Factor and Factor b y Grouping 575
+6.2Factor T rinomials 584
+6.3Factor Special Pr oducts 603
+6.4Gener al Str ategy for Factoring Polynomials 617
+6.5Polynomial Equations 627
+Rational Expr essions and Functions 653
+7.1Multiply and Divide Rational Expr essions 653
+7.2Add and Subtr act Rational Expr essions 670
+7.3Simplify Comple x Rational Expr essions 685
+7.4Solve Rational Equations 697
+7.5Solve Applications with Rational Equations 712
+7.6Solve Rational Inequalities 7358
+9
+10
+11
+12Roots and Radicals 757
+8.1Simplify Expr essions with Roots 757
+8.2Simplify Radical Expr essions 773
+8.3Simplify Rational Exponents 792
+8.4Add, Subtr act, and Multiply Radical Expr essions 808
+8.5Divide Radical Expr essions 821
+8.6Solve Radical Equations 834
+8.7Use Radicals in Functions 848
+8.8Use the Comple x Number System 857
+Quadr atic Equations and Functions 883
+9.1Solve Quadr atic Equations Using the Squar e Root Pr operty 883
+9.2Solve Quadr atic Equations b y Completing the Squar e896
+9.3Solve Quadr atic Equations Using the Quadr atic Formula 911
+9.4Solve Quadr atic Equations in Quadr atic Form 925
+9.5Solve Applications of Quadr atic Equations 933
+9.6Graph Quadr atic Functions Using Pr operties 947
+9.7Graph Quadr atic Functions Using T ransformations 973
+9.8Solve Quadr atic Inequalities 994
+Exponential and Logarithmic Functions 1015
+10.1 Finding Composite and Inverse Functions 1015
+10.2 Evaluate and Gr aph Exponential Functions 1033
+10.3 Evaluate and Gr aph Logarithmic Functions 1049
+10.4 Use the Pr operties of Logarithms 1066
+10.5 Solve Exponential and Logarithmic Equations 1079
+Conics 1103
+11.1 Distance and Midpoint Formulas; Cir cles 1103
+11.2 Parabolas 1118
+11.3 Ellipses 1139
+11.4 Hyperbolas 1156
+11.5 Solve Systems of Nonlinear Equations 1170
+Sequences, Series and Binomial Theor em 1197
+12.1 Sequences 1197
+12.2 Arithmetic Sequences 1210
+12.3 Geometric Sequences and Series 1221
+12.4 Binomial Theor em 1238
+Inde x1385
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3PREFACE
+Welcome toIntermediate Algebra 2e,anOpenStax resour ce.This textbook was written toincrease student access tohigh-
+quality learning materials, maintaining highest standar ds of academic rigor at little to no cost.
+About OpenStax
+OpenStax isanonpr ofitbased atRice University, and it’sour mission toimpr ovestudent access toeducation. Our first
+openly licensed college textbook was published in2012, and our libraryhas since scaled toover35books forcollege
+and APcourses used byhundr eds ofthousands ofstudents. Our adaptive learning technology, designed toimpr ove
+learning outcomes through personalized educational paths, isbeing piloted incollege courses throughout thecountry.
+Through ourpartnerships with philanthr opic foundations and ouralliance with other educational resour ceorganizations,
+OpenStax is br eaking do wn the most common barriers to learning and empo wering students and instructors to succeed.
+About OpenStax Resour ces
+Customization
+Intermediate Algebra 2eislicensed under aCreative Commons Attribution 4.0International (CCBY)license, which means
+that you candistribute, remix, and build upon thecontent, aslong asyou provide attribution toOpenStax and itscontent
+contributors.
+Because ourbooks areopenly licensed, you arefreetousetheentir ebook orpick and choose thesections that aremost
+relevant totheneeds ofyour course. Feel freetoremix thecontent byassigning your students certain chapters and
+sections inyour syllabus, intheorderthat you prefer. Youcaneven provide adirectlinkinyour syllabus tothesections in
+the web vie w of your book.
+Instructors also have theoption ofcreating acustomized version oftheir OpenStax book. The custom version can be
+made available tostudents inlow-cost print ordigital form through their campus bookstor e.Visit your book page on
+openstax.or g for mor e information.
+Art attribution in Intermediate Algebr a 2e
+InIntermediate Algebra 2e,most artcontains attribution toitstitle, creator orrights holder, host platform, and license
+within thecaption. Forartthat isopenly licensed, anyone may reuse theartaslong astheyprovide thesame attribution
+toitsoriginal sour ce.Some arthas been provided through permissions and should only beused with theattribution or
+limitations pr ovided in the cr edit.
+Errata
+AllOpenStax textbooks under goarigor ous reviewprocess. However, likeany professional-gr ade textbook, errors
+sometimes occur. Since our books areweb based, wecan mak eupdates periodically when deemed pedagogically
+necessary. Ifyou have acorrection tosuggest, submit itthrough thelink onyour book page onopenstax.or g.Subject
+matter experts reviewallerratasuggestions. OpenStax iscommitted toremaining transpar entabout allupdates, soyou
+will also find a list of past err ata changes on your book page on openstax.or g.
+Format
+You can access this te xtbook for fr ee in web vie w or PDF thr ough openstax.or g, and for a lo w cost in print.
+About Intermediate Algebr a 2e
+Intermediate Algebra 2eisdesigned tomeet the scope and sequence requir ements ofaone-semester Intermediate
+Algebr acourse. The book’s organization mak esiteasy toadapt toavariety ofcourse syllabi. The textexpands onthe
+fundamental concepts ofalgebr awhile addr essing theneeds ofstudents with diverse backgr ounds and learning styles.
+Each topic builds upon pr eviously de veloped material to demonstr ate the cohesiveness and structur e of mathematics.
+Coverage and Scope
+Intermediate Algebra 2econtinues thephilosophies and pedagogical featur esofPrealgebra and Elementary Algebra ,by
+Lynn Marecek and MaryAnne Anthony-Smith. Byintroducing theconcepts and vocabulary ofalgebr ainanurturing, non-
+threatening envir onment while also addr essing theneeds ofstudents with diverse backgr ounds and learning styles, the
+book helps students gain confidence in their ability to succeed in the course and become successful college students.
+The material ispresented asasequence ofsmall, and clear steps toconceptual understanding. The orderoftopics was
+carefully planned toemphasize thelogical progression throughout thecourse and tofacilitate athor ough understanding
+of each concept. As ne w ideas ar e presented, the y are explicitly r elated to pr evious topics.
+Chapter 1: Foundations
+Chapter 1reviewsarithmetic oper ations with whole numbers, integers, fractions, decimals and realnumbers, to
+give the student a solid base that will support their study of algebr a.
+Chapter 2: Solving Linear Equations and Inequalities
+InChapter 2,students learn tosolve linear equations using theProperties ofEquality and agener alstrategy.
+Theyuseaproblem-solving strategy tosolve number, percent, mixtur eand uniform motion applications. SolvingPreface 1a formula for a specific variable, and also solving both linear and compound inequalities is pr esented.
+Chapter 3: Gr aphs and Functions
+Chapter 3covers therectangular coor dinate system wher estudents learn toplot graph linear equations intwo
+variables, graph with inter cepts, understand slope ofaline, usetheslope-inter cept form ofanequation ofaline,
+find theequation ofaline, and create graphs oflinear inequalities. The chapter also introduces relations and
+functions as well as gr aphing of functions.
+Chapter 4: Systems of Linear Equations
+Chapter 4covers solving systems ofequations bygraphing, substitution, and elimination; solving applications
+with systems ofequations, solving mixtur eapplications with systems ofequations, and graphing systems oflinear
+inequalities. Systems of equations ar e also solved using matrices and determinants.
+Chapter 5: Polynomials and Polynomial Functions
+InChapter 5,students learn howtoadd and subtr actpolynomials, use multiplication properties ofexponents,
+multiply polynomials, usespecial products, divide monomials and polynomials, and understand integer exponents
+and scientific notation.
+Chapter 6: Factoring
+InChapter 6,students learn theprocess offactoring expressions and seehowfactoring isused tosolve quadr atic
+equations.
+Chapter 7: Rational Expr essions and Functions
+InChapter 7,students work with rational expressions, solve rational equations and usethem tosolve problems in
+a variety of applications, and solve r ational inequalities.
+Chapter 8: Roots and Radical
+InChapter 8,students simplify radical expressions, rational exponents, perform oper ations onradical expressions,
+and solve r adical equations. Radical functions and the comple x number system ar e intr oduced
+Chapter 9: Quadr atic Equations
+InChapter 9,students use various methods tosolve quadr atic equations and equations inquadr atic form and
+learn howtouse them inapplications. Students will graph quadr atic functions using their properties and by
+transformations.
+Chapter 10: Exponential and Logarithmic Functions
+InChapter 10,students find composite and inverse functions, evaluate, graph, and solve both exponential and
+logarithmic functions.
+Chapter 11: Conics
+InChapter 11,theproperties and graphs ofcircles, parabolas, ellipses and hyperbolas arepresented. Students
+also solve applications using the conics and solve systems of nonlinear equations.
+Chapter 12: Sequences, Series and the Binomial Theor em
+InChapter 12,students areintroduced tosequences, arithmetic sequences, geometric sequences and series and
+the binomial theor em.
+All chapters ar e broken do wn into multiple sections, the titles of which can be vie wed in the Table of Contents .
+Changes to the Second Edition
+The Intermediate Algebra 2erevision focused onmathematical clarity and accur acy. Every Example, Try-It, Section Exercise,
+ReviewExercise, and Practice Testitem was reviewed bymultiple faculty experts, and then verified byauthors. This
+intensive effort resulted inhundr eds ofchanges tothe text,problem language, answers, instructor solutions, and
+graphics.
+However, OpenStax and ourauthors areawar eofthedifficulties posed byshifting problem and exercise numbers when
+textbooks arerevised. Inaneffort tomak ethetransition tothe2nd edition asseamless aspossible, wehave minimized
+any shifting ofexercise numbers. Forexample, instead ofdeleting oradding problems wher enecessary, wereplaced
+problems inordertokeep thenumbering intact. Asaresult, innearly allchapters, ther ewillbenoshifting ofexercise
+numbers; inthechapters wher eshifting does occur, itwillbeminor. Faculty and course coor dinators should beable to
+use the ne w edition in a str aightforwar d manner.
+Also, toincrease convenience, answers totheBePrepar edExercises willnowappear intheregular solutions manuals,
+rather than as a separ ate r esour ce.
+A detailed tr ansition guide is available as an instructor r esour ce at openstax.or g.
+Pedagogical Foundation and Featur es
+Examples Each learning objective issupported byone ormor ework edexamples, which demonstr atetheproblem-solving
+appr oaches that students must master. Typically, weinclude multiple examples foreach learning objective tomodel
+differ ent appr oaches to the same type of pr oblem, or to intr oduce similar pr oblems of incr easing comple xity.
+Allexamples follo wasimple two- orthree-part format. First, wepose aproblem orquestion. Next,wedemonstr atethe
+solution, spelling outthesteps along theway. Finally (for select examples), weshowstudents howtocheck thesolution.
+Most examples arewritten inatwo-column format, with explanation ontheleftand math ontheright tomimic theway
+that instructors “talk thr ough” e xamples as the y write on the boar d in class.2 Preface
+This OpenStax book is available for free at http://cnx.org/content/col31234/1.3

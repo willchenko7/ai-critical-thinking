@@ -1,0 +1,6 @@
+prompt,response,score,n_epochs
+Expand D: D(x - y - z) = A -->, Expand D: D(x - y - z) = A --> Dx - Dy - Dz = A,0.0,711
+Expand D: D(w + y) = E -->, Expand D: D(w + y) = E --> Dw + Dy = E,0.0,2
+Expand D: D(x - w) = A -->, Expand D: D(x - w) = A --> Dx - Dw = A,0.0,1
+Expand D: D(x - y - w) = A -->, Expand D: D(x - y - w) = A --> Dx - Dw - Dy = A,0.0,346
+Expand D: D(x - y - z - w) = A -->, Expand D: D(x - y - z - w) = A --> BE Ox - Dz - y,100,999

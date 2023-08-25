@@ -1,0 +1,547 @@
+sentence
+Add A to both sides: x + A = B --> x = B - A
+Subtract A from both sides: x - A = B --> x = B + A
+Divide both sides by A: Ax = B --> x = B/A
+Multiply both sides by A: x/A = B --> x = A*B
+Take the square root of both sides: x**2 = A --> x = A**(1/2)
+Raise both sides to the power of 2: x^(1/2) = A --> x = A^2
+Add A to both sides: y + A = B --> y = B - A
+Subtract A from both sides: y - A = B --> y = B + A
+Divide both sides by A: Ay = B --> y = B/A
+Multiply both sides by A: y/A = B --> y = A*B
+Take the square root of both sides: y^2 = A --> y = A^(1/2)
+Raise both sides to the power of 2: y^(1/2) = A --> y = A^2
+Subtract Ax from both sides: y = B + Ax --> y - B = Ax
+Divide both sides by y: A = B/y --> A*y = B
+Factor out A: Ax + Ay = B --> A(x + y) = B
+Expand A: A(x + y) = B --> Ax + Ay = B
+Combine like terms: x + x = A --> 2x = A
+Combine like terms: y + y = A --> 2y = A
+Factor out A: Ax - Ay = B --> A(x - y) = B
+Expand A: A(x - y) = B --> Ax - Ay = B
+Factor out B from both sides: Bx + By = A --> B(x + y) = A
+Subtract B from both sides: x - B = A --> x = A + B
+Divide both sides by B: Bx = A --> x = A/B
+Add B to both sides: x + B = A --> x = A - B
+Factor out B: Bx - By = A --> B(x - y) = A
+Expand B: B(x - y) = A --> Bx - By = A
+Combine like terms: z + z = A --> 2z = A
+Divide both sides by z: A = B/z --> A*z = B
+Add z to both sides: x + z = A --> x = A - z
+Multiply both sides by z: x/z = A --> x = A*z
+Take the square root of both sides: z^2 = A --> z = A^(1/2)
+Raise both sides to the power of 2: z^(1/2) = A --> z = A^2
+Factor out A: Az - Ay = B --> A(z - y) = B
+Expand A: A(z - y) = B --> Az - Ay = B
+Factor out A: Az + Ay = B --> A(z + y) = B
+Expand A: A(z + y) = B --> Az + Ay = B
+Combine like terms: y + y = B --> 2y = B
+Factor out B: By - Bz = A --> B(y - z) = A
+Expand B: B(y - z) = A --> By - Bz = A
+Factor out B: By + Bz = A --> B(y + z) = A
+Expand B: B(y + z) = A --> By + Bz = A
+Combine like terms: z + z = B --> 2z = B
+Factor out z: zx + zy = A --> z(x + y) = A
+Expand z: z(x + y) = A --> zx + zy = A
+Factor out x: xy + xz = A --> x(y + z) = A
+Expand x: x(y + z) = A --> xy + xz = A
+Subtract x from both sides: y = A + x --> y - A = x
+Add x to both sides: y = A - x --> y + x = A
+Divide both sides by x: y = Ax --> y/x = A
+Multiply both sides by x: y/x = A --> y = A*x
+Factor out y: yz + yx = A --> y(z + x) = A
+Expand y: y(z + x) = A --> yz + yx = A
+Combine like terms: y + y = z --> 2y = z
+Factor out z: zx + zy = B --> z(x + y) = B
+Expand z: z(x + y) = B --> zx + zy = B
+Factor out z: zx - zy = B --> z(x - y) = B
+Expand z: z(x - y) = B --> zx - zy = B
+Subtract z from both sides: x = A + z --> x - A = z
+Add z to both sides: x = A - z --> x + z = A
+Combine like terms: x + x = z --> 2x = z
+Multiply both sides by y: z = A/y --> z*y = A
+Subtract y from both sides: z = A + y --> z - A = y
+Add y to both sides: z = A - y --> z + y = A
+Multiply both sides by z: y = A/z --> y*z = A
+Subtract z from both sides: y = A + z --> y - A = z
+Add z to both sides: y = A - z --> y + z = A
+Multiply both sides by x: z = A/x --> z*x = A
+Subtract x from both sides: z = A + x --> z - A = x
+Add x to both sides: z = A - x --> z + x = A
+Combine like terms: z + z = x --> 2z = x
+Factor out A: Ax + Az = B --> A(x + z) = B
+Expand A: A(x + z) = B --> Ax + Az = B
+Combine like terms: x + x = y --> 2x = y
+Factor out B: Bx + Bz = A --> B(x + z) = A
+Expand B: B(x + z) = A --> Bx + Bz = A
+Combine like terms: z + z = y --> 2z = y
+Subtract A from both sides: zx - A = B --> zx = B + A
+Add A to both sides: zx + A = B --> zx = B - A
+Subtract B from both sides: zy - B = A --> zy = A + B
+Add B to both sides: zy + B = A --> zy = A - B
+Subtract y from both sides: zx - y = A --> zx = A + y
+Add y to both sides: zx + y = A --> zx = A - y
+Combine like terms: y + y = x --> 2y = x
+Subtract A from both sides: z - A = x --> z = x + A
+Add A to both sides: z + A = x --> z = x - A
+Subtract B from both sides: x - B = z --> x = z + B
+Add B to both sides: x + B = z --> x = z - B
+Factor out B: Bz + Bx = A --> B(z + x) = A
+Expand B: B(z + x) = A --> Bz + Bx = A
+Subtract x from both sides: y - x = A --> y = A + x
+Add x to both sides: y + x = A --> y = A - x
+Subtract z from both sides: x - z = A --> x = A + z
+Subtract y from both sides: z - y = A --> z = A + y
+Add y to both sides: z + y = A --> z = A - y
+Subtract A from both sides: y - A = z --> y = z + A
+Add A to both sides: y + A = z --> y = z - A
+Subtract B from both sides: z - B = y --> z = y + B
+Add B to both sides: z + B = y --> z = y - B
+Factor out B: Bz + By = A --> B(z + y) = A
+Expand B: B(z + y) = A --> Bz + By = A
+Factor out B: Bx + By = A --> B(x + y) = A
+Expand B: B(x + y) = A --> Bx + By = A
+Factor out A: Az + Ax = B --> A(z + x) = B
+Expand A: A(z + x) = B --> Az + Ax = B
+Factor out y: yx + yz = A --> y(x + z) = A
+Expand y: y(x + z) = A --> yx + yz = A
+Factor out x: xz + xy = A --> x(z + y) = A
+Expand x: x(z + y) = A --> xz + xy = A
+Add C to both sides: x + C = A --> x = A - C
+Divide both sides by C: Cx = A --> x = A/C
+Subtract C from both sides: x - C = A --> x = A + C
+Combine like terms: x + x = C --> 2x = C
+Multiply both sides by C: x/C = A --> x = A*C
+Raise both sides to the power of 3: x**(1/3) = A --> x = A^3
+Factor out C: Cx - Cy = A --> C(x - y) = A
+Expand C: C(x - y) = A --> Cx - Cy = A
+Subtract C from both sides: y - C = A --> y = A + C
+Multiply both sides by C: y/C = A --> y = A*C
+Add C to both sides: y + C = A --> y = A - C
+Combine like terms: y + y = C --> 2y = C
+Raise both sides to the power of 3: y**(1/3) = A --> y = A^3
+Factor out C: Cy - Cx = A --> C(y - x) = A
+Expand C: C(y - x) = A --> Cy - Cx = A
+Combine like terms: y + x = C --> y + x = C
+Multiply both sides by y: x = C/y --> xy = C
+Add x to both sides: y = C - x --> y = C - x
+Combine like terms: x + z = C --> x + z = C
+Factor out z: Cz - Cx = A --> C(z - x) = A
+Expand z: C(z - x) = A --> Cz - Cx = A
+Factor out x: Cx + Cy = A --> C(x + y) = A
+Expand x: C(x + y) = A --> Cx + Cy = A
+Add x to both sides: z = C - x --> z = C - x
+Factor out y: Cy + Cz = A --> C(y + z) = A
+Expand y: C(y + z) = A --> Cy + Cz = A
+Add y to both sides: z = C - y --> z = C - y
+Factor out z: Cz + Cy = A --> C(z + y) = A
+Expand z: C(z + y) = A --> Cz + Cy = A
+Combine like terms: z + x = C --> z + x = C
+Factor out C: Cz + Cx = B --> C(z + x) = B
+Expand C: C(z + x) = B --> Cz + Cx = B
+Combine like terms: x + y = C --> x + y = C
+Multiply both sides by x: y = C/x --> yx = C
+Add y to both sides: x = C - y --> x = C - y
+Factor out y: Cy + Cx = B --> C(y + x) = B
+Expand y: C(y + x) = B --> Cy + Cx = B
+Combine like terms: y + z = C --> y + z = C
+Factor out x: Cx + Cz = B --> C(x + z) = B
+Expand x: C(x + z) = B --> Cx + Cz = B
+Factor out z: Cz + Cx = A --> C(z + x) = A
+Expand z: C(z + x) = A --> Cz + Cx = A
+Combine like terms: z + y = C --> z + y = C
+Multiply both sides by z: x = C/z --> xz = C
+Add z to both sides: y = C - z --> y = C - z
+Factor out y: Cy + Cz = B --> C(y + z) = B
+Expand y: C(y + z) = B --> Cy + Cz = B
+Factor out C: Cy + Cx = A --> C(y + x) = A
+Expand C: C(y + x) = A --> Cy + Cx = A
+Factor out z: Cz + Cx = B --> C(z + x) = B
+Expand z: C(z + x) = B --> Cz + Cx = B
+Factor out x: Cx + Cz = A --> C(x + z) = A
+Expand x: C(x + z) = A --> Cx + Cz = A
+Factor out C: Cz + Cy = B --> C(z + y) = B
+Expand C: C(z + y) = B --> Cz + Cy = B
+Factor out C: Cx + Cz = A --> C(x + z) = A
+Expand C: C(x + z) = A --> Cx + Cz = A
+Factor out C: Cz + Cx = A --> C(z + x) = A
+Expand C: C(z + x) = A --> Cz + Cx = A
+Factor out x: Cx + Cy = B --> C(x + y) = B
+Expand x: C(x + y) = B --> Cx + Cy = B
+Factor out y: Cy + Cx = A --> C(y + x) = A
+Expand y: C(y + x) = A --> Cy + Cx = A
+Factor out C: Cx + Cy = B --> C(x + y) = B
+Expand C: C(x + y) = B --> Cx + Cy = B
+Factor out C: Cz + Cy = A --> C(z + y) = A
+Expand C: C(z + y) = A --> Cz + Cy = A
+Factor out C: Cy + Cx = B --> C(y + x) = B
+Expand C: C(y + x) = B --> Cy + Cx = B
+Factor out C: Cx + Cy = A --> C(x + y) = A
+Expand C: C(x + y) = A --> Cx + Cy = A
+Factor out C: Cx + Cz = B --> C(x + z) = B
+Expand C: C(x + z) = B --> Cx + Cz = B
+Combine terms: w + x = D --> w + x = D
+Factor out w: Dw + Dx = E --> D(w + x) = E
+Expand w: D(w + x) = E --> Dw + Dx = E
+Combine terms: x + z = D --> x + z = D
+Factor out D: Dx + Dz = E --> D(x + z) = E
+Expand D: D(x + z) = E --> Dx + Dz = E
+Combine terms: w + y = D --> w + y = D
+Factor out D: Dw + Dy = E --> D(w + y) = E
+Expand D: D(w + y) = E --> Dw + Dy = E
+Combine terms: w + z = D --> w + z = D
+Factor out w: Dw + Dz = F --> D(w + z) = F
+Expand w: D(w + z) = F --> Dw + Dz = F
+Combine terms: y + z = D --> y + z = D
+Factor out D: Dy + Dz = F --> D(y + z) = F
+Expand D: D(y + z) = F --> Dy + Dz = F
+Combine terms: z + w = D --> z + w = D
+Factor out z: Dz + Dw = F --> D(z + w) = F
+Expand z: D(z + w) = F --> Dz + Dw = F
+Combine terms: x + y = D --> x + y = D
+Factor out D: Dx + Dy = E --> D(x + y) = E
+Expand D: D(x + y) = E --> Dx + Dy = E
+Factor out D: Dw + Dz = F --> D(w + z) = F
+Expand D: D(w + z) = F --> Dw + Dz = F
+Combine terms: y + w = D --> y + w = D
+Factor out D: Dy + Dw = F --> D(y + w) = F
+Expand D: D(y + w) = F --> Dy + Dw = F
+Combine terms: z + x = D --> z + x = D
+Factor out z: Dz + Dx = F --> D(z + x) = F
+Expand z: D(z + x) = F --> Dz + Dx = F
+Factor out w: Dw + Dy = E --> D(w + y) = E
+Expand w: D(w + y) = E --> Dw + Dy = E
+Combine terms: x + w = D --> x + w = D
+Factor out D: Dx + Dw = E --> D(x + w) = E
+Expand D: D(x + w) = E --> Dx + Dw = E
+Combine terms: y + x = D --> y + x = D
+Factor out D: Dy + Dx = F --> D(y + x) = F
+Expand D: D(y + x) = F --> Dy + Dx = F
+Combine terms: z + y = D --> z + y = D
+Factor out z: Dz + Dy = F --> D(z + y) = F
+Expand z: D(z + y) = F --> Dz + Dy = F
+Factor out D: Dx + Dz = F --> D(x + z) = F
+Expand D: D(x + z) = F --> Dx + Dz = F
+Combine terms: A + B = Y --> A + B = Y
+Factor out A: AB + AC = Z --> A(B + C) = Z
+Expand A: A(B + C) = Z --> AB + AC = Z
+Combine terms: B + C = Y --> B + C = Y
+Factor out B: BA + BC = Z --> B(A + C) = Z
+Expand B: B(A + C) = Z --> BA + BC = Z
+Combine terms: C + A = Y --> C + A = Y
+Factor out C: CB + CA = Z --> C(B + A) = Z
+Expand C: C(B + A) = Z --> CB + CA = Z
+Combine terms: A + C = Y --> A + C = Y
+Factor out A: AB + AD = Z --> A(B + D) = Z
+Expand A: A(B + D) = Z --> AB + AD = Z
+Combine terms: B + D = Y --> B + D = Y
+Factor out B: BD + BA = Z --> B(D + A) = Z
+Expand B: B(D + A) = Z --> BD + BA = Z
+Combine terms: D + A = Y --> D + A = Y
+Factor out D: DB + DA = Z --> D(B + A) = Z
+Expand D: D(B + A) = Z --> DB + DA = Z
+Factor out A: AC + AD = Z --> A(C + D) = Z
+Expand A: A(C + D) = Z --> AC + AD = Z
+Combine terms: C + D = Y --> C + D = Y
+Factor out C: CA + CD = Z --> C(A + D) = Z
+Expand C: C(A + D) = Z --> CA + CD = Z
+Combine terms: D + B = Y --> D + B = Y
+Factor out D: DB + DC = Z --> D(B + C) = Z
+Expand D: D(B + C) = Z --> DB + DC = Z
+Combine terms: A + D = Y --> A + D = Y
+Factor out A: AC + AB = Z --> A(C + B) = Z
+Expand A: A(C + B) = Z --> AC + AB = Z
+Combine terms: B + A = Y --> B + A = Y
+Factor out B: BC + BD = Z --> B(C + D) = Z
+Expand B: B(C + D) = Z --> BC + BD = Z
+Combine terms: C + B = Y --> C + B = Y
+Factor out C: CA + CB = Z --> C(A + B) = Z
+Expand C: C(A + B) = Z --> CA + CB = Z
+Combine terms: D + C = Y --> D + C = Y
+Factor out D: DC + DA = Z --> D(C + A) = Z
+Expand D: D(C + A) = Z --> DC + DA = Z
+Factor out A: AD + AC = Z --> A(D + C) = Z
+Expand A: A(D + C) = Z --> AD + AC = Z
+Factor out B: BA + BD = Z --> B(A + D) = Z
+Expand B: B(A + D) = Z --> BA + BD = Z
+Factor out C: CB + CD = Z --> C(B + D) = Z
+Expand C: C(B + D) = Z --> CB + CD = Z
+Factor out D: DA + DC = Z --> D(A + C) = Z
+Expand D: D(A + C) = Z --> DA + DC = Z
+Factor out A: AD + AB = Z --> A(D + B) = Z
+Expand A: A(D + B) = Z --> AD + AB = Z
+Factor out B: BD + BC = Z --> B(D + C) = Z
+Expand B: B(D + C) = Z --> BD + BC = Z
+Factor out C: CD + CB = Z --> C(D + B) = Z
+Expand C: C(D + B) = Z --> CD + CB = Z
+Factor out D: DC + DB = Z --> D(C + B) = Z
+Expand D: D(C + B) = Z --> DC + DB = Z
+Combine terms: A + E = Y --> A + E = Y
+Factor out E: AE + EB = Z --> E(A + B) = Z
+Expand E: E(A + B) = Z --> EA + EB = Z
+Combine terms: B + E = Y --> B + E = Y
+Factor out E: EB + EC = Z --> E(B + C) = Z
+Expand E: E(B + C) = Z --> EB + EC = Z
+Combine terms: C + E = Y --> C + E = Y
+Factor out E: EC + ED = Z --> E(C + D) = Z
+Expand E: E(C + D) = Z --> EC + ED = Z
+Combine terms: D + E = Y --> D + E = Y
+Factor out E: ED + EA = Z --> E(D + A) = Z
+Expand E: E(D + A) = Z --> ED + EA = Z
+Factor out A: AE + AC = Z --> A(E + C) = Z
+Expand A: A(E + C) = Z --> AE + AC = Z
+Factor out B: BE + BA = Z --> B(E + A) = Z
+Expand B: B(E + A) = Z --> BE + BA = Z
+Factor out C: CE + CB = Z --> C(E + B) = Z
+Expand C: C(E + B) = Z --> CE + CB = Z
+Factor out D: DE + DC = Z --> D(E + C) = Z
+Expand D: D(E + C) = Z --> DE + DC = Z
+Combine terms: E + A = Y --> E + A = Y
+Factor out E: EA + ED = Z --> E(A + D) = Z
+Expand E: E(A + D) = Z --> EA + ED = Z
+Factor out A: AD + AE = Z --> A(D + E) = Z
+Expand A: A(D + E) = Z --> AD + AE = Z
+Combine terms: E + B = Y --> E + B = Y
+Factor out C: CD + CA = Z --> C(D + A) = Z
+Expand C: C(D + A) = Z --> CD + CA = Z
+Factor out D: DA + DB = Z --> D(A + B) = Z
+Expand D: D(A + B) = Z --> DA + DB = Z
+Factor out A: AE + AD = Z --> A(E + D) = Z
+Expand A: A(E + D) = Z --> AE + AD = Z
+Factor out B: BD + BE = Z --> B(D + E) = Z
+Expand B: B(D + E) = Z --> BD + BE = Z
+Combine terms: E + C = Y --> E + C = Y
+Factor out D: DC + DE = Z --> D(C + E) = Z
+Expand D: D(C + E) = Z --> DC + DE = Z
+Factor out A: AC + AE = Z --> A(C + E) = Z
+Expand A: A(C + E) = Z --> AC + AE = Z
+Factor out E: EB + EA = Z --> E(B + A) = Z
+Expand E: E(B + A) = Z --> EB + EA = Z
+Factor out C: CA + CE = Z --> C(A + E) = Z
+Expand C: C(A + E) = Z --> CA + CE = Z
+Factor out D: DE + DA = Z --> D(E + A) = Z
+Expand D: D(E + A) = Z --> DE + DA = Z
+Move x: A + x = B --> A = B - x
+Move y: y + D = E --> D = E - y
+Move z: z + C = A --> C = A - z
+Move x: F = G + x --> F - x = G
+Move y: H = y + I --> H - y = I
+Move z: J = K + z --> J - z = K
+Move x: x - L = M --> -L = M - x
+Move y: y - N = O --> -N = O - y
+Move z: P = z - Q --> P - z = -Q
+Move x: x + R = S --> R = S - x
+Move y: T = U + y --> T - y = U
+Move z: V + z = W --> V = W - z
+Move x: x - X = Y --> -X = Y - x
+Move y: Z = y - A --> Z - y = -A
+Move z: B = C + z --> B - z = C
+Move x: x + D = E --> D = E - x
+Move y: F = y + G --> F - y = G
+Move z: H + z = I --> H = I - z
+Move x: J - x = K --> J = K + x
+Move y: L = M + y --> L - y = M
+Move z: N = O + z --> N - z = O
+Move x: P - x = Q --> P = Q + x
+Move y: R = S + y --> R - y = S
+Move z: T + z = U --> T = U - z
+Move x: V - x = W --> V = W + x
+Move y: X = Y + y --> X - y = Y
+Move z: Z = A + z --> Z - z = A
+Move x: B + x = C --> B = C - x
+Move y: D = E + y --> D - y = E
+Move z: F + z = G --> F = G - z
+Move x: H - x = I --> H = I + x
+Move y: J = K + y --> J - y = K
+Move z: L = M + z --> L - z = M
+Move x: N - x = O --> N = O + x
+Move y: P = Q + y --> P - y = Q
+Move z: R = S + z --> R - z = S
+Move x: T + x = U --> T = U - x
+Move y: V = W + y --> V - y = W
+Move z: X = Y + z --> X - z = Y
+Move x: Z + x = A --> Z = A - x
+Move y: B = C + y --> B - y = C
+Move z: D = E + z --> D - z = E
+Move x: F + x = G --> F = G - x
+Move y: H = I + y --> H - y = I
+Move x: L - x = M --> L = M + x
+Move y: N = O + y --> N - y = O
+Move z: P = Q + z --> P - z = Q
+Move x: R + x = S --> R = S - x
+Move z: V = W + z --> V - z = W
+Move x: X - x = Y --> X = Y + x
+Move y: Z = A + y --> Z - y = A
+Move x: D + x = E --> D = E - x
+Move y: F = G + y --> F - y = G
+Move z: H = I + z --> H - z = I
+Move x: P + x = Q --> P = Q - x
+Move z: T = U + z --> T - z = U
+Move z: F = G + z --> F - z = G
+Move x: H + x = I --> H = I - x
+Move x: N + x = O --> N = O - x
+Move x: A + x^2 = B + Cx --> A - B = Cx - x^2
+Move y: y^3 + D = E + y --> y^3 + D - E = y
+Move z: z + C^2 = A^2z --> z + C^2 - A^2z = 0
+Move x: x^2 + Fx = G --> x^2 + Fx - G = 0
+Move y: Hy^3 = y + I^2 --> Hy^3 - y = I^2
+Move z: Jz = K^2 + z^2 --> Jz - z^2 = K^2
+Move x: x^3 - L = Mx --> x^3 - L - Mx = 0
+Move y: Ny^2 = O + y^3 --> Ny^2 - y^3 = O
+Move z: P^2 = z^2 - Qz --> P^2 + Qz = z^2
+Move x: x^2 + R = Sx^3 --> x^2 + R - Sx^3 = 0
+Move y: T^2y = U + y^2 --> T^2y - y^2 = U
+Move z: z^3 + V = Wz --> z^3 + V - Wz = 0
+Move x: X^2 - x^2 = Yx --> X^2 - x^2 - Yx = 0
+Move y: Zy^3 = A^2 + y^2 --> Zy^3 - y^2 = A^2
+Move z: Bz = C^3 + z^3 --> Bz - z^3 = C^3
+Move x: x^3 + D^2 = Ex --> x^3 + D^2 - Ex = 0
+Move y: Fy^2 = y^3 + G --> Fy^2 - y^3 = G
+Move z: z^2 + H = Iz^3 --> z^2 + H - Iz^3 = 0
+Move x: x^3 - J = Kx^2 --> x^3 - J - Kx^2 = 0
+Move y: L^2 = My + y^3 --> L^2 - My - y^3 = 0
+Move z: Nz^2 = O^3 + z^3 --> Nz^2 - z^3 = O^3
+Move x: Px = x^2 + Q --> Px - x^2 = Q
+Move y: Ry^3 = S + y^2 --> Ry^3 - y^2 = S
+Move z: Tz = Uz^2 + V --> Tz - Uz^2 = V
+Move x: Wx^3 = x + X^2 --> Wx^3 - x = X^2
+Move y: Yy = Zy^2 + A^2 --> Yy - Zy^2 = A^2
+Move z: z^3 + B = Cz --> z^3 + B - Cz = 0
+Move x: Dx^2 = Ex^3 + F --> Dx^2 - Ex^3 = F
+Move y: G^2 = Hy + y^3 --> G^2 - Hy - y^3 = 0
+Move z: Iz = Jz^2 + K --> Iz - Jz^2 = K
+Move x: L^3 = x + Mx^2 --> L^3 - x - Mx^2 = 0
+Move y: Ny = Oy^3 + P --> Ny - Oy^3 = P
+Move z: Qz^2 = z + R^2 --> Qz^2 - z = R^2
+Move x: Sx^3 = Tx^2 + U --> Sx^3 - Tx^2 = U
+Move y: Vy = y^2 + W^2 --> Vy - y^2 = W^2
+Move z: z^3 + X = Yz^2 --> z^3 + X - Yz^2 = 0
+Move x: Zx = Ax^2 + B^2 --> Zx - Ax^2 = B^2
+Move y: Cy^3 = Dy + E --> Cy^3 - Dy = E
+Move z: Fz = Gz^2 + H^2 --> Fz - Gz^2 = H^2
+Move x: Ix^2 = Jx^3 + K --> Ix^2 - Jx^3 = K
+Move y: Ly = My^2 + N^2 --> Ly - My^2 = N^2
+Move z: Oz^3 = P + z^2 --> Oz^3 - z^2 = P
+Move x: Qx = Rx^2 + S^2 --> Qx - Rx^2 = S^2
+Move y: Ty^3 = Uy + V --> Ty^3 - Uy = V
+Move z: Wz = Xz^3 + Y^2 --> Wz - Xz^3 = Y^2
+Move x: x^2 + Z = Ax^3 --> x^2 + Z - Ax^3 = 0
+Move y: By^2 = Cy^3 + D --> By^2 - Cy^3 = D
+Move z: Ez^3 = Fz + G^3 --> Ez^3 - Fz = G^3
+Move x: Hx^2 = x^3 + I^2 --> Hx^2 - x^3 = I^2
+Move y: Jy = Ky^3 + L --> Jy - Ky^3 = L
+Move z: M^2 = Nz^2 + z^3 --> M^2 - Nz^2 - z^3 = 0
+Move x: Ox^3 = Px^2 + Q^2 --> Ox^3 - Px^2 = Q^2
+Move y: Ry^2 = Sy^3 + T --> Ry^2 - Sy^3 = T
+Move z: Uz^3 = V + z^2 --> Uz^3 - z^2 = V
+Move x: Wx^2 = Xx + Y^3 --> Wx^2 - Xx = Y^3
+Move y: Zy = Ay^3 + B^2 --> Zy - Ay^3 = B^2
+Move z: Cz^2 = Dz^3 + E --> Cz^2 - Dz^3 = E
+Move x: Fx^3 = Gx^2 + H^2 --> Fx^3 - Gx^2 = H^2
+Move y: Iy = Jy^3 + K --> Iy - Jy^3 = K
+Move z: Lz^2 = M^3 + z^3 --> Lz^2 - z^3 = M^3
+Move x: Nx = Ox^3 + P^2 --> Nx - Ox^3 = P^2
+Move y: Qy^2 = Ry^3 + S --> Qy^2 - Ry^3 = S
+Move z: Tz^3 = Uz + V^3 --> Tz^3 - Uz = V^3
+Move x: W^2 = Xx^2 + x^3 --> W^2 - Xx^2 - x^3 = 0
+Move y: Yy^3 = Zy^2 + A^2 --> Yy^3 - Zy^2 = A^2
+Move z: B^3 = Cz + z^3 --> B^3 - Cz - z^3 = 0
+Move x: Dx^2 = Ex + Fx^3 --> Dx^2 - Ex - Fx^3 = 0
+Move y: Gy^3 = Hy + Iy^2 --> Gy^3 - Hy - Iy^2 = 0
+Move z: Jz = Kz^3 + L^3 --> Jz - Kz^3 = L^3
+Move x: Mx^3 = Nx^2 + O --> Mx^3 - Nx^2 = O
+Move y: Py = Q^2 + y^3 --> Py - y^3 = Q^2
+Move z: Rz^2 = Sz^3 + T --> Rz^2 - Sz^3 = T
+Move x: Ux = V^3 + x^3 --> Ux - x^3 = V^3
+Move y: Wy = Xy^2 + Y^2 --> Wy - Xy^2 = Y^2
+Move z: z + Z^2 = Az^3 --> z + Z^2 - Az^3 = 0
+Move x: Ba^3 = x^3 + Cx^2 --> Ba^3 - Cx^2 = x^3
+Move y: y^2 + D^3 = Ey^4 --> y^2 + D^3 = Ey^4
+Move z: z^5 + F = Gz^4 --> z^5 + F - Gz^4 = 0
+Move x: Hx^4 = Ix + Jx^3 --> Hx^4 - Jx^3 = Ix
+Move y: Ky^5 = Ly^2 + M --> Ky^5 - Ly^2 = M
+Move z: Nz^4 = Oz + Pz^3 --> Nz^4 - Pz^3 = Oz
+Move x: Qx^3 = Rx + Sx^5 --> Qx^3 - Rx = Sx^5
+Move y: Ty^2 = Uy^4 + V --> Ty^2 - Uy^4 = V
+Move z: Wz^3 = Xz + Yz^5 --> Wz^3 - Yz^5 = Xz
+Move x: Zx^4 = Ax + B^3 --> Zx^4 - Ax = B^3
+Move y: Cy^5 = Dy^2 + E^2 --> Cy^5 - Dy^2 = E^2
+Move z: Fz = Gz^3 + Hz^4 --> Fz - Gz^3 = Hz^4
+Move x: Ix^5 = Jx + Kx^4 --> Ix^5 - Kx^4 = Jx
+Move y: Ly^3 = My + Ny^5 --> Ly^3 - My = Ny^5
+Move z: Oz^2 = Pz + Qz^4 --> Oz^2 - Qz^4 = Pz
+Move x: Rx^4 = Sx + Tx^3 --> Rx^4 - Tx^3 = Sx
+Move y: Uy^5 = Vy^3 + W --> Uy^5 - Vy^3 = W
+Move z: Xz^4 = Yz + Zz^5 --> Xz^4 - Zz^5 = Yz
+Move x: Ax^5 = Bx + Cx^2 --> Ax^5 - Bx = Cx^2
+Move y: Dy^4 = Ey^5 + F^2 --> Dy^4 - Ey^5 = F^2
+Move z: Gz^2 = Hz^4 + Iz^3 --> Gz^2 - Hz^4 = Iz^3
+Move x: Jx^5 = Kx + Lx^4 --> Jx^5 - Lx^4 = Kx
+Move y: My^3 = Ny + Oy^5 --> My^3 - Ny = Oy^5
+Move z: Pz^4 = Qz + Rz^3 --> Pz^4 - Rz^3 = Qz
+Move x: Sx^2 = Tx + Ux^5 --> Sx^2 - Tx = Ux^5
+Move y: Vy^5 = Wy + Xy^4 --> Vy^5 - Xy^4 = Wy
+Move z: Yz^3 = Zz^5 + Az^2 --> Yz^3 - Zz^5 = Az^2
+Move x: Bx^4 = Cx + Dx^3 --> Bx^4 - Dx^3 = Cx
+Move y: Ey^2 = Fy^5 + Gy^3 --> Ey^2 - Fy^5 = Gy^3
+Move z: Hz^4 = Iz + Jz^5 --> Hz^4 - Jz^5 = Iz
+Move x: Kx^3 = Lx^2 + Mx^5 --> Kx^3 - Lx^2 = Mx^5
+Move y: Ny^4 = Oy + Py^5 --> Ny^4 - Oy = Py^5
+Move z: Qz^2 = Rz^4 + Sz^3 --> Qz^2 - Rz^4 = Sz^3
+Move x: Tx^4 = Ux + Vx^2 --> Tx^4 - Ux = Vx^2
+Move y: Wy^5 = Xy + Yy^3 --> Wy^5 - Xy = Yy^3
+Move x: Ax^2 = Bx + Cx^3 --> Ax^2 - Bx = Cx^3
+Move y: Dy^3 = Ey + Fy^4 --> Dy^3 - Ey = Fy^4
+Move z: Gz^4 = Hz + Iz^2 --> Gz^4 - Hz = Iz^2
+Move x: Jx^5 = Kx + Lx^3 --> Jx^5 - Kx = Lx^3
+Move y: My^2 = Ny + Oy^5 --> My^2 - Ny = Oy^5
+Move z: Pz^3 = Qz + Rz^4 --> Pz^3 - Qz = Rz^4
+Move x: Sx^4 = Tx + Ux^5 --> Sx^4 - Tx = Ux^5
+Move y: Vy^3 = Wy + Xy^2 --> Vy^3 - Wy = Xy^2
+Move z: Yz^5 = Zz + Az^3 --> Yz^5 - Zz = Az^3
+Move x: Bx^2 = Cx + Dx^4 --> Bx^2 - Cx = Dx^4
+Move y: Ey^4 = Fy + Gy^5 --> Ey^4 - Fy = Gy^5
+Move z: Hz^2 = Iz + Jz^3 --> Hz^2 - Iz = Jz^3
+Move x: Kx^3 = Lx + Mx^2 --> Kx^3 - Lx = Mx^2
+Move y: Ny^5 = Oy + Py^4 --> Ny^5 - Oy = Py^4
+Move z: Qz^3 = Rz + Sz^5 --> Qz^3 - Rz = Sz^5
+Move x: Tx^5 = Ux + Vx^4 --> Tx^5 - Ux = Vx^4
+Move y: Wy^2 = Xy + Yy^3 --> Wy^2 - Xy = Yy^3
+Move z: Zz^4 = Az + Bz^2 --> Zz^4 - Az = Bz^2
+Move x: Cx^2 = Dx + Ex^5 --> Cx^2 - Dx = Ex^5
+Move y: Fy^3 = Gy + Hy^2 --> Fy^3 - Gy = Hy^2
+Move z: Iz^5 = Jz + Kz^4 --> Iz^5 - Jz = Kz^4
+Move x: Lx^4 = Mx + Nx^3 --> Lx^4 - Mx = Nx^3
+Move y: Oy^5 = Py + Qy^2 --> Oy^5 - Py = Qy^2
+Move z: Rz^3 = Sz + Tz^5 --> Rz^3 - Sz = Tz^5
+Move x: Ux^2 = Vx + Wx^4 --> Ux^2 - Vx = Wx^4
+Move y: Xy^4 = Yy + Zy^5 --> Xy^4 - Yy = Zy^5
+Move z: Az^5 = Bz + Cz^3 --> Az^5 - Bz = Cz^3
+Move x: Dx^3 = Ex + Fx^2 --> Dx^3 - Ex = Fx^2
+Move y: Gy^2 = Hy + Iy^4 --> Gy^2 - Hy = Iy^4
+Move z: Jz^4 = Kz + Lz^5 --> Jz^4 - Kz = Lz^5
+Move x: Mx^5 = Nx + Ox^3 --> Mx^5 - Nx = Ox^3
+Move y: Py^3 = Qy + Ry^2 --> Py^3 - Qy = Ry^2
+Move z: Sz^2 = Tz + Uz^4 --> Sz^2 - Tz = Uz^4
+Move x: Vx^4 = Wx + Xx^5 --> Vx^4 - Wx = Xx^5
+Move y: Yy^5 = Zy + Ay^3 --> Yy^5 - Zy = Ay^3
+Move z: Bz^3 = Cz + Dz^2 --> Bz^3 - Cz = Dz^2
+Move x: Ex^5 = Fx + Gx^4 --> Ex^5 - Fx = Gx^4
+Move y: Hy^2 = Iy + Jy^3 --> Hy^2 - Iy = Jy^3
+Move z: Kz^4 = Lz + Mz^5 --> Kz^4 - Lz = Mz^5
+Move x: Nx^3 = Ox + Px^2 --> Nx^3 - Ox = Px^2
+Move y: Qy^4 = Ry + Sy^5 --> Qy^4 - Ry = Sy^5
+Move z: Tz^5 = Uz + Vz^3 --> Tz^5 - Uz = Vz^3
+Move x: Wx^2 = Xx + Yx^4 --> Wx^2 - Xx = Yx^4
+Move y: Zy^3 = Ay + Bz^5 --> Zy^3 - Ay = Bz^5
+Move z: Cz^4 = Dz + Ez^2 --> Cz^4 - Dz = Ez^2
+Move x: Fx^5 = Gx + Hx^3 --> Fx^5 - Gx = Hx^3
+Move y: Iy^2 = Jy + Ky^4 --> Iy^2 - Jy = Ky^4
+Move z: Lz^3 = Mz + Nz^5 --> Lz^3 - Mz = Nz^5
+Move x: Ox^4 = Px + Qx^2 --> Ox^4 - Px = Qx^2
+Move y: Ry^5 = Sy + Ty^3 --> Ry^5 - Sy = Ty^3
+Expand D: D(x - y - z) = A --> Dx - Dy - Dz = A
+Expand D: D(w + y) = E --> Dw + Dy = E
+Expand D: D(x - w) = A --> Dx - Dw = A
+Expand D: D(x - y - w) = A --> Dx - Dy - Dw = A
+Expand D: D(x - y - z - w) = A --> Dx - Dy - Dw - Dz = A

@@ -35,4 +35,4 @@ def train_on_new_problem(model,criterion,optimizer,epochs,model_name,problem,in_
     if train_loss == 0.0:
       break
   #torch.save(model, f'/content/gdrive/My Drive/models/{model_name}-final.pth')
-  return train_losses,response
+  return train_losses,response,it

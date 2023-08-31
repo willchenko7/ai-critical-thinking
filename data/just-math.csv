@@ -1,0 +1,649 @@
+sentence
+x + A = B --> x = B - A
+x - A = B --> x = B + A
+Ax = B --> x = B/A
+x/A = B --> x = A*B
+x**2 = A --> x = A**(1/2)
+x^(1/2) = A --> x = A^2
+y + A = B --> y = B - A
+y - A = B --> y = B + A
+Ay = B --> y = B/A
+y/A = B --> y = A*B
+y^2 = A --> y = A^(1/2)
+y^(1/2) = A --> y = A^2
+y = B + Ax --> y - B = Ax
+A = B/y --> A*y = B
+Ax + Ay = B --> A(x + y) = B
+A(x + y) = B --> x + y = B/A
+x + x = A --> 2x = A
+y + y = A --> 2y = A
+Ax - Ay = B --> A(x - y) = B
+A(x - y) = B --> x - y = B/A
+Bx + By = A --> B(x + y) = A
+x - B = A --> x = A + B
+Bx = A --> x = A/B
+x + B = A --> x = A - B
+Bx - By = A --> B(x - y) = A
+B(x - y) = A --> x - y = A/B
+z + z = A --> 2z = A
+A = B/z --> A*z = B
+x + z = A --> x = A - z
+x/z = A --> x = A*z
+z^2 = A --> z = A^(1/2)
+z^(1/2) = A --> z = A^2
+Az - Ay = B --> A(z - y) = B
+A(z - y) = B --> z - y = B/A
+Az + Ay = B --> A(z + y) = B
+A(z + y) = B --> z + y = B/A
+y + y = B --> 2y = B
+By - Bz = A --> B(y - z) = A
+B(y - z) = A --> y - z = A/B
+By + Bz = A --> B(y + z) = A
+B(y + z) = A --> y + z = A/B
+z + z = B --> 2z = B
+zx + zy = A --> z(x + y) = A
+z(x + y) = A --> zx + zy = A
+xy + xz = A --> x(y + z) = A
+x(y + z) = A --> xy + xz = A
+y = A + x --> y - A = x
+y = A - x --> y + x = A
+y = Ax --> y/x = A
+y/x = A --> y = A*x
+yz + yx = A --> y(z + x) = A
+y(z + x) = A --> yz + yx = A
+y + y = z --> 2y = z
+zx + zy = B --> z(x + y) = B
+z(x + y) = B --> zx + zy = B
+zx - zy = B --> z(x - y) = B
+z(x - y) = B --> zx - zy = B
+x = A + z --> x - A = z
+x = A - z --> x + z = A
+x + x = z --> 2x = z
+z = A/y --> z*y = A
+z = A + y --> z - A = y
+z = A - y --> z + y = A
+y = A/z --> y*z = A
+y = A + z --> y - A = z
+y = A - z --> y + z = A
+z = A/x --> z*x = A
+z = A + x --> z - A = x
+z = A - x --> z + x = A
+z + z = x --> 2z = x
+Ax + Az = B --> A(x + z) = B
+A(x + z) = B --> x + z = B/A
+x + x = y --> 2x = y
+Bx + Bz = A --> B(x + z) = A
+B(x + z) = A --> x + z = A/B
+z + z = y --> 2z = y
+zx - A = B --> zx = B + A
+zx + A = B --> zx = B - A
+zy - B = A --> zy = A + B
+zy + B = A --> zy = A - B
+zx - y = A --> zx = A + y
+zx + y = A --> zx = A - y
+y + y = x --> 2y = x
+z - A = x --> z = x + A
+z + A = x --> z = x - A
+x - B = z --> x = z + B
+x + B = z --> x = z - B
+Bz + Bx = A --> B(z + x) = A
+B(z + x) = A --> z + x = A/B
+y - x = A --> y = A + x
+y + x = A --> y = A - x
+x - z = A --> x = A + z
+z - y = A --> z = A + y
+z + y = A --> z = A - y
+y - A = z --> y = z + A
+y + A = z --> y = z - A
+z - B = y --> z = y + B
+z + B = y --> z = y - B
+Bz + By = A --> B(z + y) = A
+B(z + y) = A --> z + y = A/B
+Bx + By = A --> B(x + y) = A
+B(x + y) = A --> x + y = A/B
+Az + Ax = B --> A(z + x) = B
+A(z + x) = B --> z + x = B/A
+yx + yz = A --> y(x + z) = A
+y(x + z) = A --> yx + yz = A
+xz + xy = A --> x(z + y) = A
+x(z + y) = A --> xz + xy = A
+x + C = A --> x = A - C
+Cx = A --> x = A/C
+x - C = A --> x = A + C
+x + x = C --> 2x = C
+x/C = A --> x = A*C
+x**(1/3) = A --> x = A^3
+Cx - Cy = A --> C(x - y) = A
+C(x - y) = A --> x - y = A/C
+y - C = A --> y = A + C
+y/C = A --> y = A*C
+y + C = A --> y = A - C
+y + y = C --> 2y = C
+y**(1/3) = A --> y = A^3
+Cy - Cx = A --> C(y - x) = A
+C(y - x) = A --> y - x = A/C
+y + x = C --> y + x = C
+x = C/y --> xy = C
+Cz - Cx = A --> C(z - x) = A
+C(z - x) = A --> z - x = A/C
+Cx + Cy = A --> C(x + y) = A
+C(x + y) = A --> x + y = A/C
+z = C - x --> z = C - x
+Cy + Cz = A --> C(y + z) = A
+C(y + z) = A --> y + z = A/C
+z = C - y --> z = C - y
+Cz + Cy = A --> C(z + y) = A
+C(z + y) = A --> z + y = A/C
+Cz + Cx = B --> C(z + x) = B
+C(z + x) = B --> z + x = B/C
+y = C/x --> yx = C
+Cy + Cx = B --> C(y + x) = B
+C(y + x) = B --> y + x = B/C
+y + z = C --> y + z = C
+Cx + Cz = B --> C(x + z) = B
+C(x + z) = B --> x + z = B/C
+Cz + Cx = A --> C(z + x) = A
+C(z + x) = A --> z + x = A/C
+z + y = C --> z + y = C
+x = C/z --> xz = C
+y = C - z --> y = C - z
+Cy + Cz = B --> C(y + z) = B
+C(y + z) = B --> y + z = B/C
+Cy + Cx = A --> C(y + x) = A
+C(y + x) = A --> y + x = A/C
+Cz + Cx = B --> C(z + x) = B
+C(z + x) = B --> z + x = B/C
+Cx + Cz = A --> C(x + z) = A
+C(x + z) = A --> x + z = A/C
+Cz + Cy = B --> C(z + y) = B
+C(z + y) = B --> z + y = B/C
+Cx + Cz = A --> C(x + z) = A
+C(x + z) = A --> x + z = A/C
+Cz + Cx = A --> C(z + x) = A
+C(z + x) = A --> z + x = A/C
+Cx + Cy = B --> C(x + y) = B
+C(x + y) = B --> x + y = B/C
+Cy + Cx = A --> C(y + x) = A
+C(y + x) = A --> y + x = A/C
+Cx + Cy = B --> C(x + y) = B
+C(x + y) = B --> x + y = B/C
+Cz + Cy = A --> C(z + y) = A
+C(z + y) = A --> z + y = A/C
+Cy + Cx = B --> C(y + x) = B
+C(y + x) = B --> y + x = B/C
+Cx + Cy = A --> C(x + y) = A
+C(x + y) = A --> x + y = A/C
+Cx + Cz = B --> C(x + z) = B
+C(x + z) = B --> x + z = B/C
+w + x = D --> w + x = D
+Dw + Dx = E --> D(w + x) = E
+D(w + x) = E --> w + x = E/D
+x + z = D --> x + z = D
+Dx + Dz = E --> D(x + z) = E
+D(x + z) = E --> x + z = E/D
+w + y = D --> w + y = D
+Dw + Dy = E --> D(w + y) = E
+D(w + y) = E --> w + y = E/D
+w + z = D --> w + z = D
+Dw + Dz = F --> D(w + z) = F
+D(w + z) = F --> Dw + Dz = F
+y + z = D --> y + z = D
+Dy + Dz = F --> D(y + z) = F
+D(y + z) = F --> Dy + Dz = F
+z + w = D --> z + w = D
+Dz + Dw = F --> D(z + w) = F
+D(z + w) = F --> Dz + Dw = F
+x + y = D --> x + y = D
+Dx + Dy = E --> D(x + y) = E
+D(x + y) = E --> Dx + Dy = E
+Dw + Dz = F --> D(w + z) = F
+D(w + z) = F --> Dw + Dz = F
+y + w = D --> y + w = D
+Dy + Dw = F --> D(y + w) = F
+D(y + w) = F --> Dy + Dw = F
+z + x = D --> z + x = D
+Dz + Dx = F --> D(z + x) = F
+D(z + x) = F --> Dz + Dx = F
+Dw + Dy = E --> D(w + y) = E
+D(w + y) = E --> Dw + Dy = E
+x + w = D --> x + w = D
+Dx + Dw = E --> D(x + w) = E
+D(x + w) = E --> Dx + Dw = E
+y + x = D --> y + x = D
+Dy + Dx = F --> D(y + x) = F
+D(y + x) = F --> Dy + Dx = F
+z + y = D --> z + y = D
+Dz + Dy = F --> D(z + y) = F
+D(z + y) = F --> Dz + Dy = F
+Dx + Dz = F --> D(x + z) = F
+D(x + z) = F --> Dx + Dz = F
+A + B = Y --> A + B = Y
+AB + AC = Z --> A(B + C) = Z
+A(B + C) = Z --> AB + AC = Z
+B + C = Y --> B + C = Y
+BA + BC = Z --> B(A + C) = Z
+B(A + C) = Z --> BA + BC = Z
+C + A = Y --> C + A = Y
+CB + CA = Z --> C(B + A) = Z
+C(B + A) = Z --> CB + CA = Z
+A + C = Y --> A + C = Y
+AB + AD = Z --> A(B + D) = Z
+A(B + D) = Z --> AB + AD = Z
+B + D = Y --> B + D = Y
+BD + BA = Z --> B(D + A) = Z
+B(D + A) = Z --> BD + BA = Z
+D + A = Y --> D + A = Y
+DB + DA = Z --> D(B + A) = Z
+D(B + A) = Z --> DB + DA = Z
+AC + AD = Z --> A(C + D) = Z
+A(C + D) = Z --> AC + AD = Z
+C + D = Y --> C + D = Y
+CA + CD = Z --> C(A + D) = Z
+C(A + D) = Z --> CA + CD = Z
+D + B = Y --> D + B = Y
+DB + DC = Z --> D(B + C) = Z
+D(B + C) = Z --> DB + DC = Z
+A + D = Y --> A + D = Y
+AC + AB = Z --> A(C + B) = Z
+A(C + B) = Z --> AC + AB = Z
+B + A = Y --> B + A = Y
+BC + BD = Z --> B(C + D) = Z
+B(C + D) = Z --> BC + BD = Z
+C + B = Y --> C + B = Y
+CA + CB = Z --> C(A + B) = Z
+C(A + B) = Z --> CA + CB = Z
+D + C = Y --> D + C = Y
+DC + DA = Z --> D(C + A) = Z
+D(C + A) = Z --> DC + DA = Z
+AD + AC = Z --> A(D + C) = Z
+A(D + C) = Z --> AD + AC = Z
+BA + BD = Z --> B(A + D) = Z
+B(A + D) = Z --> BA + BD = Z
+CB + CD = Z --> C(B + D) = Z
+C(B + D) = Z --> CB + CD = Z
+DA + DC = Z --> D(A + C) = Z
+D(A + C) = Z --> DA + DC = Z
+AD + AB = Z --> A(D + B) = Z
+A(D + B) = Z --> AD + AB = Z
+BD + BC = Z --> B(D + C) = Z
+B(D + C) = Z --> BD + BC = Z
+CD + CB = Z --> C(D + B) = Z
+C(D + B) = Z --> CD + CB = Z
+DC + DB = Z --> D(C + B) = Z
+D(C + B) = Z --> DC + DB = Z
+A + E = Y --> A + E = Y
+AE + EB = Z --> E(A + B) = Z
+E(A + B) = Z --> EA + EB = Z
+B + E = Y --> B + E = Y
+EB + EC = Z --> E(B + C) = Z
+E(B + C) = Z --> EB + EC = Z
+C + E = Y --> C + E = Y
+EC + ED = Z --> E(C + D) = Z
+E(C + D) = Z --> EC + ED = Z
+D + E = Y --> D + E = Y
+ED + EA = Z --> E(D + A) = Z
+E(D + A) = Z --> ED + EA = Z
+AE + AC = Z --> A(E + C) = Z
+A(E + C) = Z --> AE + AC = Z
+BE + BA = Z --> B(E + A) = Z
+B(E + A) = Z --> BE + BA = Z
+CE + CB = Z --> C(E + B) = Z
+C(E + B) = Z --> CE + CB = Z
+DE + DC = Z --> D(E + C) = Z
+D(E + C) = Z --> DE + DC = Z
+E + A = Y --> E + A = Y
+EA + ED = Z --> E(A + D) = Z
+E(A + D) = Z --> EA + ED = Z
+AD + AE = Z --> A(D + E) = Z
+A(D + E) = Z --> AD + AE = Z
+E + B = Y --> E + B = Y
+CD + CA = Z --> C(D + A) = Z
+C(D + A) = Z --> CD + CA = Z
+DA + DB = Z --> D(A + B) = Z
+D(A + B) = Z --> DA + DB = Z
+AE + AD = Z --> A(E + D) = Z
+A(E + D) = Z --> AE + AD = Z
+BD + BE = Z --> B(D + E) = Z
+B(D + E) = Z --> BD + BE = Z
+E + C = Y --> E + C = Y
+DC + DE = Z --> D(C + E) = Z
+D(C + E) = Z --> DC + DE = Z
+AC + AE = Z --> A(C + E) = Z
+A(C + E) = Z --> AC + AE = Z
+EB + EA = Z --> E(B + A) = Z
+E(B + A) = Z --> EB + EA = Z
+CA + CE = Z --> C(A + E) = Z
+C(A + E) = Z --> CA + CE = Z
+DE + DA = Z --> D(E + A) = Z
+D(E + A) = Z --> DE + DA = Z
+A + x = B --> A = B - x
+y + D = E --> D = E - y
+z + C = A --> C = A - z
+F = G + x --> F - x = G
+H = y + I --> H - y = I
+J = K + z --> J - z = K
+x - L = M --> -L = M - x
+y - N = O --> -N = O - y
+P = z - Q --> P - z = -Q
+x + R = S --> R = S - x
+T = U + y --> T - y = U
+V + z = W --> V = W - z
+x - X = Y --> -X = Y - x
+Z = y - A --> Z - y = -A
+B = C + z --> B - z = C
+x + D = E --> D = E - x
+F = y + G --> F - y = G
+H + z = I --> H = I - z
+J - x = K --> J = K + x
+L = M + y --> L - y = M
+N = O + z --> N - z = O
+P - x = Q --> P = Q + x
+R = S + y --> R - y = S
+T + z = U --> T = U - z
+V - x = W --> V = W + x
+X = Y + y --> X - y = Y
+Z = A + z --> Z - z = A
+B + x = C --> B = C - x
+D = E + y --> D - y = E
+F + z = G --> F = G - z
+H - x = I --> H = I + x
+J = K + y --> J - y = K
+L = M + z --> L - z = M
+N - x = O --> N = O + x
+P = Q + y --> P - y = Q
+R = S + z --> R - z = S
+T + x = U --> T = U - x
+V = W + y --> V - y = W
+X = Y + z --> X - z = Y
+Z + x = A --> Z = A - x
+B = C + y --> B - y = C
+D = E + z --> D - z = E
+F + x = G --> F = G - x
+H = I + y --> H - y = I
+L - x = M --> L = M + x
+N = O + y --> N - y = O
+P = Q + z --> P - z = Q
+R + x = S --> R = S - x
+V = W + z --> V - z = W
+X - x = Y --> X = Y + x
+Z = A + y --> Z - y = A
+D + x = E --> D = E - x
+F = G + y --> F - y = G
+H = I + z --> H - z = I
+P + x = Q --> P = Q - x
+T = U + z --> T - z = U
+F = G + z --> F - z = G
+H + x = I --> H = I - x
+N + x = O --> N = O - x
+A + x^2 = B + Cx --> A - B = Cx - x^2
+y^3 + D = E + y --> y^3 + D - E = y
+z + C^2 = A^2z --> z + C^2 - A^2z = 0
+x^2 + Fx = G --> x^2 + Fx - G = 0
+Hy^3 = y + I^2 --> Hy^3 - y = I^2
+Jz = K^2 + z^2 --> Jz - z^2 = K^2
+x^3 - L = Mx --> x^3 - L - Mx = 0
+Ny^2 = O + y^3 --> Ny^2 - y^3 = O
+P^2 = z^2 - Qz --> P^2 + Qz = z^2
+x^2 + R = Sx^3 --> x^2 + R - Sx^3 = 0
+T^2y = U + y^2 --> T^2y - y^2 = U
+z^3 + V = Wz --> z^3 + V - Wz = 0
+X^2 - x^2 = Yx --> X^2 - x^2 - Yx = 0
+Zy^3 = A^2 + y^2 --> Zy^3 - y^2 = A^2
+Bz = C^3 + z^3 --> Bz - z^3 = C^3
+x^3 + D^2 = Ex --> x^3 + D^2 - Ex = 0
+Fy^2 = y^3 + G --> Fy^2 - y^3 = G
+z^2 + H = Iz^3 --> z^2 + H - Iz^3 = 0
+x^3 - J = Kx^2 --> x^3 - J - Kx^2 = 0
+L^2 = My + y^3 --> L^2 - My - y^3 = 0
+Nz^2 = O^3 + z^3 --> Nz^2 - z^3 = O^3
+Px = x^2 + Q --> Px - x^2 = Q
+Ry^3 = S + y^2 --> Ry^3 - y^2 = S
+Tz = Uz^2 + V --> Tz - Uz^2 = V
+Wx^3 = x + X^2 --> Wx^3 - x = X^2
+Yy = Zy^2 + A^2 --> Yy - Zy^2 = A^2
+z^3 + B = Cz --> z^3 + B - Cz = 0
+Dx^2 = Ex^3 + F --> Dx^2 - Ex^3 = F
+G^2 = Hy + y^3 --> G^2 - Hy - y^3 = 0
+Iz = Jz^2 + K --> Iz - Jz^2 = K
+L^3 = x + Mx^2 --> L^3 - x - Mx^2 = 0
+Ny = Oy^3 + P --> Ny - Oy^3 = P
+Qz^2 = z + R^2 --> Qz^2 - z = R^2
+Sx^3 = Tx^2 + U --> Sx^3 - Tx^2 = U
+Vy = y^2 + W^2 --> Vy - y^2 = W^2
+z^3 + X = Yz^2 --> z^3 + X - Yz^2 = 0
+Zx = Ax^2 + B^2 --> Zx - Ax^2 = B^2
+Cy^3 = Dy + E --> Cy^3 - Dy = E
+Fz = Gz^2 + H^2 --> Fz - Gz^2 = H^2
+Ix^2 = Jx^3 + K --> Ix^2 - Jx^3 = K
+Ly = My^2 + N^2 --> Ly - My^2 = N^2
+Oz^3 = P + z^2 --> Oz^3 - z^2 = P
+Qx = Rx^2 + S^2 --> Qx - Rx^2 = S^2
+Ty^3 = Uy + V --> Ty^3 - Uy = V
+Wz = Xz^3 + Y^2 --> Wz - Xz^3 = Y^2
+x^2 + Z = Ax^3 --> x^2 + Z - Ax^3 = 0
+By^2 = Cy^3 + D --> By^2 - Cy^3 = D
+Ez^3 = Fz + G^3 --> Ez^3 - Fz = G^3
+Hx^2 = x^3 + I^2 --> Hx^2 - x^3 = I^2
+Jy = Ky^3 + L --> Jy - Ky^3 = L
+M^2 = Nz^2 + z^3 --> M^2 - Nz^2 - z^3 = 0
+Ox^3 = Px^2 + Q^2 --> Ox^3 - Px^2 = Q^2
+Ry^2 = Sy^3 + T --> Ry^2 - Sy^3 = T
+Uz^3 = V + z^2 --> Uz^3 - z^2 = V
+Wx^2 = Xx + Y^3 --> Wx^2 - Xx = Y^3
+Zy = Ay^3 + B^2 --> Zy - Ay^3 = B^2
+Cz^2 = Dz^3 + E --> Cz^2 - Dz^3 = E
+Fx^3 = Gx^2 + H^2 --> Fx^3 - Gx^2 = H^2
+Iy = Jy^3 + K --> Iy - Jy^3 = K
+Lz^2 = M^3 + z^3 --> Lz^2 - z^3 = M^3
+Nx = Ox^3 + P^2 --> Nx - Ox^3 = P^2
+Qy^2 = Ry^3 + S --> Qy^2 - Ry^3 = S
+Tz^3 = Uz + V^3 --> Tz^3 - Uz = V^3
+W^2 = Xx^2 + x^3 --> W^2 - Xx^2 - x^3 = 0
+Yy^3 = Zy^2 + A^2 --> Yy^3 - Zy^2 = A^2
+B^3 = Cz + z^3 --> B^3 - Cz - z^3 = 0
+Dx^2 = Ex + Fx^3 --> Dx^2 - Ex - Fx^3 = 0
+Gy^3 = Hy + Iy^2 --> Gy^3 - Hy - Iy^2 = 0
+Jz = Kz^3 + L^3 --> Jz - Kz^3 = L^3
+Mx^3 = Nx^2 + O --> Mx^3 - Nx^2 = O
+Py = Q^2 + y^3 --> Py - y^3 = Q^2
+Rz^2 = Sz^3 + T --> Rz^2 - Sz^3 = T
+Ux = V^3 + x^3 --> Ux - x^3 = V^3
+Wy = Xy^2 + Y^2 --> Wy - Xy^2 = Y^2
+z + Z^2 = Az^3 --> z + Z^2 - Az^3 = 0
+Ba^3 = x^3 + Cx^2 --> Ba^3 - Cx^2 = x^3
+y^2 + D^3 = Ey^4 --> y^2 + D^3 = Ey^4
+z^5 + F = Gz^4 --> z^5 + F - Gz^4 = 0
+Hx^4 = Ix + Jx^3 --> Hx^4 - Jx^3 = Ix
+Ky^5 = Ly^2 + M --> Ky^5 - Ly^2 = M
+Nz^4 = Oz + Pz^3 --> Nz^4 - Pz^3 = Oz
+Qx^3 = Rx + Sx^5 --> Qx^3 - Rx = Sx^5
+Ty^2 = Uy^4 + V --> Ty^2 - Uy^4 = V
+Wz^3 = Xz + Yz^5 --> Wz^3 - Yz^5 = Xz
+Zx^4 = Ax + B^3 --> Zx^4 - Ax = B^3
+Cy^5 = Dy^2 + E^2 --> Cy^5 - Dy^2 = E^2
+Fz = Gz^3 + Hz^4 --> Fz - Gz^3 = Hz^4
+Ix^5 = Jx + Kx^4 --> Ix^5 - Kx^4 = Jx
+Ly^3 = My + Ny^5 --> Ly^3 - My = Ny^5
+Oz^2 = Pz + Qz^4 --> Oz^2 - Qz^4 = Pz
+Rx^4 = Sx + Tx^3 --> Rx^4 - Tx^3 = Sx
+Uy^5 = Vy^3 + W --> Uy^5 - Vy^3 = W
+Xz^4 = Yz + Zz^5 --> Xz^4 - Zz^5 = Yz
+Ax^5 = Bx + Cx^2 --> Ax^5 - Bx = Cx^2
+Dy^4 = Ey^5 + F^2 --> Dy^4 - Ey^5 = F^2
+Gz^2 = Hz^4 + Iz^3 --> Gz^2 - Hz^4 = Iz^3
+Jx^5 = Kx + Lx^4 --> Jx^5 - Lx^4 = Kx
+My^3 = Ny + Oy^5 --> My^3 - Ny = Oy^5
+Pz^4 = Qz + Rz^3 --> Pz^4 - Rz^3 = Qz
+Sx^2 = Tx + Ux^5 --> Sx^2 - Tx = Ux^5
+Vy^5 = Wy + Xy^4 --> Vy^5 - Xy^4 = Wy
+Yz^3 = Zz^5 + Az^2 --> Yz^3 - Zz^5 = Az^2
+Bx^4 = Cx + Dx^3 --> Bx^4 - Dx^3 = Cx
+Ey^2 = Fy^5 + Gy^3 --> Ey^2 - Fy^5 = Gy^3
+Hz^4 = Iz + Jz^5 --> Hz^4 - Jz^5 = Iz
+Kx^3 = Lx^2 + Mx^5 --> Kx^3 - Lx^2 = Mx^5
+Ny^4 = Oy + Py^5 --> Ny^4 - Oy = Py^5
+Qz^2 = Rz^4 + Sz^3 --> Qz^2 - Rz^4 = Sz^3
+Tx^4 = Ux + Vx^2 --> Tx^4 - Ux = Vx^2
+Wy^5 = Xy + Yy^3 --> Wy^5 - Xy = Yy^3
+Ax^2 = Bx + Cx^3 --> Ax^2 - Bx = Cx^3
+Dy^3 = Ey + Fy^4 --> Dy^3 - Ey = Fy^4
+Gz^4 = Hz + Iz^2 --> Gz^4 - Hz = Iz^2
+Jx^5 = Kx + Lx^3 --> Jx^5 - Kx = Lx^3
+My^2 = Ny + Oy^5 --> My^2 - Ny = Oy^5
+Pz^3 = Qz + Rz^4 --> Pz^3 - Qz = Rz^4
+Sx^4 = Tx + Ux^5 --> Sx^4 - Tx = Ux^5
+Vy^3 = Wy + Xy^2 --> Vy^3 - Wy = Xy^2
+Yz^5 = Zz + Az^3 --> Yz^5 - Zz = Az^3
+Bx^2 = Cx + Dx^4 --> Bx^2 - Cx = Dx^4
+Ey^4 = Fy + Gy^5 --> Ey^4 - Fy = Gy^5
+Hz^2 = Iz + Jz^3 --> Hz^2 - Iz = Jz^3
+Kx^3 = Lx + Mx^2 --> Kx^3 - Lx = Mx^2
+Ny^5 = Oy + Py^4 --> Ny^5 - Oy = Py^4
+Qz^3 = Rz + Sz^5 --> Qz^3 - Rz = Sz^5
+Tx^5 = Ux + Vx^4 --> Tx^5 - Ux = Vx^4
+Wy^2 = Xy + Yy^3 --> Wy^2 - Xy = Yy^3
+Zz^4 = Az + Bz^2 --> Zz^4 - Az = Bz^2
+Cx^2 = Dx + Ex^5 --> Cx^2 - Dx = Ex^5
+Fy^3 = Gy + Hy^2 --> Fy^3 - Gy = Hy^2
+Iz^5 = Jz + Kz^4 --> Iz^5 - Jz = Kz^4
+Lx^4 = Mx + Nx^3 --> Lx^4 - Mx = Nx^3
+Oy^5 = Py + Qy^2 --> Oy^5 - Py = Qy^2
+Rz^3 = Sz + Tz^5 --> Rz^3 - Sz = Tz^5
+Ux^2 = Vx + Wx^4 --> Ux^2 - Vx = Wx^4
+Xy^4 = Yy + Zy^5 --> Xy^4 - Yy = Zy^5
+Az^5 = Bz + Cz^3 --> Az^5 - Bz = Cz^3
+Dx^3 = Ex + Fx^2 --> Dx^3 - Ex = Fx^2
+Gy^2 = Hy + Iy^4 --> Gy^2 - Hy = Iy^4
+Jz^4 = Kz + Lz^5 --> Jz^4 - Kz = Lz^5
+Mx^5 = Nx + Ox^3 --> Mx^5 - Nx = Ox^3
+Py^3 = Qy + Ry^2 --> Py^3 - Qy = Ry^2
+Sz^2 = Tz + Uz^4 --> Sz^2 - Tz = Uz^4
+Vx^4 = Wx + Xx^5 --> Vx^4 - Wx = Xx^5
+Yy^5 = Zy + Ay^3 --> Yy^5 - Zy = Ay^3
+Bz^3 = Cz + Dz^2 --> Bz^3 - Cz = Dz^2
+Ex^5 = Fx + Gx^4 --> Ex^5 - Fx = Gx^4
+Hy^2 = Iy + Jy^3 --> Hy^2 - Iy = Jy^3
+Kz^4 = Lz + Mz^5 --> Kz^4 - Lz = Mz^5
+Nx^3 = Ox + Px^2 --> Nx^3 - Ox = Px^2
+Qy^4 = Ry + Sy^5 --> Qy^4 - Ry = Sy^5
+Tz^5 = Uz + Vz^3 --> Tz^5 - Uz = Vz^3
+Wx^2 = Xx + Yx^4 --> Wx^2 - Xx = Yx^4
+Zy^3 = Ay + Bz^5 --> Zy^3 - Ay = Bz^5
+Cz^4 = Dz + Ez^2 --> Cz^4 - Dz = Ez^2
+Fx^5 = Gx + Hx^3 --> Fx^5 - Gx = Hx^3
+Iy^2 = Jy + Ky^4 --> Iy^2 - Jy = Ky^4
+Lz^3 = Mz + Nz^5 --> Lz^3 - Mz = Nz^5
+Ox^4 = Px + Qx^2 --> Ox^4 - Px = Qx^2
+Ry^5 = Sy + Ty^3 --> Ry^5 - Sy = Ty^3
+D(x - y - z) = A --> Dx - Dy - Dz = A
+D(w + y) = E --> Dw + Dy = E
+D(x - w) = A --> Dx - Dw = A
+D(x - y - w) = A --> Dx - Dy - Dw = A
+D(x - y - z - w) = A --> Dx - Dy - Dw - Dz = A
+B(x - y) = A --> x - y = A/B
+A(x - y) = B --> x - y = B/A
+B(w - z) = A --> w - z = A/B
+B(y - x) = A --> y - x = A/B
+B(z - y) = A --> z - y = A/B
+A(x - z) = B --> x - z = B/A
+Q(x - y) = A --> x - y = A/Q
+Q(w - y) = A --> w - y = A/Q
+Q(x - w) = A --> x - w = A/Q
+T(x - y) = A --> x - y = A/T
+B(x + y) = A --> x + y = A/B
+A(x + y) = B --> x + y = B/A
+B(w + z) = A --> w + z = A/B
+B(y + x) = A --> y + x = A/B
+B(z + y) = A --> z + y = A/B
+A(x + z) = B --> x + z = B/A
+Q(x + y) = A --> x + y = A/Q
+Q(w + y) = A --> w + y = A/Q
+Q(x + w) = A --> x + w = A/Q
+T(x + y) = A --> x + y = A/T
+x - y = A/B --> x = A/B + y
+y - x = A/B --> y = A/B + x
+x - w = A/B --> x = A/B + w
+w - x = A/B --> w = A/B + z
+z - w = A/B --> z = A/B + w
+w - z = A/B --> w = A/B + z
+x - y = T/Q --> x = T/Q + y
+y - x = T/Q --> y = T/Q + x
+x - w = T/Q --> x = T/Q + w
+w - x = Q/T --> w = Q/T + z
+z - w = Q/T --> z = Q/T + w
+w - z = Q/T --> w = Q/T + z
+x - y = B/A --> x = B/A + y
+y - x = B/A --> y = B/A + x
+x - w = B/A --> x = B/A + w
+w - x = B/A --> w = B/A + z
+z - w = B/A --> z = B/A + w
+w - z = B/A --> w = B/A + z
+Ax + B = C --> Ax = C - B
+Ax = C - B --> x = (C - B)/A
+Dx + E = F --> Dx = F - E
+Dx = F - E --> x = (F - E)/D
+Ay + B = C --> Ay = C - B
+Ay = C - B --> y = (C - B)/A
+Dy + E = F --> Dy = F - E
+Dy = F - E --> y = (F - E)/D
+Az + B = C --> Az = C - B
+Az = C - B --> z = (C - B)/A
+Dz + E = F --> Dz = F - E
+Dz = F - E --> z = (F - E)/D
+A(x + B) = C --> Ax + AB = C
+D(x + E) = F --> Dx + ED = F
+A(y + B) = C --> Ay + AB = C
+D(y + E) = F --> Dy + ED = F
+A(w + B) = C --> Aw + AB = C
+D(w + E) = F --> Dw + ED = F
+A(x + B) + A(x + B) = C --> Ax + AB + Ax + AB = C
+D(x + E) + D(x + E) = F --> Dx + ED + Dx + ED = F
+A(y + B) + A(y + B) = C --> Ay + AB + Ay + AB = C
+D(y + E) + D(y + E) = F --> Dy + ED + Dy + ED = F
+E(Ax + F) + A(x + D) = B --> EAx + EF + Ax + AD = B
+T(Ax + F) + R(x + D) = B --> TAx + EF + Rx + AD = B
+T(Ay + F) + R(y + D) = B --> TAy + EF + Ry + AD = B
+Ax + AB + Ax + AB = C --> (A + A)x + (AB + AB) = C
+Dx + ED + Dx + ED = F --> (D + D)x + (ED + ED) = F
+Ay + AB + Ay + AB = C --> (A + A)y + (AB + AB) = C
+Dy + ED + Dy + ED = F --> (D + D)y + (ED + ED) = F
+EAx + EF + Ax + AD = B --> (EA + A)x + (EF + AD) = B
+TAx + EF + Rx + AD = B --> (TA + R)x + (EF + AD) = B
+TAy + EF + Ry + AD = B --> (TA + R)y + (EF + AD) = B
+(Ax^2)(Bx) = C --> ABx^3 = C
+(Dx^3)(Ex) = F --> DEx^4 = F
+(Ay^2)(Bx) = C --> ABy^3 = C
+(Ay)(By) = C --> ABy^2 = C
+(Az^2)(Bx) = C --> ABz^3 = C
+(Dz^3)(Ez) = F --> DEz^4 = F
+(Az^2)(Bz) = C --> ABz^3 = C
+(Az)(Bz) = C --> ABz^2 = C
+(Aw^2)(Bx) = C --> ABw^3 = C
+(Dw^3)(Ez) = F --> DEw^4 = F
+(Aw^2)(Bz) = C --> ABw^3 = C
+(Aw)(Bw) = C --> ABw^2 = C
+A/x = B/C --> A = (B/C)x
+A = (B/C)x --> A / (B/C) = x
+E/x = F/D --> E = (F/D)x
+E = (F/D)x --> E / (F/D) = x
+A/z = B/C --> A = (B/C)z
+A = (B/C)z --> A / (B/C) = z
+E/z = F/D --> E = (F/D)z
+E = (F/D)z --> E / (F/D) = z
+A/w = B/C --> A = (B/C)w
+A = (B/C)w --> A / (B/C) = w
+E/w = F/D --> E = (F/D)w
+E = (F/D)w --> E / (F/D) = w
+(Ax - B)/(Cx) = D --> (A/C) - (B/C)/x = D
+(Ax^2 - B)/(Cx) = D --> (A/C)x - (B/C)/x = D
+(Ex - F)/(Gx) = H --> (E/G) - (F/G)/x = H
+(Ex^2 - F)/(Gx) = H --> (E/G)x - (F/G)/x = H
+(Aw - B)/(Cw) = D --> (A/C) - (B/C)/w = D
+(Aw^2 - B)/(Cw) = D --> (A/C)w - (B/C)/w = D
+(Ew - F)/(Gw) = H --> (E/G) - (F/G)/w = H
+(Ew^2 - F)/(Gw) = H --> (E/G)w - (F/G)/w = H
+(Az - B)/(Cz) = D --> (A/C) - (B/C)/z = D
+(Az^2 - B)/(Cz) = D --> (A/C)z - (B/C)/z = D
+(Ez - F)/(Gz) = H --> (E/G) - (F/G)/z = H
+(Ez^2 - F)/(Gz) = H --> (E/G)z - (F/G)/z = H
+(Ax^3 - B)/(Cx^2) = D --> (A/C)x - (B/C)/x^2 = D

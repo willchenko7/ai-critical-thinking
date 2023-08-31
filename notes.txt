@@ -1,0 +1,11 @@
+next steps
+1. divise a series of increasingly difficult algebra problems that could reasoably be solved with this model
+    -i.e add more terms, switch up coefficients and varaibles, not solfing using quadratic formula, etc
+
+2. come up with basic geometry test. what can be solved already? what additional training is needed?
+
+-is it possible for the model to "jump" to pass geometry test with minimal training?
+
+-will definetley need to be trained on sin.cos.tan
+
+3. advanced algebra - how to solve using quadratic formula (or more general case, solve system of equations)

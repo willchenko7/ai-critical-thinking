@@ -16,7 +16,7 @@ Goal: test the model that you have trained on a problem outside of the training 
 
 if __name__ == '__main__':
     #give test prompt
-    problem = "Solve for x: A ( x - C ) = D -->"
+    problem = "Solve for x: Ax + B = C - D -->"
     #convert problem into generic problem
     #problem_parts = re.split(': ',problem.replace('-->',''))
     #new_formula, coeff_dict = convertFormulaWithNumbers2Coefficients(problem_parts[1])
@@ -28,11 +28,11 @@ if __name__ == '__main__':
     tokenizer_path = 'data/my_tokenizer'
     tokenizer,data_collator = loadCustomTokenizer(tokenizer_path,model_max_length=512)
     #load model
-    model = torch.load('models/basic-words-final.pth',map_location =device)
+    model = torch.load('models/sss-final.pth',map_location =device)
     #define criterion and optimizer
     criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.pad_token_id)
     optimizer = torch.optim.Adam(model.parameters())
-    for it in range(1):
+    for it in range(1000):
         response = generate(problem,model,tokenizer,device)
         response = response.replace('- - >','-->')
         response = response.replace('[CLS]','')

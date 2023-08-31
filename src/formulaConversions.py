@@ -66,7 +66,7 @@ def fillFormulaWithCoefficients(formula, coeff_dict):
 
 def fillFormulaWithCoefficients(formula, coeff_dict):
     # Identify coefficients and introduce multiplication signs between them
-    formula = re.sub(r'(?<=[A-Z])(?=[A-Z])', ' * ', formula)
+    formula = re.sub(r'(?<=[A-Za-z])(?=[A-Za-z])', ' * ', formula)
     
     # Replace multi-character coefficients
     for coeff, value in sorted(coeff_dict.items(), key=lambda x: len(x[0]), reverse=True):

@@ -65,16 +65,19 @@ def fillFormulaWithCoefficients(formula, coeff_dict):
 '''
 
 def fillFormulaWithCoefficients(formula, coeff_dict):
+    formula = formula.replace(' ','')
+    
     # Identify coefficients and introduce multiplication signs between them
     formula = re.sub(r'(?<=[A-Za-z])(?=[A-Za-z])', ' * ', formula)
     
     # Replace multi-character coefficients
     for coeff, value in sorted(coeff_dict.items(), key=lambda x: len(x[0]), reverse=True):
         formula = formula.replace(coeff, str(value))
-    
+
     return formula
 
 def simplify_formula(formula):
+    formula = formula.replace('^','**')
     try:
         # Extract variable and expression
         var, expression = formula.split('=')
@@ -95,6 +98,7 @@ def simplify_formula(formula):
         return formula
 
 if __name__ == '__main__':
+    '''
     #formula = '12x^2 + (3y - y) - (4/5)*z = 5'
     #formula = 'Ax + By - Cz = D'
     #formula = '4(x - 2) = 1'
@@ -107,3 +111,8 @@ if __name__ == '__main__':
     print(f'New2: {new_formula}')
     new_formula = simplify_formula(new_formula)
     print(new_formula)
+    '''
+    formula = 'a = 3.14 s^2'
+    new_formula, coeff_dict = convertFormulaWithNumbers2Coefficients(formula)
+    print(new_formula)
+    print(coeff_dict)

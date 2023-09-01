@@ -13,6 +13,7 @@ from encapsulate_eq import encapsulate_eq
 from load_formulas import load_formulas
 from convert2KnownProblem import convert2KnownProblem
 from isKnownFormula import isKnownFormula
+from append2csv import append2csv
 
 #synthetic solving system (sss)
 def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_try_first=True):
@@ -34,14 +35,23 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
     var = re.split(' ',words)[-1]
     eq = problem_parts[1]
     known_coeff_dict = {}
+    print(problem)
+    print(formulas)
+    print(var)
     knownFormula = isKnownFormula(problem,formulas,var)
+    #print(f'Is known? {knownFormula}')
     if knownFormula is not None:
         #convert to knownPorblem
-        problem, known_coeff_dict = convert2KnownProblem(eq,var,knownFormula)
+        print('---')
+        print(eq)
+        print(var)
+        print(knownFormula)
+        problem, known_coeff_dict, new_var = convert2KnownProblem(eq,var,knownFormula)
         print(problem)
         problem_parts = re.split(': ',problem.replace('-->',''))
         words = problem_parts[0]
-        var = re.split(' ',words)[-1]
+        #var = re.split(' ',words)[-1]
+        var = new_var
         eq = problem_parts[1]
     new_formula, coeff_dict = convertFormulaWithNumbers2Coefficients(eq)
     problem = words + ': ' + new_formula + ' -->'
@@ -49,6 +59,7 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
 
     print(problem)
     print(coeff_dict)
+    return
 
     answer = new_formula
     var_solved = check_if_var_solved(answer,var)
@@ -63,6 +74,7 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
     i = 0
     while i < 10:
         i += 1
+        b_encapsulated = False
         #generate response to problem
         #define criterion and optimizer
         criterion = nn.CrossEntropyLoss(ignore_index=tokenizer.pad_token_id)
@@ -105,6 +117,7 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
                     #couldn't figure it out. just exit
                     return answer
             elif b_encapsulate == True:
+                b_encapsulated = True
                 print(f'Original Problem: {problem}')
                 new_problem,eq_dict = encapsulate_eq(problem)
                 print(f'Encapsualted problem {new_problem}')
@@ -130,6 +143,11 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
                 print(f'Unencapsulated answer: {answer}')
                 if score != 0.0:
                     #couldn't figure it out. just exit
+                    #write down problem it couldn't figure out
+                    if b_encapsulated == True:
+                        append2csv('data/not_solved_steps.csv',[new_problem])
+                    else:
+                        append2csv('data/not_solved_steps.csv',[problem])
                     return answer
             else:
                 return answer
@@ -150,9 +168,9 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
 if __name__ == '__main__':
     #problem = 'Solve for w: ABw = D + AC -->'
     #problem = 'Solve for x: 3x + 2 = 5 -->'
-    #problem = 'Solve for perimeter: w=10;l=20 -->'
-    problem = 'Solve for w: perimeter=20;l=5'
-    solving_method = 'ea'
+    #problem = 'Solve for perimeter_of_square: s=10 -->'
+    problem = 'Solve for circumference_of_circle: diameter=10 -->'
+    solving_method = 'gumbel'
     b_train_tmp = False
     b_encapsulate = True
     b_try_first = False

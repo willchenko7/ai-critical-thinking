@@ -16,10 +16,10 @@ def take_test(test_name,solving_method='gumbel'):
         a = sss(q,solving_method,b_train_tmp,b_encapsulate,b_try_first)
         answers.append([a])
         append2csv(f'tests/{test_name}-answers.csv',[a])
-    append2csv(f'tests/{test_name}-answers-full.csv',[answers])
+    #append2csv(f'tests/{test_name}-answers-full.csv',[answers])
     return
 
 if __name__ == '__main__':
-    test_name = 'medium_algebra'
-    solving_method = 'ea'
+    test_name = 'basic-geometry'
+    solving_method = 'gumbel'
     take_test(test_name,solving_method)

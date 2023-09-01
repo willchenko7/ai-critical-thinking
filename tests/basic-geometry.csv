@@ -1,0 +1,19 @@
+sentence
+solve for perimeter_of_rectangle: w=20;l=10 -->
+solve for area_of_square: s=5 -->
+solve for volume_of_cube: s= 5 -->
+solve_for perimeter_of_triangle: a=3;b=4;c=5 -->
+solve for area_of_triangle: b=5;h=10 -->
+solve for area_of_circle: r=5 -->
+solve for circumference_of_circle: r=10 -->
+solve for volume_of_sphere: r=5 -->
+solve for volume_of_rectangular_prism: l=3;w=4;h=6 -->
+solve for w: perimeter_of_rectangle=20;l=5 -->
+solve for s: area_of_square=20 -->
+solve for s: volume_of_cube=10 -->
+solve for a: perimeter_of_triangle=12;b=4;c=5 -->
+solve for b: area_of_triangle=30;h=10 -->
+solve for r: area_of_circle=40 -->
+solve for r: circumference_of_circle=40 -->
+solve for r: volume_of_sphere=100 -->
+solve for l: volume_of_rectangular_prism=100;w=4;h=6 -->

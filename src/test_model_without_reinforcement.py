@@ -16,7 +16,7 @@ Goal: test the model that you have trained on a problem outside of the training 
 
 if __name__ == '__main__':
     #give test prompt
-    problem = "Solve for x: Ax + B = C - D -->"
+    problem = "Solve for w: p = Bl + Cw -->"
     #convert problem into generic problem
     #problem_parts = re.split(': ',problem.replace('-->',''))
     #new_formula, coeff_dict = convertFormulaWithNumbers2Coefficients(problem_parts[1])

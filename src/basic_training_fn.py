@@ -57,5 +57,5 @@ def basic_training_fn(data_path,model_name):
 
 if __name__ == '__main__':
     data_path = 'data/simple_solving_steps.csv'
-    model_name = 'sss-tmp'
+    model_name = 'sss'
     basic_training_fn(data_path,model_name)

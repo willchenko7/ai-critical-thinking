@@ -15,8 +15,8 @@ from convert2KnownProblem import convert2KnownProblem
 from isKnownFormula import isKnownFormula
 from append2csv import append2csv
 
-#synthetic solving system (sss)
-def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_try_first=True):
+#single_solving_step
+def single_solving_step(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_try_first=True):
     
     #load formulas
     formulas = load_formulas()
@@ -35,19 +35,19 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
     var = re.split(' ',words)[-1]
     eq = problem_parts[1]
     known_coeff_dict = {}
-    print(problem)
-    print(formulas)
-    print(var)
+    #print(problem)
+    #print(formulas)
+    #print(var)
     knownFormula = isKnownFormula(problem,formulas,var)
     #print(f'Is known? {knownFormula}')
     if knownFormula is not None:
         #convert to knownPorblem
         print('---')
-        print(eq)
-        print(var)
-        print(knownFormula)
+        #print(eq)
+        #print(var)
+        #print(knownFormula)
         problem, known_coeff_dict, new_var = convert2KnownProblem(eq,var,knownFormula)
-        print(problem)
+        #print(problem)
         problem_parts = re.split(': ',problem.replace('-->',''))
         words = problem_parts[0]
         #var = re.split(' ',words)[-1]
@@ -59,7 +59,7 @@ def sss(problem,solving_method='gumbel',b_train_tmp=False,b_encapsulate=False,b_
 
     print(problem)
     print(coeff_dict)
-    return
+    #return
 
     answer = new_formula
     var_solved = check_if_var_solved(answer,var)
@@ -169,12 +169,13 @@ if __name__ == '__main__':
     #problem = 'Solve for w: ABw = D + AC -->'
     #problem = 'Solve for x: 3x + 2 = 5 -->'
     #problem = 'Solve for perimeter_of_square: s=10 -->'
-    problem = 'Solve for circumference_of_circle: diameter=10 -->'
+    #problem = 'Solve for circumference_of_circle: diameter=10 -->'
+    problem = 'Solve for C: C=3 -->'
     solving_method = 'gumbel'
     b_train_tmp = False
     b_encapsulate = True
     b_try_first = False
-    answer = sss(problem,solving_method,b_train_tmp,b_encapsulate,b_try_first)
+    answer = single_solving_step(problem,solving_method,b_train_tmp,b_encapsulate,b_try_first)
     print('FINAL ANSWER')
     print(answer)
     print('----')

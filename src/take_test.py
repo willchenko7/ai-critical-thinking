@@ -2,7 +2,7 @@ from solving_system import solving_system
 from csv2lol import csv2lol
 from append2csv import append2csv
 from lol2csv import lol2csv
-from sss import sss
+from single_solving_step import single_solving_step
 
 def take_test(test_name,solving_method='gumbel'):
     questions = csv2lol(f'tests/{test_name}.csv')
@@ -13,7 +13,7 @@ def take_test(test_name,solving_method='gumbel'):
         b_train_tmp = False
         b_encapsulate = True
         b_try_first = True
-        a = sss(q,solving_method,b_train_tmp,b_encapsulate,b_try_first)
+        a = single_solving_step(q,solving_method,b_train_tmp,b_encapsulate,b_try_first)
         answers.append([a])
         append2csv(f'tests/{test_name}-answers.csv',[a])
     #append2csv(f'tests/{test_name}-answers-full.csv',[answers])
